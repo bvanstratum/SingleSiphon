@@ -1,0 +1,1245 @@
+[1786045247.766079409] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179972
+[1786045252.859587409] [watchdog] ping result: 0 | ros_connected: 1 | heap: 180020
+[1786045257.859583409] [watchdog] ping result: 0 | ros_connected: 1 | heap: 180020
+[1786045262.859581409] [watchdog] ping result: 0 | ros_connected: 1 | heap: 180020
+[1786045263.764790409] Setpoint: -10000.0 mDeg
+[1786045265.263668409] Encoder zeroed on mode switch
+[1786045265.266836409] [sync:mode_switch] round-trip 2ms | epoch=1786045265265091242 ns (1786045265.265)
+[1786045265.265957242] Sinusoid time and phase reset
+[1786045265.266905242] Control mode set to: FREQ_SWEEP
+[1786045265.760996242] teleop freq received: 0.100 Hz
+[1786045265.761716242] Computed phase shift: -0.311 rad
+[1786045267.856586242] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179756
+[1786045268.060050242] teleop freq received: 0.000 Hz
+[1786045268.060708242] Computed phase shift: 1.445 rad
+[1786045268.660248242] Encoder zeroed on mode switch
+[1786045268.663644242] [sync:mode_switch] round-trip 2ms | epoch=1786045268664779506 ns (1786045268.664)
+[1786045268.665667506] Sinusoid time and phase reset
+[1786045268.666444506] Control mode set to: POSITION
+[1786045269.105579506] Setpoint: 10000.0 mDeg
+[1786045269.362151506] Setpoint: 20000.0 mDeg
+[1786045269.560345506] Setpoint: 30000.0 mDeg
+[1786045269.677835506] Setpoint: 40000.0 mDeg
+[1786045270.178783506] Setpoint: 50000.0 mDeg
+[1786045270.208529506] Setpoint: 60000.0 mDeg
+[1786045270.241473506] Setpoint: 70000.0 mDeg
+[1786045270.268832506] Setpoint: 80000.0 mDeg
+[1786045270.299526506] Setpoint: 90000.0 mDeg
+[1786045270.329844506] Setpoint: 100000.0 mDeg
+[1786045270.361609506] Setpoint: 110000.0 mDeg
+[1786045270.390495506] Setpoint: 120000.0 mDeg
+[1786045270.420446506] Setpoint: 130000.0 mDeg
+[1786045270.449422506] Setpoint: 140000.0 mDeg
+[1786045270.479910506] Setpoint: 150000.0 mDeg
+[1786045270.509672506] Setpoint: 160000.0 mDeg
+[1786045270.544443506] Setpoint: 170000.0 mDeg
+[1786045270.574034506] Setpoint: 180000.0 mDeg
+[1786045270.600514506] Setpoint: 190000.0 mDeg
+[1786045270.629669506] Setpoint: 200000.0 mDeg
+[1786045270.665575506] Setpoint: 210000.0 mDeg
+[1786045270.690434506] Setpoint: 220000.0 mDeg
+[1786045270.722759506] Setpoint: 230000.0 mDeg
+[1786045270.751646506] Setpoint: 240000.0 mDeg
+[1786045270.781547506] Setpoint: 250000.0 mDeg
+[1786045270.812709506] Setpoint: 260000.0 mDeg
+[1786045270.843423506] Setpoint: 270000.0 mDeg
+[1786045270.871683506] Setpoint: 280000.0 mDeg
+[1786045270.901495506] Setpoint: 290000.0 mDeg
+[1786045270.931467506] Setpoint: 300000.0 mDeg
+[1786045270.964068506] Setpoint: 310000.0 mDeg
+[1786045270.992391506] Setpoint: 320000.0 mDeg
+[1786045271.023633506] Setpoint: 330000.0 mDeg
+[1786045271.476990506] Setpoint: 320000.0 mDeg
+[1786045271.977569506] Setpoint: 310000.0 mDeg
+[1786045272.006445506] Setpoint: 300000.0 mDeg
+[1786045272.037510506] Setpoint: 290000.0 mDeg
+[1786045272.068985506] Setpoint: 280000.0 mDeg
+[1786045272.101466506] Setpoint: 270000.0 mDeg
+[1786045272.127619506] Setpoint: 260000.0 mDeg
+[1786045272.160179506] Setpoint: 250000.0 mDeg
+[1786045272.189747506] Setpoint: 240000.0 mDeg
+[1786045272.224870506] Setpoint: 230000.0 mDeg
+[1786045272.264608506] Setpoint: 220000.0 mDeg
+[1786045272.281599506] Setpoint: 210000.0 mDeg
+[1786045272.310742506] Setpoint: 200000.0 mDeg
+[1786045272.341897506] Setpoint: 190000.0 mDeg
+[1786045272.371592506] Setpoint: 180000.0 mDeg
+[1786045272.401414506] Setpoint: 170000.0 mDeg
+[1786045272.430442506] Setpoint: 160000.0 mDeg
+[1786045272.462578506] Setpoint: 150000.0 mDeg
+[1786045272.492412506] Setpoint: 140000.0 mDeg
+[1786045272.522440506] Setpoint: 130000.0 mDeg
+[1786045272.554509506] Setpoint: 120000.0 mDeg
+[1786045272.585880506] Setpoint: 110000.0 mDeg
+[1786045272.610828506] Setpoint: 100000.0 mDeg
+[1786045272.640695506] Setpoint: 90000.0 mDeg
+[1786045272.671558506] Setpoint: 80000.0 mDeg
+[1786045272.700405506] Setpoint: 70000.0 mDeg
+[1786045272.730447506] Setpoint: 60000.0 mDeg
+[1786045272.759444506] Setpoint: 50000.0 mDeg
+[1786045272.792427506] Setpoint: 40000.0 mDeg
+[1786045272.822841506] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179708
+[1786045272.825806506] Setpoint: 30000.0 mDeg
+[1786045272.851797506] Setpoint: 20000.0 mDeg
+[1786045272.888456506] Setpoint: 10000.0 mDeg
+[1786045272.910754506] Setpoint: 0.0 mDeg
+[1786045272.940548506] Setpoint: -10000.0 mDeg
+[1786045272.970743506] Setpoint: -20000.0 mDeg
+[1786045273.010412506] Setpoint: -30000.0 mDeg
+[1786045273.030624506] Setpoint: -40000.0 mDeg
+[1786045273.061523506] Setpoint: -50000.0 mDeg
+[1786045273.091486506] Setpoint: -60000.0 mDeg
+[1786045273.122452506] Setpoint: -70000.0 mDeg
+[1786045273.151061506] Setpoint: -80000.0 mDeg
+[1786045273.181853506] Setpoint: -90000.0 mDeg
+[1786045273.212465506] Setpoint: -100000.0 mDeg
+[1786045273.242671506] Setpoint: -110000.0 mDeg
+[1786045273.274515506] Setpoint: -120000.0 mDeg
+[1786045273.303459506] Setpoint: -130000.0 mDeg
+[1786045273.337937506] Setpoint: -140000.0 mDeg
+[1786045273.362863506] Setpoint: -150000.0 mDeg
+[1786045273.391651506] Setpoint: -160000.0 mDeg
+[1786045273.421437506] Setpoint: -170000.0 mDeg
+[1786045273.452820506] Setpoint: -180000.0 mDeg
+[1786045273.481813506] Setpoint: -190000.0 mDeg
+[1786045273.511493506] Setpoint: -200000.0 mDeg
+[1786045273.545603506] Setpoint: -210000.0 mDeg
+[1786045273.572498506] Setpoint: -220000.0 mDeg
+[1786045273.602459506] Setpoint: -230000.0 mDeg
+[1786045276.327521506] Encoder zeroed on mode switch
+[1786045276.332684506] [sync:mode_switch] round-trip 4ms | epoch=1786045276333883152 ns (1786045276.333)
+[1786045276.334782152] Sinusoid time and phase reset
+[1786045276.335335152] Control mode set to: FREQ_SWEEP
+[1786045277.856400152] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179756
+[1786045282.856392152] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179756
+[1786045287.856404152] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179756
+[1786045292.856393152] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179756
+[1786045297.856404152] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179756
+[1786045302.856403152] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179756
+[1786045307.856395152] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179756
+[1786045312.856404152] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179756
+[1786045317.856396152] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179756
+[1786045322.856404152] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179756
+[1786045327.856404152] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179756
+[1786045332.856453152] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179708
+[1786045337.758866152] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179708
+[1786045342.856400152] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179756
+[1786045347.856396152] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179756
+[1786045352.856404152] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179756
+[1786045357.760841152] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179708
+[1786045362.856406152] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179708
+[1786045367.856401152] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179756
+[1786045372.856399152] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179756
+[1786045377.856402152] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179756
+[1786045382.856393152] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179756
+[1786045387.856406152] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179756
+[1786045392.856403152] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179756
+[1786045397.856396152] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179756
+[1786045402.856407152] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179756
+[1786045402.960086152] Encoder zeroed on mode switch
+[1786045402.963617152] [sync:mode_switch] round-trip 2ms | epoch=1786045402963325631 ns (1786045402.963)
+[1786045402.964192631] Sinusoid time and phase reset
+[1786045402.964749631] Control mode set to: POSITION
+[1786045404.781737631] Encoder zeroed on mode switch
+[1786045404.786041631] [sync:mode_switch] round-trip 3ms | epoch=1786045404787263322 ns (1786045404.787)
+[1786045404.788115322] Sinusoid time and phase reset
+[1786045404.788871322] Control mode set to: FREQ_SWEEP
+[1786045407.758285322] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179708
+[1786045412.854816322] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179756
+[1786045417.854826322] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179756
+[1786045422.854827322] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179756
+[1786045427.757271322] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179708
+[1786045432.760286322] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179708
+[1786045434.065042322] teleop freq received: 0.100 Hz
+[1786045434.065679322] Computed phase shift: -18.395 rad
+[1786045437.757340322] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179708
+[1786045442.854828322] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179756
+[1786045444.407875322] teleop freq received: 0.000 Hz
+[1786045444.408535322] Computed phase shift: 6.499 rad
+[1786045447.854830322] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179756
+[1786045452.854821322] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179756
+[1786045457.854829322] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179756
+[1786045462.854819322] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179756
+[1786045467.854830322] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179756
+[1786045472.854828322] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179756
+[1786045477.854818322] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179708
+[1786045482.854830322] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179756
+[1786045487.854826322] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179756
+[1786045492.854820322] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179756
+[1786045493.958862322] Encoder zeroed on mode switch
+[1786045493.962824322] [sync:mode_switch] round-trip 3ms | epoch=1786045493962836219 ns (1786045493.962)
+[1786045493.963751219] Sinusoid time and phase reset
+[1786045493.964482219] Control mode set to: POSITION
+[1786045494.958134219] Encoder zeroed on mode switch
+[1786045494.961575219] [sync:mode_switch] round-trip 3ms | epoch=1786045494962812796 ns (1786045494.962)
+[1786045494.963674796] Sinusoid time and phase reset
+[1786045494.964439796] Control mode set to: FREQ_SWEEP
+[1786045497.375677796] teleop freq received: 0.100 Hz
+[1786045497.376288796] Computed phase shift: -1.516 rad
+[1786045497.853583796] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179756
+[1786045502.853588796] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179756
+[1786045507.758084796] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179708
+[1786045512.853592796] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179756
+[1786045516.982083796] teleop freq received: 0.000 Hz
+[1786045516.982753796] Computed phase shift: 12.319 rad
+[1786045517.853584796] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179756
+[1786045522.853593796] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179756
+[1786045527.853581796] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179756
+[1786045532.853594796] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179756
+[1786045537.757048796] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179708
+[1786045542.756052796] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179708
+[1786045547.853593796] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179756
+[1786045552.853581796] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179756
+[1786045557.853589796] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179756
+[1786045562.853593796] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179756
+[1786045567.853583796] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179756
+[1786045572.853593796] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179756
+[1786045577.757120796] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179708
+[1786045582.853586796] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179756
+[1786045587.853589796] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179756
+[1786045592.853584796] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179756
+[1786045597.853595796] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179756
+[1786045602.853588796] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179756
+[1786045607.853583796] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179756
+[1786045612.758050796] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179708
+[1786045617.853585796] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179756
+[1786045622.757089796] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179708
+[1786045627.853590796] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179756
+[1786045632.853585796] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179756
+[1786045637.853588796] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179756
+[1786045642.853584796] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179756
+[1786045647.756063796] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179708
+[1786045652.853631796] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179756
+[1786045657.853581796] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179756
+[1786045662.757090796] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179708
+[1786045667.853586796] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179756
+[1786045672.853586796] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179756
+[1786045677.853596796] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179756
+[1786045682.757087796] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179708
+[1786045687.853588796] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179756
+[1786045692.853590796] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179756
+[1786045697.853584796] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179756
+[1786045702.853589796] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179756
+[1786045707.853593796] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179756
+[1786045712.853595796] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179756
+[1786045717.853586796] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179756
+[1786045722.853584796] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179756
+[1786045727.853596796] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179756
+[1786045732.853585796] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179756
+[1786045737.853603796] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179756
+ÿÿýßõUýT÷UuUÿUtýUPõU@ÝWAÕUÁUUÑUPU U U@Õ @                                                                   
+                  
+[unsynced t=3040ms] ESP32 micro-ROS Serial debug
+[unsynced t=3144ms] WiFi mode set
+[unsynced t=3147ms] WiFi begin
+[unsynced t=3147ms] WiFi connecting.... WiFi connected
+[unsynced t=4347ms] WiFi IP: 192.168.4.102
+[unsynced t=4348ms] currentBuffer allocated in PSRAM: 3145728 bytes
+[unsynced t=4349ms] positionBuffer allocated in PSRAM: 1048576 bytes
+[unsynced t=4349ms] desiredBuffer allocated in PSRAM: 1048576 bytes
+[unsynced t=4350ms] Encoder attached
+[unsynced t=4351ms] Motor ready
+[unsynced t=4351ms] 
+[unsynced t=4351ms] === ROS_Connect() call #1 | heap free: 200476 bytes ===
+[unsynced t=4352ms] Initializing micro-ROS...
+[unsynced t=4353ms] WiFi status before transport set: 3
+[unsynced t=5888ms] Transport set | WiFi status after: 3
+[unsynced t=5889ms] Pinging agent at 192.168.4.100:8888 ...
+[unsynced t=5889ms] Waiting for micro-ROS agent Agent found after 0 pings!
+[unsynced t=6079ms] Support initialized
+[unsynced t=6086ms] Node created
+[unsynced t=6098ms] Current sensor publisher created
+[unsynced t=6111ms] Encoder publisher created
+[unsynced t=6123ms] Velocity publisher created
+[unsynced t=6135ms] Desired position publisher created
+[unsynced t=6147ms] Current chunk publisher created
+[unsynced t=6160ms] Telemetry chunk publisher created
+[unsynced t=6171ms] Time synced publisher created
+[unsynced t=6189ms] Teleop subscriber created on topic: actuator_1/freq
+[unsynced t=6203ms] Mode subscriber created on topic: actuator_1/mode
+[unsynced t=6215ms] Setpoint subscriber created on topic: actuator_1/setpoint
+[unsynced t=6227ms] Dump trigger subscriber created on topic: actuator_1/dump_current_buffer
+[unsynced t=6243ms] Retransmit subscriber created
+[unsynced t=6243ms] Executor started
+[unsynced t=6244ms] micro_ros_spin task pinned to core 0
+[unsynced t=6244ms] micro-ROS connected | heap free: 184620 bytes
+[unsynced t=6248ms] [sync:warmup] round-trip 3ms | epoch=1786045757336522513 ns (1786045757.336)
+[unsynced t=7250ms] [sync:connect] round-trip 1000ms | epoch=1786045758342357027 ns (1786045758.342)
+[1786045758.342884027] ROS time synced | anchor: 1786045758342357027 ns
+[1786045758.343721027] control task pinned to core 1 at priority 5
+[1786045758.344444027] Setup complete!
+[1786045758.347371027] t:7.25s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:1
+[1786045758.447123027] t:7.35s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13367
+[1786045758.546783027] t:7.45s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13398
+[1786045758.647273027] t:7.55s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13420
+[1786045758.747047027] t:7.65s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13379
+[1786045758.846773027] t:7.75s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13397
+[1786045758.946783027] t:7.85s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13393
+[1786045759.047076027] t:7.95s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13423
+[1786045759.146763027] t:8.05s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13368
+[1786045759.247138027] t:8.15s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13426
+[1786045759.346398027] t:8.25s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13397
+[1786045759.446810027] t:8.35s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13492
+[1786045759.547268027] t:8.45s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13434
+[1786045759.647292027] t:8.55s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13384
+[1786045759.746759027] t:8.65s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13377
+[1786045759.846792027] t:8.75s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13432
+[1786045759.946816027] t:8.85s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13430
+[1786045760.046763027] t:8.95s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13418
+[1786045760.146814027] t:9.05s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13404
+[1786045760.246838027] t:9.15s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13418
+[1786045760.346733027] t:9.25s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13412
+[1786045760.447143027] t:9.35s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13430
+[1786045760.546695027] t:9.45s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13395
+[1786045760.646828027] t:9.55s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13439
+[1786045760.746759027] t:9.65s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13420
+[1786045760.846638027] t:9.75s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13431
+[1786045760.947282027] t:9.85s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13445
+[1786045761.046724027] t:9.95s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13379
+[1786045761.147102027] t:10.05s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13433
+[1786045761.247130027] t:10.15s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13352
+[1786045761.346642027] t:10.25s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13401
+[1786045761.446670027] t:10.35s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13443
+[1786045761.546804027] t:10.45s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13442
+[1786045761.647188027] t:10.55s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13423
+[1786045761.746789027] t:10.65s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13391
+[1786045761.847123027] t:10.75s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13431
+[1786045761.946827027] t:10.85s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13398
+[1786045762.047195027] t:10.95s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13419
+[1786045762.146755027] t:11.05s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13369
+[1786045762.246666027] t:11.15s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13418
+[1786045762.338588027] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179844
+[1786045762.347190027] t:11.25s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:12665
+[1786045762.446822027] t:11.35s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13330
+[1786045762.546781027] t:11.45s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13411
+[1786045762.646585027] t:11.55s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13415
+[1786045762.747128027] t:11.65s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13440
+[1786045762.846732027] t:11.75s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13399
+[1786045762.947261027] t:11.85s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13428
+[1786045763.047188027] t:11.95s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13378
+[1786045763.147105027] t:12.05s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13373
+[1786045763.246771027] t:12.15s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13392
+[1786045763.347287027] t:12.25s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13427
+[1786045763.446779027] t:12.35s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13340
+[1786045763.546532027] t:12.45s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13427
+[1786045763.646415027] t:12.55s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13461
+[1786045763.747395027] t:12.65s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13483
+[1786045763.847123027] t:12.75s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13363
+[1786045763.946779027] t:12.85s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13403
+[1786045764.046613027] t:12.95s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13426
+[1786045764.146761027] t:13.05s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13442
+[1786045764.246839027] t:13.15s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13420
+[1786045764.346655027] t:13.25s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13418
+[1786045764.447091027] t:13.35s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13443
+[1786045764.546839027] t:13.45s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13401
+[1786045764.646886027] t:13.55s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13378
+[1786045764.747164027] t:13.65s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13402
+[1786045764.847243027] t:13.75s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13398
+[1786045764.946670027] t:13.85s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13384
+[1786045765.047228027] t:13.95s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13439
+[1786045765.147106027] t:14.05s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13383
+[1786045765.247216027] t:14.15s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13376
+[1786045765.346867027] t:14.25s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13381
+[1786045765.446691027] t:14.35s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13410
+[1786045765.546781027] t:14.45s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13434
+[1786045765.646762027] t:14.55s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13413
+[1786045765.747184027] t:14.65s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13401
+[1786045765.847309027] t:14.75s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13394
+[1786045765.946860027] t:14.85s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13372
+[1786045766.046625027] t:14.95s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13417
+[1786045766.147179027] t:15.05s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13433
+[1786045766.247130027] t:15.15s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13383
+[1786045766.347330027] t:15.25s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13394
+[1786045766.446717027] t:15.35s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13366
+[1786045766.547307027] t:15.45s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13431
+[1786045766.646796027] t:15.55s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13366
+[1786045766.747149027] t:15.65s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13415
+[1786045766.846879027] t:15.75s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13363
+[1786045766.946834027] t:15.85s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13404
+[1786045767.047221027] t:15.95s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13415
+[1786045767.146858027] t:16.05s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13381
+[1786045767.246786027] t:16.15s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13391
+[1786045767.435130027] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179844
+[1786045767.438449027] t:16.34s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:12029
+[1786045767.537824027] t:16.44s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13292
+[1786045767.638141027] t:16.55s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13351
+[1786045767.738134027] t:16.65s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13330
+[1786045767.837746027] t:16.75s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13354
+[1786045767.937816027] t:16.84s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13375
+[1786045768.038225027] t:16.94s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13321
+[1786045768.137630027] t:17.05s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13330
+[1786045768.238155027] t:17.15s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13380
+[1786045768.338133027] t:17.25s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13348
+[1786045768.437769027] t:17.34s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13354
+[1786045768.537621027] t:17.44s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13364
+[1786045768.638111027] t:17.55s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13366
+[1786045768.737829027] t:17.65s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13357
+[1786045768.837787027] t:17.75s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13350
+[1786045768.938190027] t:17.84s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13359
+[1786045769.037653027] t:17.94s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13346
+[1786045769.138109027] t:18.05s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13336
+[1786045769.238135027] t:18.15s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13350
+[1786045769.337637027] t:18.25s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13352
+[1786045769.437636027] t:18.34s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13387
+[1786045769.537824027] t:18.44s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13391
+[1786045769.637748027] t:18.55s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13356
+[1786045769.737860027] t:18.65s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13353
+[1786045769.838201027] t:18.75s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13356
+[1786045769.937705027] t:18.84s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13344
+[1786045770.037848027] t:18.94s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13372
+[1786045770.138587027] t:19.05s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13341
+[1786045770.237821027] t:19.15s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13212
+[1786045770.337619027] t:19.25s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13345
+[1786045770.438227027] t:19.34s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13373
+[1786045770.537840027] t:19.44s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13314
+[1786045770.637707027] t:19.55s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13363
+[1786045770.737657027] t:19.65s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13360
+[1786045770.837759027] t:19.75s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13371
+[1786045770.937663027] t:19.84s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13354
+[1786045771.037781027] t:19.94s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13372
+[1786045771.137838027] t:20.05s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13350
+[1786045771.237629027] t:20.15s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13353
+[1786045771.338217027] t:20.25s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13351
+[1786045771.437593027] t:20.34s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13336
+[1786045771.537655027] t:20.44s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13380
+[1786045771.639105027] t:20.55s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13368
+[1786045771.737470027] t:20.65s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13228
+[1786045771.838263027] t:20.75s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13367
+[1786045771.938373027] t:20.84s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13267
+[1786045772.037823027] t:20.94s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13244
+[1786045772.137829027] t:21.05s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13294
+[1786045772.238197027] t:21.15s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13300
+[1786045772.435129027] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179892
+[1786045772.438661027] t:21.34s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13144
+[1786045772.537824027] t:21.44s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13232
+[1786045772.637783027] t:21.55s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13332
+[1786045772.737836027] t:21.65s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13338
+[1786045772.837782027] t:21.75s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13332
+[1786045772.937716027] t:21.84s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13349
+[1786045773.037784027] t:21.94s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13378
+[1786045773.137780027] t:22.05s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13357
+[1786045773.238091027] t:22.15s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13366
+[1786045773.337856027] t:22.25s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13344
+[1786045773.438149027] t:22.34s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13323
+[1786045773.537789027] t:22.44s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13340
+[1786045773.638120027] t:22.55s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13346
+[1786045773.737730027] t:22.65s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13336
+[1786045773.838186027] t:22.75s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13373
+[1786045773.937863027] t:22.84s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13322
+[1786045774.038138027] t:22.94s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13357
+[1786045774.137861027] t:23.05s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13329
+[1786045774.238138027] t:23.15s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13347
+[1786045774.338240027] t:23.25s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13307
+[1786045774.437797027] t:23.34s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13288
+[1786045774.537853027] t:23.44s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13275
+[1786045774.637852027] t:23.55s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13315
+[1786045774.737783027] t:23.65s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13294
+[1786045774.837678027] t:23.75s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13362
+[1786045774.937735027] t:23.84s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13354
+[1786045775.037887027] t:23.94s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13362
+[1786045775.137803027] t:24.05s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13341
+[1786045775.238336027] t:24.15s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13337
+[1786045775.337823027] t:24.25s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13293
+[1786045775.437820027] t:24.34s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13346
+[1786045775.537855027] t:24.44s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13356
+[1786045775.637824027] t:24.55s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13304
+[1786045775.738246027] t:24.65s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13350
+[1786045775.837661027] t:24.75s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13312
+[1786045775.938122027] t:24.84s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13385
+[1786045776.037743027] t:24.94s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13336
+[1786045776.138385027] t:25.05s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13380
+[1786045776.237770027] t:25.15s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13291
+[1786045776.337840027] t:25.25s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13379
+[1786045776.437648027] t:25.34s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13352
+[1786045776.537781027] t:25.44s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13381
+[1786045776.637858027] t:25.55s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13367
+[1786045776.737812027] t:25.65s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13352
+[1786045776.838152027] t:25.75s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13333
+[1786045776.937815027] t:25.84s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13322
+[1786045777.037799027] t:25.94s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13366
+[1786045777.137702027] t:26.05s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13356
+[1786045777.237634027] t:26.15s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13378
+[1786045777.435128027] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179892
+[1786045777.438793027] t:26.34s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13237
+[1786045777.537886027] t:26.44s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13199
+[1786045777.638068027] t:26.55s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13319
+[1786045777.737576027] t:26.65s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13321
+[1786045777.837699027] t:26.75s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13377
+[1786045777.937657027] t:26.84s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13351
+[1786045778.037773027] t:26.94s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13387
+[1786045778.138201027] t:27.05s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13342
+[1786045778.237859027] t:27.15s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13328
+[1786045778.337883027] t:27.25s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13351
+[1786045778.437669027] t:27.34s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13347
+[1786045778.538156027] t:27.44s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13362
+[1786045778.638153027] t:27.55s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13331
+[1786045778.738195027] t:27.65s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13322
+[1786045778.838313027] t:27.75s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13315
+[1786045778.938140027] t:27.84s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13302
+[1786045779.037804027] t:27.94s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13306
+[1786045779.138190027] t:28.05s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13361
+[1786045779.238176027] t:28.15s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13321
+[1786045779.338167027] t:28.25s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13328
+[1786045779.438189027] t:28.34s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13321
+[1786045779.538028027] t:28.44s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13316
+[1786045779.638177027] t:28.55s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13322
+[1786045779.738248027] t:28.65s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13332
+[1786045779.838102027] t:28.75s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13320
+[1786045779.937789027] t:28.84s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13341
+[1786045780.038194027] t:28.94s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13363
+[1786045780.138211027] t:29.05s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13287
+[1786045780.237764027] t:29.15s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13330
+[1786045780.337821027] t:29.25s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13365
+[1786045780.437795027] t:29.34s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13375
+[1786045780.537810027] t:29.44s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13371
+[1786045780.637882027] t:29.55s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13356
+[1786045780.737873027] t:29.65s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13347
+[1786045780.838158027] t:29.75s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13352
+[1786045780.937750027] t:29.84s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13335
+[1786045781.037852027] t:29.94s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13375
+[1786045781.138097027] t:30.05s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13359
+[1786045781.237864027] t:30.15s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13343
+[1786045781.337885027] t:30.25s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13309
+[1786045781.438192027] t:30.34s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13356
+[1786045781.537653027] t:30.44s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13337
+[1786045781.638079027] t:30.55s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13374
+[1786045781.738246027] t:30.65s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13356
+[1786045781.838261027] t:30.75s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13320
+[1786045781.938139027] t:30.84s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13315
+[1786045782.037659027] t:30.94s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13325
+[1786045782.137838027] t:31.05s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13374
+[1786045782.237706027] t:31.15s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13350
+[1786045782.435130027] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179892
+[1786045782.438539027] t:31.34s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13271
+[1786045782.537761027] t:31.44s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13332
+[1786045782.637747027] t:31.55s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13431
+[1786045782.737644027] t:31.65s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13422
+[1786045782.837871027] t:31.75s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13446
+[1786045782.937671027] t:31.84s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13411
+[1786045783.037774027] t:31.94s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13430
+[1786045783.137826027] t:32.04s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13412
+[1786045783.237892027] t:32.15s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13402
+[1786045783.337697027] t:32.24s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13399
+[1786045783.437574027] t:32.35s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13431
+[1786045783.537891027] t:32.44s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13421
+[1786045783.637646027] t:32.54s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13398
+[1786045783.738259027] t:32.65s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13434
+[1786045783.838346027] t:32.74s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13374
+[1786045783.937810027] t:32.85s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13356
+[1786045784.038130027] t:32.94s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13412
+[1786045784.137775027] t:33.04s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13384
+[1786045784.237837027] t:33.15s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13414
+[1786045784.338161027] t:33.24s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13408
+[1786045784.437432027] t:33.35s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13397
+[1786045784.537546027] t:33.44s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13477
+[1786045784.638214027] t:33.54s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13459
+[1786045784.737831027] t:33.65s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13361
+[1786045784.838235027] t:33.74s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13417
+[1786045784.937846027] t:33.85s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13380
+[1786045785.037874027] t:33.94s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13422
+[1786045785.138226027] t:34.04s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13410
+[1786045785.237844027] t:34.15s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13372
+[1786045785.338144027] t:34.24s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13405
+[1786045785.437774027] t:34.35s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13401
+[1786045785.537636027] t:34.44s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13427
+[1786045785.637825027] t:34.54s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13440
+[1786045785.738173027] t:34.65s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13423
+[1786045785.837748027] t:34.74s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13369
+[1786045785.938310027] t:34.85s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13424
+[1786045786.037806027] t:34.94s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13372
+[1786045786.138070027] t:35.04s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13423
+[1786045786.237801027] t:35.15s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13395
+[1786045786.337892027] t:35.24s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13427
+[1786045786.437622027] t:35.35s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13402
+[1786045786.537868027] t:35.44s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13449
+[1786045786.638216027] t:35.54s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13405
+[1786045786.738146027] t:35.65s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13389
+[1786045786.837849027] t:35.74s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13397
+[1786045786.937626027] t:35.85s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13385
+[1786045787.037849027] t:35.94s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13456
+[1786045787.138153027] t:36.04s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13411
+[1786045787.237892027] t:36.15s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13388
+[1786045787.435127027] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179892
+[1786045787.438372027] t:36.35s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13264
+[1786045787.538203027] t:36.44s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13344
+[1786045787.637877027] t:36.54s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13378
+[1786045787.737802027] t:36.65s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13408
+[1786045787.837727027] t:36.74s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13416
+[1786045787.938155027] t:36.85s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13427
+[1786045788.037820027] t:36.94s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13348
+[1786045788.138247027] t:37.04s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13406
+[1786045788.237888027] t:37.15s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13375
+[1786045788.338175027] t:37.24s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13394
+[1786045788.438330027] t:37.35s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13376
+[1786045788.537819027] t:37.44s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13362
+[1786045788.637751027] t:37.54s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13411
+[1786045788.738380027] t:37.65s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13424
+[1786045788.837746027] t:37.74s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13357
+[1786045788.938144027] t:37.85s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13435
+[1786045789.038095027] t:37.94s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13404
+[1786045789.138100027] t:38.04s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13376
+[1786045789.237753027] t:38.15s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13395
+[1786045789.337856027] t:38.24s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13431
+[1786045789.437778027] t:38.35s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13412
+[1786045789.537888027] t:38.44s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13420
+[1786045789.637815027] t:38.54s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13410
+[1786045789.738121027] t:38.65s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13423
+[1786045789.837833027] t:38.74s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13402
+[1786045789.938198027] t:38.85s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13413
+[1786045790.037691027] t:38.94s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13391
+[1786045790.137891027] t:39.04s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13430
+[1786045790.237762027] t:39.15s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13380
+[1786045790.338200027] t:39.24s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13414
+[1786045790.437840027] t:39.35s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13380
+[1786045790.538160027] t:39.44s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13407
+[1786045790.638213027] t:39.54s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13385
+[1786045790.737689027] t:39.65s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13392
+[1786045790.837665027] t:39.74s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13442
+[1786045790.938114027] t:39.85s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13440
+[1786045791.038167027] t:39.94s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13404
+[1786045791.138140027] t:40.04s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13396
+[1786045791.237681027] t:40.15s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13396
+[1786045791.337875027] t:40.24s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13399
+[1786045791.438185027] t:40.35s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13389
+[1786045791.538153027] t:40.44s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13388
+[1786045791.638192027] t:40.54s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13390
+[1786045791.737805027] t:40.65s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13386
+[1786045791.837889027] t:40.74s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13422
+[1786045791.938140027] t:40.85s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13405
+[1786045792.038193027] t:40.94s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13384
+[1786045792.137746027] t:41.04s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13384
+[1786045792.237858027] t:41.15s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13411
+[1786045792.337623027] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179844
+[1786045792.340537027] t:41.25s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13274
+[1786045792.440807027] t:41.35s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13437
+[1786045792.540651027] t:41.45s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13418
+[1786045792.641074027] t:41.55s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13370
+[1786045792.741088027] t:41.65s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13364
+[1786045792.840799027] t:41.75s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13362
+[1786045792.940503027] t:41.85s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13377
+[1786045793.040629027] t:41.95s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13433
+[1786045793.141654027] t:42.05s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13435
+[1786045793.240722027] t:42.15s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13289
+[1786045793.341277027] t:42.25s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13411
+[1786045793.440691027] t:42.35s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13349
+[1786045793.541213027] t:42.45s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13374
+[1786045793.640864027] t:42.55s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13374
+[1786045793.740641027] t:42.65s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13386
+[1786045793.841129027] t:42.75s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13400
+[1786045793.941280027] t:42.85s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13393
+[1786045794.040647027] t:42.95s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13377
+[1786045794.140820027] t:43.05s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13445
+[1786045794.240815027] t:43.15s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13410
+[1786045794.340734027] t:43.25s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13420
+[1786045794.440816027] t:43.35s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13431
+[1786045794.540714027] t:43.45s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13424
+[1786045794.641136027] t:43.55s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13406
+[1786045794.740764027] t:43.65s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13402
+[1786045794.841256027] t:43.75s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13429
+[1786045794.940616027] t:43.85s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13384
+[1786045795.041211027] t:43.95s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13449
+[1786045795.140739027] t:44.05s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13387
+[1786045795.241178027] t:44.15s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13420
+[1786045795.340633027] t:44.25s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13393
+[1786045795.441151027] t:44.35s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13441
+[1786045795.541083027] t:44.45s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13398
+[1786045795.640826027] t:44.55s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13403
+[1786045795.740838027] t:44.65s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13389
+[1786045795.840614027] t:44.75s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13420
+[1786045795.940885027] t:44.85s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13445
+[1786045796.041309027] t:44.95s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13405
+[1786045796.140769027] t:45.05s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13361
+[1786045796.241129027] t:45.15s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13416
+[1786045796.341400027] t:45.25s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13394
+[1786045796.440729027] t:45.35s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13331
+[1786045796.540761027] t:45.45s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13426
+[1786045796.641147027] t:45.55s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13416
+[1786045796.740611027] t:45.65s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13386
+[1786045796.840882027] t:45.75s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13406
+[1786045796.940825027] t:45.85s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13406
+[1786045797.040720027] t:45.95s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13414
+[1786045797.140859027] t:46.05s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13428
+[1786045797.241126027] t:46.15s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13401
+[1786045797.339595027] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179844
+[1786045797.342878027] t:46.25s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:12836
+[1786045797.442402027] t:46.35s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13383
+[1786045797.542376027] t:46.45s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13477
+[1786045797.643236027] t:46.55s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13490
+[1786045797.743167027] t:46.65s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13388
+[1786045797.843371027] t:46.75s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13403
+[1786045797.942624027] t:46.85s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13341
+[1786045797.958264027] teleop freq received: 0.100 Hz
+[1786045797.958879027] Computed phase shift: -29.448 rad
+[1786045798.043241027] t:46.95s enc:298.9 des:251.0 err:-47.9 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13328
+[1786045798.143260027] t:47.05s enc:298.9 des:1194.4 err:895.5 cur:43 cmd:8 | pub:1ms ret:0 lp:13339
+[1786045798.243303027] t:47.15s enc:298.9 des:2847.0 err:2548.2 cur:79 cmd:25 | pub:1ms ret:0 lp:13343
+[1786045798.342798027] t:47.25s enc:298.9 des:5198.9 err:4900.0 cur:107 cmd:49 | pub:0ms ret:0 lp:13341
+[1786045798.442729027] t:47.35s enc:298.9 des:8229.3 err:7930.5 cur:68 cmd:79 | pub:0ms ret:0 lp:13383
+[1786045798.543236027] t:47.45s enc:298.9 des:11983.6 err:11684.7 cur:63 cmd:116 | pub:1ms ret:0 lp:13393
+[1786045798.643135027] t:47.55s enc:298.9 des:16342.9 err:16044.0 cur:98 cmd:160 | pub:0ms ret:0 lp:13325
+[1786045798.743215027] t:47.65s enc:298.9 des:21353.8 err:21055.0 cur:103 cmd:210 | pub:0ms ret:0 lp:13348
+[1786045798.842729027] t:47.75s enc:298.9 des:27007.1 err:26708.2 cur:0 cmd:255 | pub:0ms ret:0 lp:13346
+[1786045798.943133027] t:47.85s enc:298.9 des:33262.4 err:32963.5 cur:0 cmd:255 | pub:0ms ret:0 lp:13382
+[1786045799.043252027] t:47.95s enc:298.9 des:40162.7 err:39863.8 cur:0 cmd:255 | pub:1ms ret:0 lp:13347
+[1786045799.143230027] t:48.05s enc:298.9 des:47511.2 err:47212.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13300
+[1786045799.243309027] t:48.15s enc:298.9 des:55470.1 err:55171.2 cur:0 cmd:255 | pub:1ms ret:0 lp:13333
+[1786045799.343279027] t:48.25s enc:298.9 des:63827.2 err:63528.3 cur:0 cmd:255 | pub:0ms ret:0 lp:13320
+[1786045799.443176027] t:48.35s enc:298.9 des:72653.1 err:72354.2 cur:0 cmd:255 | pub:0ms ret:0 lp:13333
+[1786045799.542726027] t:48.45s enc:298.9 des:81945.9 err:81647.0 cur:0 cmd:255 | pub:0ms ret:0 lp:13353
+[1786045799.643250027] t:48.55s enc:298.9 des:91648.6 err:91349.7 cur:0 cmd:255 | pub:0ms ret:0 lp:13383
+[1786045799.743164027] t:48.65s enc:298.9 des:101669.9 err:101371.0 cur:0 cmd:255 | pub:0ms ret:0 lp:13339
+[1786045799.842799027] t:48.75s enc:298.9 des:111965.9 err:111667.0 cur:0 cmd:255 | pub:0ms ret:0 lp:13349
+[1786045799.942848027] t:48.85s enc:298.9 des:122560.6 err:122261.7 cur:0 cmd:255 | pub:0ms ret:0 lp:13379
+[1786045800.043208027] t:48.95s enc:298.9 des:133391.0 err:133092.1 cur:0 cmd:255 | pub:0ms ret:0 lp:13371
+[1786045800.143147027] t:49.05s enc:298.9 des:144490.6 err:144191.7 cur:0 cmd:255 | pub:1ms ret:0 lp:13296
+[1786045800.243231027] t:49.15s enc:298.9 des:155583.8 err:155284.9 cur:0 cmd:255 | pub:1ms ret:0 lp:13329
+[1786045800.343476027] t:49.25s enc:298.9 des:166830.5 err:166531.6 cur:0 cmd:255 | pub:1ms ret:0 lp:13316
+[1786045800.443440027] t:49.35s enc:298.9 des:178127.9 err:177829.0 cur:0 cmd:255 | pub:1ms ret:0 lp:13285
+[1786045800.543415027] t:49.45s enc:298.9 des:189433.1 err:189134.2 cur:0 cmd:255 | pub:1ms ret:0 lp:13290
+[1786045800.643352027] t:49.55s enc:298.9 des:200701.5 err:200402.6 cur:0 cmd:255 | pub:1ms ret:0 lp:13290
+[1786045800.742720027] t:49.65s enc:298.9 des:211847.5 err:211548.6 cur:0 cmd:255 | pub:0ms ret:0 lp:13302
+[1786045800.843281027] t:49.75s enc:298.9 des:222907.2 err:222608.3 cur:0 cmd:255 | pub:1ms ret:0 lp:13371
+[1786045800.942840027] t:49.85s enc:298.9 des:233803.3 err:233504.5 cur:0 cmd:255 | pub:0ms ret:0 lp:13321
+[1786045801.043259027] t:49.95s enc:298.9 des:244576.8 err:244277.9 cur:0 cmd:255 | pub:1ms ret:0 lp:13364
+[1786045801.143586027] t:50.05s enc:298.9 des:254942.2 err:254643.4 cur:0 cmd:255 | pub:1ms ret:0 lp:13309
+[1786045801.243245027] t:50.15s enc:298.9 des:265052.9 err:264754.0 cur:0 cmd:255 | pub:0ms ret:0 lp:13235
+[1786045801.342854027] t:50.25s enc:298.9 des:274863.1 err:274564.2 cur:0 cmd:255 | pub:0ms ret:0 lp:13329
+[1786045801.443394027] t:50.35s enc:298.9 des:284281.0 err:283982.1 cur:0 cmd:255 | pub:1ms ret:0 lp:13355
+[1786045801.543367027] t:50.45s enc:298.9 des:293287.5 err:292988.6 cur:0 cmd:255 | pub:1ms ret:0 lp:13302
+[1786045801.643581027] t:50.55s enc:298.9 des:301847.2 err:301548.2 cur:0 cmd:255 | pub:1ms ret:0 lp:13298
+[1786045801.742800027] t:50.65s enc:298.9 des:309925.7 err:309626.8 cur:0 cmd:255 | pub:0ms ret:0 lp:13267
+[1786045801.780004027] Encoder zeroed on mode switch
+[1786045801.784094027] [sync:mode_switch] round-trip 3ms | epoch=1786045801778796369 ns (1786045801.778)
+[1786045801.779702369] Sinusoid time and phase reset
+[1786045801.780449369] Control mode set to: POSITION
+[1786045801.836217369] t:50.75s enc:0.0 des:0.0 err:0.0 cur:0 cmd:0 | pub:0ms ret:0 lp:13204
+[1786045801.936688369] t:50.85s enc:0.0 des:0.0 err:0.0 cur:0 cmd:0 | pub:0ms ret:0 lp:13462
+[1786045802.036571369] t:50.95s enc:0.0 des:0.0 err:0.0 cur:0 cmd:0 | pub:1ms ret:0 lp:13424
+[1786045802.136316369] t:51.05s enc:0.0 des:0.0 err:0.0 cur:0 cmd:0 | pub:0ms ret:0 lp:13422
+[1786045802.236238369] t:51.15s enc:0.0 des:0.0 err:0.0 cur:0 cmd:0 | pub:0ms ret:0 lp:13436
+[1786045802.428582369] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179484
+[1786045802.431969369] t:51.35s enc:0.0 des:0.0 err:0.0 cur:0 cmd:0 | pub:0ms ret:0 lp:12614
+[1786045802.531144369] t:51.44s enc:0.0 des:0.0 err:0.0 cur:0 cmd:0 | pub:0ms ret:0 lp:13334
+[1786045802.631142369] t:51.54s enc:0.0 des:0.0 err:0.0 cur:0 cmd:0 | pub:0ms ret:0 lp:13433
+[1786045802.731196369] t:51.65s enc:0.0 des:0.0 err:0.0 cur:0 cmd:0 | pub:0ms ret:0 lp:13449
+[1786045802.744680369] Setpoint: 10000.0 mDeg
+[1786045802.831271369] t:51.74s enc:0.0 des:10000.0 err:10000.0 cur:4095 cmd:100 | pub:0ms ret:0 lp:13361
+[1786045802.931310369] t:51.85s enc:0.0 des:10000.0 err:10000.0 cur:48 cmd:100 | pub:0ms ret:0 lp:13252
+[1786045803.031292369] t:51.94s enc:0.0 des:10000.0 err:10000.0 cur:55 cmd:100 | pub:0ms ret:0 lp:13300
+[1786045803.131650369] t:52.04s enc:0.0 des:10000.0 err:10000.0 cur:59 cmd:100 | pub:1ms ret:0 lp:13424
+[1786045803.173663369] Setpoint: 20000.0 mDeg
+[1786045803.231657369] t:52.15s enc:0.0 des:20000.0 err:20000.0 cur:68 cmd:200 | pub:1ms ret:0 lp:13240
+[1786045803.331265369] t:52.24s enc:0.0 des:20000.0 err:20000.0 cur:63 cmd:200 | pub:0ms ret:0 lp:13219
+[1786045803.344927369] Setpoint: 30000.0 mDeg
+[1786045803.431563369] t:52.35s enc:0.0 des:30000.0 err:30000.0 cur:0 cmd:255 | pub:0ms ret:0 lp:13283
+[1786045803.531199369] t:52.44s enc:0.0 des:30000.0 err:30000.0 cur:0 cmd:255 | pub:0ms ret:0 lp:13362
+[1786045803.534334369] Setpoint: 40000.0 mDeg
+[1786045803.631560369] t:52.54s enc:0.0 des:40000.0 err:40000.0 cur:0 cmd:255 | pub:0ms ret:0 lp:13336
+[1786045803.686685369] Setpoint: 50000.0 mDeg
+[1786045803.731303369] t:52.65s enc:0.0 des:50000.0 err:50000.0 cur:0 cmd:255 | pub:0ms ret:0 lp:13322
+[1786045803.831639369] t:52.74s enc:0.0 des:50000.0 err:50000.0 cur:0 cmd:255 | pub:0ms ret:0 lp:13377
+[1786045803.845877369] Setpoint: 60000.0 mDeg
+[1786045803.931639369] t:52.85s enc:0.0 des:60000.0 err:60000.0 cur:0 cmd:255 | pub:0ms ret:0 lp:13347
+[1786045804.031168369] t:52.94s enc:0.0 des:60000.0 err:60000.0 cur:0 cmd:255 | pub:0ms ret:0 lp:13311
+[1786045804.033686369] Setpoint: 70000.0 mDeg
+[1786045804.131518369] t:53.04s enc:0.0 des:70000.0 err:70000.0 cur:0 cmd:255 | pub:0ms ret:0 lp:13327
+[1786045804.161034369] Setpoint: 80000.0 mDeg
+[1786045804.231226369] t:53.15s enc:0.0 des:80000.0 err:80000.0 cur:0 cmd:255 | pub:0ms ret:0 lp:13330
+[1786045804.331861369] t:53.24s enc:0.0 des:80000.0 err:80000.0 cur:0 cmd:255 | pub:0ms ret:0 lp:13380
+[1786045804.333359369] Setpoint: 90000.0 mDeg
+[1786045804.431238369] t:53.35s enc:0.0 des:90000.0 err:90000.0 cur:0 cmd:255 | pub:0ms ret:0 lp:13273
+[1786045804.477914369] Setpoint: 100000.0 mDeg
+[1786045804.531232369] t:53.44s enc:0.0 des:100000.0 err:100000.0 cur:0 cmd:255 | pub:0ms ret:0 lp:13351
+[1786045804.631306369] t:53.54s enc:0.0 des:100000.0 err:100000.0 cur:0 cmd:255 | pub:0ms ret:0 lp:13372
+[1786045804.642918369] Setpoint: 110000.0 mDeg
+[1786045804.731166369] t:53.65s enc:0.0 des:110000.0 err:110000.0 cur:0 cmd:255 | pub:0ms ret:0 lp:13329
+[1786045804.831648369] t:53.74s enc:0.0 des:110000.0 err:110000.0 cur:0 cmd:255 | pub:1ms ret:0 lp:13376
+[1786045804.931644369] t:53.85s enc:0.0 des:110000.0 err:110000.0 cur:0 cmd:255 | pub:0ms ret:0 lp:13324
+[1786045805.031747369] t:53.94s enc:0.0 des:110000.0 err:110000.0 cur:0 cmd:255 | pub:1ms ret:0 lp:13337
+[1786045805.131588369] t:54.04s enc:0.0 des:110000.0 err:110000.0 cur:0 cmd:255 | pub:0ms ret:0 lp:13277
+[1786045805.157877369] Setpoint: 100000.0 mDeg
+[1786045805.231586369] t:54.15s enc:0.0 des:100000.0 err:100000.0 cur:0 cmd:255 | pub:0ms ret:0 lp:13316
+[1786045805.331258369] t:54.24s enc:0.0 des:100000.0 err:100000.0 cur:0 cmd:255 | pub:0ms ret:0 lp:13360
+[1786045805.431725369] t:54.35s enc:0.0 des:100000.0 err:100000.0 cur:0 cmd:255 | pub:1ms ret:0 lp:13385
+[1786045805.531536369] t:54.44s enc:0.0 des:100000.0 err:100000.0 cur:0 cmd:255 | pub:0ms ret:0 lp:13341
+[1786045805.631741369] t:54.54s enc:0.0 des:100000.0 err:100000.0 cur:0 cmd:255 | pub:1ms ret:0 lp:13373
+[1786045805.658651369] Setpoint: 90000.0 mDeg
+[1786045805.689562369] Setpoint: 80000.0 mDeg
+[1786045805.717863369] Setpoint: 70000.0 mDeg
+[1786045805.731576369] t:54.65s enc:0.0 des:70000.0 err:70000.0 cur:0 cmd:255 | pub:0ms ret:0 lp:13227
+[1786045805.748614369] Setpoint: 60000.0 mDeg
+[1786045805.780551369] Setpoint: 50000.0 mDeg
+[1786045805.809801369] Setpoint: 40000.0 mDeg
+[1786045805.830864369] t:54.74s enc:0.0 des:40000.0 err:40000.0 cur:0 cmd:255 | pub:0ms ret:0 lp:13243
+[1786045805.843701369] Setpoint: 30000.0 mDeg
+[1786045805.869566369] Setpoint: 20000.0 mDeg
+[1786045805.904593369] Setpoint: 10000.0 mDeg
+[1786045805.931416369] Setpoint: 0.0 mDeg
+[1786045805.932043369] t:54.85s enc:0.0 des:0.0 err:0.0 cur:-17 cmd:-0 | pub:0ms ret:0 lp:13288
+[1786045805.961645369] Setpoint: -10000.0 mDeg
+[1786045805.990769369] Setpoint: -20000.0 mDeg
+[1786045806.021578369] Setpoint: -30000.0 mDeg
+[1786045806.031836369] t:54.94s enc:-16140.3 des:-30000.0 err:-13859.7 cur:-683 cmd:-138 | pub:1ms ret:0 lp:13180
+[1786045806.050108369] Setpoint: -40000.0 mDeg
+[1786045806.081543369] Setpoint: -50000.0 mDeg
+[1786045806.112774369] Setpoint: -60000.0 mDeg
+[1786045806.131326369] t:55.04s enc:-52007.6 des:-60000.0 err:-7992.4 cur:-542 cmd:-79 | pub:0ms ret:0 lp:13122
+[1786045806.142126369] Setpoint: -70000.0 mDeg
+[1786045806.172566369] Setpoint: -80000.0 mDeg
+[1786045806.204571369] Setpoint: -90000.0 mDeg
+[1786045806.230920369] t:55.15s enc:-84288.1 des:-90000.0 err:-5711.9 cur:-36 cmd:-57 | pub:0ms ret:0 lp:13219
+[1786045806.232988369] Setpoint: -100000.0 mDeg
+[1786045806.263693369] Setpoint: -110000.0 mDeg
+[1786045806.293557369] Setpoint: -120000.0 mDeg
+[1786045806.322573369] Setpoint: -130000.0 mDeg
+[1786045806.331317369] t:55.24s enc:-118362.1 des:-130000.0 err:-11637.9 cur:-87 cmd:-116 | pub:0ms ret:0 lp:13239
+[1786045806.354718369] Setpoint: -140000.0 mDeg
+[1786045806.431737369] t:55.35s enc:-139882.4 des:-140000.0 err:-117.6 cur:-0 cmd:-1 | pub:1ms ret:0 lp:13258
+[1786045806.531710369] t:55.44s enc:-139882.4 des:-140000.0 err:-117.6 cur:-0 cmd:-1 | pub:0ms ret:0 lp:13317
+[1786045806.631790369] t:55.54s enc:-139882.4 des:-140000.0 err:-117.6 cur:-0 cmd:-1 | pub:1ms ret:0 lp:13308
+[1786045806.731835369] t:55.65s enc:-139882.4 des:-140000.0 err:-117.6 cur:-0 cmd:-1 | pub:1ms ret:0 lp:13309
+[1786045806.831647369] t:55.74s enc:-139882.4 des:-140000.0 err:-117.6 cur:-0 cmd:-1 | pub:1ms ret:0 lp:13308
+[1786045806.931549369] t:55.85s enc:-139882.4 des:-140000.0 err:-117.6 cur:-0 cmd:-1 | pub:0ms ret:0 lp:13327
+[1786045807.031578369] t:55.94s enc:-139882.4 des:-140000.0 err:-117.6 cur:-0 cmd:-1 | pub:0ms ret:0 lp:13364
+[1786045807.131223369] t:56.04s enc:-139882.4 des:-140000.0 err:-117.6 cur:-0 cmd:-1 | pub:0ms ret:0 lp:13355
+[1786045807.231898369] t:56.15s enc:-139882.4 des:-140000.0 err:-117.6 cur:-0 cmd:-1 | pub:0ms ret:0 lp:13375
+[1786045807.233640369] Setpoint: -130000.0 mDeg
+[1786045807.333024369] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179436
+[1786045807.336219369] t:56.25s enc:-139882.4 des:-130000.0 err:9882.4 cur:68 cmd:98 | pub:0ms ret:0 lp:13084
+[1786045807.436694369] t:56.35s enc:-139882.4 des:-130000.0 err:9882.4 cur:47 cmd:98 | pub:1ms ret:0 lp:13379
+[1786045807.536603369] t:56.45s enc:-139882.4 des:-130000.0 err:9882.4 cur:458 cmd:98 | pub:0ms ret:0 lp:13376
+[1786045807.636584369] t:56.55s enc:-139882.4 des:-130000.0 err:9882.4 cur:51 cmd:98 | pub:0ms ret:0 lp:13386
+[1786045807.693972369] Setpoint: -120000.0 mDeg
+[1786045807.725603369] Setpoint: -110000.0 mDeg
+[1786045807.736585369] t:56.65s enc:-139882.4 des:-110000.0 err:29882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13311
+[1786045807.755673369] Setpoint: -100000.0 mDeg
+[1786045807.785742369] Setpoint: -90000.0 mDeg
+[1786045807.815557369] Setpoint: -80000.0 mDeg
+[1786045807.835868369] t:56.75s enc:-139882.4 des:-80000.0 err:59882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13255
+[1786045807.845779369] Setpoint: -70000.0 mDeg
+[1786045807.880596369] Setpoint: -60000.0 mDeg
+[1786045807.907719369] Setpoint: -50000.0 mDeg
+[1786045807.935909369] t:56.85s enc:-139882.4 des:-50000.0 err:89882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13363
+[1786045807.940332369] Setpoint: -40000.0 mDeg
+[1786045807.967781369] Setpoint: -30000.0 mDeg
+[1786045807.997617369] Setpoint: -20000.0 mDeg
+[1786045808.028882369] Setpoint: -10000.0 mDeg
+[1786045808.035941369] t:56.95s enc:-139882.4 des:-10000.0 err:129882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13290
+[1786045808.059925369] Setpoint: 0.0 mDeg
+[1786045808.087875369] Setpoint: 10000.0 mDeg
+[1786045808.118058369] Setpoint: 20000.0 mDeg
+[1786045808.136339369] t:57.05s enc:-139882.4 des:20000.0 err:159882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13349
+[1786045808.148668369] Setpoint: 30000.0 mDeg
+[1786045808.181905369] Setpoint: 40000.0 mDeg
+[1786045808.209604369] Setpoint: 50000.0 mDeg
+[1786045808.236556369] t:57.15s enc:-139882.4 des:50000.0 err:189882.4 cur:0 cmd:255 | pub:1ms ret:0 lp:13295
+[1786045808.243748369] Setpoint: 60000.0 mDeg
+[1786045808.271786369] Setpoint: 70000.0 mDeg
+[1786045808.299653369] Setpoint: 80000.0 mDeg
+[1786045808.328725369] Setpoint: 90000.0 mDeg
+[1786045808.335985369] t:57.25s enc:-139882.4 des:90000.0 err:229882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13215
+[1786045808.362694369] Setpoint: 100000.0 mDeg
+[1786045808.393687369] Setpoint: 110000.0 mDeg
+[1786045808.422588369] Setpoint: 120000.0 mDeg
+[1786045808.436253369] t:57.35s enc:-139882.4 des:120000.0 err:259882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13314
+[1786045808.453062369] Setpoint: 130000.0 mDeg
+[1786045808.481508369] Setpoint: 140000.0 mDeg
+[1786045808.512625369] Setpoint: 150000.0 mDeg
+[1786045808.536251369] t:57.45s enc:-139882.4 des:150000.0 err:289882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13311
+[1786045808.543791369] Setpoint: 160000.0 mDeg
+[1786045808.570790369] Setpoint: 170000.0 mDeg
+[1786045808.602624369] Setpoint: 180000.0 mDeg
+[1786045808.631555369] Setpoint: 190000.0 mDeg
+[1786045808.636675369] t:57.55s enc:-139882.4 des:190000.0 err:329882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13264
+[1786045808.665986369] Setpoint: 200000.0 mDeg
+[1786045808.692823369] Setpoint: 210000.0 mDeg
+[1786045808.723622369] Setpoint: 220000.0 mDeg
+[1786045808.736599369] t:57.65s enc:-139882.4 des:220000.0 err:359882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13271
+[1786045808.757651369] Setpoint: 230000.0 mDeg
+[1786045808.782529369] Setpoint: 240000.0 mDeg
+[1786045808.814596369] Setpoint: 250000.0 mDeg
+[1786045808.836253369] t:57.75s enc:-139882.4 des:250000.0 err:389882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13275
+[1786045808.843643369] Setpoint: 260000.0 mDeg
+[1786045808.871560369] Setpoint: 270000.0 mDeg
+[1786045808.905046369] Setpoint: 280000.0 mDeg
+[1786045808.934028369] Setpoint: 290000.0 mDeg
+[1786045808.936791369] t:57.85s enc:-139882.4 des:290000.0 err:429882.4 cur:0 cmd:255 | pub:1ms ret:0 lp:13285
+[1786045808.962670369] Setpoint: 300000.0 mDeg
+[1786045808.994523369] Setpoint: 310000.0 mDeg
+[1786045809.023640369] Setpoint: 320000.0 mDeg
+[1786045809.036566369] t:57.95s enc:-139882.4 des:320000.0 err:459882.4 cur:0 cmd:255 | pub:1ms ret:0 lp:13250
+[1786045809.069637369] Setpoint: 330000.0 mDeg
+[1786045809.085554369] Setpoint: 340000.0 mDeg
+[1786045809.113614369] Setpoint: 350000.0 mDeg
+[1786045809.136267369] t:58.05s enc:-139882.4 des:350000.0 err:489882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13265
+[1786045809.143657369] Setpoint: 360000.0 mDeg
+[1786045809.173535369] Setpoint: 370000.0 mDeg
+[1786045809.206143369] Setpoint: 380000.0 mDeg
+[1786045809.235536369] Setpoint: 390000.0 mDeg
+[1786045809.237066369] t:58.15s enc:-139882.4 des:390000.0 err:529882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13302
+[1786045809.269658369] Setpoint: 400000.0 mDeg
+[1786045809.295637369] Setpoint: 410000.0 mDeg
+[1786045809.323632369] Setpoint: 420000.0 mDeg
+[1786045809.336283369] t:58.25s enc:-139882.4 des:420000.0 err:559882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13173
+[1786045809.355662369] Setpoint: 430000.0 mDeg
+[1786045809.387545369] Setpoint: 440000.0 mDeg
+[1786045809.416658369] Setpoint: 450000.0 mDeg
+[1786045809.436556369] t:58.35s enc:-139882.4 des:450000.0 err:589882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13298
+[1786045809.444042369] Setpoint: 460000.0 mDeg
+[1786045809.474828369] Setpoint: 470000.0 mDeg
+[1786045809.504561369] Setpoint: 480000.0 mDeg
+[1786045809.536040369] t:58.45s enc:-139882.4 des:480000.0 err:619882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13269
+[1786045809.538714369] Setpoint: 490000.0 mDeg
+[1786045809.565525369] Setpoint: 500000.0 mDeg
+[1786045809.595821369] Setpoint: 510000.0 mDeg
+[1786045809.626102369] Setpoint: 520000.0 mDeg
+[1786045809.636631369] t:58.55s enc:-139882.4 des:520000.0 err:659882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13299
+[1786045809.736699369] t:58.65s enc:-139882.4 des:520000.0 err:659882.4 cur:0 cmd:255 | pub:1ms ret:0 lp:13378
+[1786045809.836762369] t:58.75s enc:-139882.4 des:520000.0 err:659882.4 cur:0 cmd:255 | pub:1ms ret:0 lp:13355
+[1786045809.936518369] t:58.85s enc:-139882.4 des:520000.0 err:659882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13359
+[1786045810.036620369] t:58.95s enc:-139882.4 des:520000.0 err:659882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13390
+[1786045810.136670369] t:59.05s enc:-139882.4 des:520000.0 err:659882.4 cur:0 cmd:255 | pub:1ms ret:0 lp:13371
+[1786045810.236712369] t:59.15s enc:-139882.4 des:520000.0 err:659882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13361
+[1786045810.249624369] Setpoint: 510000.0 mDeg
+[1786045810.336052369] t:59.25s enc:-139882.4 des:510000.0 err:649882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13268
+[1786045810.436683369] t:59.35s enc:-139882.4 des:510000.0 err:649882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13390
+[1786045810.537056369] t:59.45s enc:-139882.4 des:510000.0 err:649882.4 cur:0 cmd:255 | pub:1ms ret:0 lp:13377
+[1786045810.636306369] t:59.55s enc:-139882.4 des:510000.0 err:649882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13306
+[1786045810.736253369] t:59.65s enc:-139882.4 des:510000.0 err:649882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13391
+[1786045810.836641369] t:59.75s enc:-139882.4 des:510000.0 err:649882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13388
+[1786045810.838831369] Setpoint: 500000.0 mDeg
+[1786045810.936579369] t:59.85s enc:-139882.4 des:500000.0 err:639882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13324
+[1786045811.036231369] t:59.95s enc:-139882.4 des:500000.0 err:639882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13389
+[1786045811.046928369] Setpoint: 490000.0 mDeg
+[1786045811.136574369] t:60.05s enc:-139882.4 des:490000.0 err:629882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13347
+[1786045811.236162369] t:60.15s enc:-139882.4 des:490000.0 err:629882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13377
+[1786045811.238842369] Setpoint: 480000.0 mDeg
+[1786045811.336630369] t:60.25s enc:-139882.4 des:480000.0 err:619882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13341
+[1786045811.436649369] t:60.35s enc:-139882.4 des:480000.0 err:619882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13358
+[1786045811.440001369] Setpoint: 470000.0 mDeg
+[1786045811.536619369] t:60.45s enc:-139882.4 des:470000.0 err:609882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13297
+[1786045811.563660369] Setpoint: 460000.0 mDeg
+[1786045811.636698369] t:60.55s enc:-139882.4 des:460000.0 err:599882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13306
+[1786045811.736598369] t:60.65s enc:-139882.4 des:460000.0 err:599882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13352
+[1786045811.740617369] Setpoint: 450000.0 mDeg
+[1786045811.836604369] t:60.75s enc:-139882.4 des:450000.0 err:589882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13335
+[1786045811.936345369] t:60.85s enc:-139882.4 des:450000.0 err:589882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13365
+[1786045811.938211369] Setpoint: 440000.0 mDeg
+[1786045812.036566369] t:60.95s enc:-139882.4 des:440000.0 err:579882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13327
+[1786045812.136309369] t:61.05s enc:-139882.4 des:440000.0 err:579882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13381
+[1786045812.236335369] t:61.15s enc:-139882.4 des:440000.0 err:579882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13377
+[1786045812.428578369] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179484
+[1786045812.432200369] t:61.35s enc:-139882.4 des:440000.0 err:579882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:12560
+[1786045812.433985369] Setpoint: 430000.0 mDeg
+[1786045812.436618369] Setpoint: 420000.0 mDeg
+[1786045812.467965369] Setpoint: 410000.0 mDeg
+[1786045812.497646369] Setpoint: 400000.0 mDeg
+[1786045812.528532369] Setpoint: 390000.0 mDeg
+[1786045812.531246369] t:61.44s enc:-139882.4 des:390000.0 err:529882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13039
+[1786045812.558838369] Setpoint: 380000.0 mDeg
+[1786045812.588906369] Setpoint: 370000.0 mDeg
+[1786045812.619613369] Setpoint: 360000.0 mDeg
+[1786045812.631340369] t:61.54s enc:-139882.4 des:360000.0 err:499882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13297
+[1786045812.648645369] Setpoint: 350000.0 mDeg
+[1786045812.679540369] Setpoint: 340000.0 mDeg
+[1786045812.709639369] Setpoint: 330000.0 mDeg
+[1786045812.731200369] t:61.65s enc:-139882.4 des:330000.0 err:469882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13292
+[1786045812.738730369] Setpoint: 320000.0 mDeg
+[1786045812.772923369] Setpoint: 310000.0 mDeg
+[1786045812.802615369] Setpoint: 300000.0 mDeg
+[1786045812.831688369] t:61.74s enc:-139882.4 des:300000.0 err:439882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13320
+[1786045812.833417369] Setpoint: 290000.0 mDeg
+[1786045812.858648369] Setpoint: 280000.0 mDeg
+[1786045812.889844369] Setpoint: 270000.0 mDeg
+[1786045812.926622369] Setpoint: 260000.0 mDeg
+[1786045812.931164369] t:61.85s enc:-139882.4 des:260000.0 err:399882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13212
+[1786045812.948960369] Setpoint: 250000.0 mDeg
+[1786045812.980539369] Setpoint: 240000.0 mDeg
+[1786045813.008906369] Setpoint: 230000.0 mDeg
+[1786045813.030970369] t:61.94s enc:-139882.4 des:230000.0 err:369882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13327
+[1786045813.040677369] Setpoint: 220000.0 mDeg
+[1786045813.075571369] Setpoint: 210000.0 mDeg
+[1786045813.100642369] Setpoint: 200000.0 mDeg
+[1786045813.131553369] t:62.04s enc:-139882.4 des:200000.0 err:339882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13329
+[1786045813.138018369] Setpoint: 190000.0 mDeg
+[1786045813.162614369] Setpoint: 180000.0 mDeg
+[1786045813.190929369] Setpoint: 170000.0 mDeg
+[1786045813.219738369] Setpoint: 160000.0 mDeg
+[1786045813.231061369] t:62.15s enc:-139882.4 des:160000.0 err:299882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13246
+[1786045813.252901369] Setpoint: 150000.0 mDeg
+[1786045813.280548369] Setpoint: 140000.0 mDeg
+[1786045813.309631369] Setpoint: 130000.0 mDeg
+[1786045813.331233369] t:62.24s enc:-139882.4 des:130000.0 err:269882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13320
+[1786045813.342673369] Setpoint: 120000.0 mDeg
+[1786045813.370593369] Setpoint: 110000.0 mDeg
+[1786045813.400937369] Setpoint: 100000.0 mDeg
+[1786045813.431830369] t:62.35s enc:-139882.4 des:100000.0 err:239882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13313
+[1786045813.433538369] Setpoint: 90000.0 mDeg
+[1786045813.462520369] Setpoint: 80000.0 mDeg
+[1786045813.495607369] Setpoint: 70000.0 mDeg
+[1786045813.524632369] Setpoint: 60000.0 mDeg
+[1786045813.531291369] t:62.44s enc:-139882.4 des:60000.0 err:199882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13189
+[1786045813.553629369] Setpoint: 50000.0 mDeg
+[1786045813.581548369] Setpoint: 40000.0 mDeg
+[1786045813.611617369] Setpoint: 30000.0 mDeg
+[1786045813.631558369] t:62.54s enc:-139882.4 des:30000.0 err:169882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13272
+[1786045813.644599369] Setpoint: 20000.0 mDeg
+[1786045813.673540369] Setpoint: 10000.0 mDeg
+[1786045813.702711369] Setpoint: 0.0 mDeg
+[1786045813.731302369] t:62.65s enc:-139882.4 des:0.0 err:139882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13269
+[1786045813.735636369] Setpoint: -10000.0 mDeg
+[1786045813.762540369] Setpoint: -20000.0 mDeg
+[1786045813.831589369] t:62.74s enc:-139882.4 des:-20000.0 err:119882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13265
+[1786045813.931636369] t:62.85s enc:-139882.4 des:-20000.0 err:119882.4 cur:0 cmd:255 | pub:1ms ret:0 lp:13378
+[1786045814.031240369] t:62.94s enc:-139882.4 des:-20000.0 err:119882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13336
+[1786045814.131605369] t:63.04s enc:-139882.4 des:-20000.0 err:119882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13380
+[1786045814.231771369] t:63.15s enc:-139882.4 des:-20000.0 err:119882.4 cur:0 cmd:255 | pub:1ms ret:0 lp:13347
+[1786045814.331972369] t:63.24s enc:-139882.4 des:-20000.0 err:119882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13356
+[1786045814.431626369] t:63.35s enc:-139882.4 des:-20000.0 err:119882.4 cur:0 cmd:255 | pub:1ms ret:0 lp:13303
+[1786045814.531678369] t:63.44s enc:-139882.4 des:-20000.0 err:119882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13338
+[1786045814.631328369] t:63.54s enc:-139882.4 des:-20000.0 err:119882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13354
+[1786045814.731672369] t:63.65s enc:-139882.4 des:-20000.0 err:119882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13377
+[1786045814.831615369] t:63.74s enc:-139882.4 des:-20000.0 err:119882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13360
+[1786045814.931558369] t:63.85s enc:-139882.4 des:-20000.0 err:119882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13368
+[1786045815.031580369] t:63.94s enc:-139882.4 des:-20000.0 err:119882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13399
+[1786045815.065026369] Setpoint: -10000.0 mDeg
+[1786045815.131207369] t:64.04s enc:-139882.4 des:-10000.0 err:129882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13323
+[1786045815.231207369] t:64.14s enc:-139882.4 des:-10000.0 err:129882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13411
+[1786045815.258633369] Setpoint: 0.0 mDeg
+[1786045815.331172369] t:64.25s enc:-139882.4 des:0.0 err:139882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13372
+[1786045815.431207369] t:64.35s enc:-139882.4 des:0.0 err:139882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13438
+[1786045815.531254369] t:64.44s enc:-139882.4 des:0.0 err:139882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13421
+[1786045815.631247369] t:64.54s enc:-139882.4 des:0.0 err:139882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13378
+[1786045815.731338369] t:64.64s enc:-139882.4 des:0.0 err:139882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13424
+[1786045815.831228369] t:64.75s enc:-139882.4 des:0.0 err:139882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13411
+[1786045815.931249369] t:64.85s enc:-139882.4 des:0.0 err:139882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13427
+[1786045816.031649369] t:64.94s enc:-139882.4 des:0.0 err:139882.4 cur:0 cmd:255 | pub:1ms ret:0 lp:13424
+[1786045816.131201369] t:65.04s enc:-139882.4 des:0.0 err:139882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13384
+[1786045816.231288369] t:65.14s enc:-139882.4 des:0.0 err:139882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13394
+[1786045816.331200369] t:65.25s enc:-139882.4 des:0.0 err:139882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13418
+[1786045816.431567369] t:65.35s enc:-139882.4 des:0.0 err:139882.4 cur:0 cmd:255 | pub:1ms ret:0 lp:13435
+[1786045816.531338369] t:65.44s enc:-139882.4 des:0.0 err:139882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13394
+[1786045816.631264369] t:65.54s enc:-139882.4 des:0.0 err:139882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13428
+[1786045816.731220369] t:65.64s enc:-139882.4 des:0.0 err:139882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13527
+[1786045816.831608369] t:65.75s enc:-139882.4 des:0.0 err:139882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13536
+[1786045816.931648369] t:65.85s enc:-139882.4 des:0.0 err:139882.4 cur:0 cmd:255 | pub:1ms ret:0 lp:13452
+[1786045817.031600369] t:65.94s enc:-139882.4 des:0.0 err:139882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13379
+[1786045817.131657369] t:66.04s enc:-139882.4 des:0.0 err:139882.4 cur:0 cmd:255 | pub:1ms ret:0 lp:13393
+[1786045817.231304369] t:66.14s enc:-139882.4 des:0.0 err:139882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13369
+[1786045817.332034369] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179436
+[1786045817.335229369] t:66.25s enc:-139882.4 des:0.0 err:139882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13251
+[1786045817.435825369] t:66.35s enc:-139882.4 des:0.0 err:139882.4 cur:0 cmd:255 | pub:1ms ret:0 lp:13428
+[1786045817.535092369] t:66.45s enc:-139882.4 des:0.0 err:139882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13358
+[1786045817.635205369] t:66.55s enc:-139882.4 des:0.0 err:139882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13439
+[1786045817.735298369] t:66.65s enc:-139882.4 des:0.0 err:139882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13428
+[1786045817.835589369] t:66.75s enc:-139882.4 des:0.0 err:139882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13415
+[1786045817.935726369] t:66.85s enc:-139882.4 des:0.0 err:139882.4 cur:0 cmd:255 | pub:1ms ret:0 lp:13396
+[1786045818.035606369] t:66.95s enc:-139882.4 des:0.0 err:139882.4 cur:0 cmd:255 | pub:1ms ret:0 lp:13376
+[1786045818.135705369] t:67.05s enc:-139882.4 des:0.0 err:139882.4 cur:0 cmd:255 | pub:1ms ret:0 lp:13382
+[1786045818.235756369] t:67.15s enc:-139882.4 des:0.0 err:139882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13369
+[1786045818.335532369] t:67.25s enc:-139882.4 des:0.0 err:139882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13372
+[1786045818.435305369] t:67.35s enc:-139882.4 des:0.0 err:139882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13384
+[1786045818.535582369] t:67.45s enc:-139882.4 des:0.0 err:139882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13414
+[1786045818.635758369] t:67.55s enc:-139882.4 des:0.0 err:139882.4 cur:0 cmd:255 | pub:1ms ret:0 lp:13395
+[1786045818.735565369] t:67.65s enc:-139882.4 des:0.0 err:139882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13371
+[1786045818.835011369] t:67.75s enc:-139882.4 des:0.0 err:139882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13406
+[1786045818.935908369] t:67.85s enc:-139882.4 des:0.0 err:139882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13466
+[1786045819.035120369] t:67.95s enc:-139882.4 des:0.0 err:139882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13346
+[1786045819.135589369] t:68.05s enc:-139882.4 des:0.0 err:139882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13434
+[1786045819.235571369] t:68.15s enc:-139882.4 des:0.0 err:139882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13394
+[1786045819.335563369] t:68.25s enc:-139882.4 des:0.0 err:139882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13404
+[1786045819.435619369] t:68.35s enc:-139882.4 des:0.0 err:139882.4 cur:0 cmd:255 | pub:1ms ret:0 lp:13401
+[1786045819.535575369] t:68.45s enc:-139882.4 des:0.0 err:139882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13388
+[1786045819.635606369] t:68.55s enc:-139882.4 des:0.0 err:139882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13380
+[1786045819.735183369] t:68.65s enc:-139882.4 des:0.0 err:139882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13400
+[1786045819.835676369] t:68.75s enc:-139882.4 des:0.0 err:139882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13435
+[1786045819.935593369] t:68.85s enc:-139882.4 des:0.0 err:139882.4 cur:0 cmd:255 | pub:1ms ret:0 lp:13392
+[1786045820.035181369] t:68.95s enc:-139882.4 des:0.0 err:139882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13392
+[1786045820.135306369] t:69.05s enc:-139882.4 des:0.0 err:139882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13428
+[1786045820.235601369] t:69.15s enc:-139882.4 des:0.0 err:139882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13404
+[1786045820.335583369] t:69.25s enc:-139882.4 des:0.0 err:139882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13398
+[1786045820.435585369] t:69.35s enc:-139882.4 des:0.0 err:139882.4 cur:0 cmd:255 | pub:1ms ret:0 lp:13405
+[1786045820.535161369] t:69.45s enc:-139882.4 des:0.0 err:139882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13394
+[1786045820.635715369] t:69.55s enc:-139882.4 des:0.0 err:139882.4 cur:0 cmd:255 | pub:1ms ret:0 lp:13435
+[1786045820.735184369] t:69.65s enc:-139882.4 des:0.0 err:139882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13348
+[1786045820.835552369] t:69.75s enc:-139882.4 des:0.0 err:139882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13425
+[1786045820.935707369] t:69.85s enc:-139882.4 des:0.0 err:139882.4 cur:0 cmd:255 | pub:1ms ret:0 lp:13404
+[1786045821.035168369] t:69.95s enc:-139882.4 des:0.0 err:139882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13386
+[1786045821.135644369] t:70.05s enc:-139882.4 des:0.0 err:139882.4 cur:0 cmd:255 | pub:1ms ret:0 lp:13434
+[1786045821.235188369] t:70.15s enc:-139882.4 des:0.0 err:139882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13383
+[1786045821.335189369] t:70.25s enc:-139882.4 des:0.0 err:139882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13436
+[1786045821.435658369] t:70.35s enc:-139882.4 des:0.0 err:139882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13438
+[1786045821.535310369] t:70.45s enc:-139882.4 des:0.0 err:139882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13387
+[1786045821.635259369] t:70.55s enc:-139882.4 des:0.0 err:139882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13413
+[1786045821.735610369] t:70.65s enc:-139882.4 des:0.0 err:139882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13420
+[1786045821.835156369] t:70.75s enc:-139882.4 des:0.0 err:139882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13365
+[1786045821.935812369] t:70.85s enc:-139882.4 des:0.0 err:139882.4 cur:0 cmd:255 | pub:1ms ret:0 lp:13438
+[1786045822.035710369] t:70.95s enc:-139882.4 des:0.0 err:139882.4 cur:0 cmd:255 | pub:1ms ret:0 lp:13356
+[1786045822.135307369] t:71.05s enc:-139882.4 des:0.0 err:139882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13367
+[1786045822.235220369] t:71.15s enc:-139882.4 des:0.0 err:139882.4 cur:0 cmd:255 | pub:0ms ret:0 lp:13410
+[unsynced t=3040ms] ESP32 micro-ROS Serial debug
+[unsynced t=3086ms] WiFi mode set
+[unsynced t=3089ms] WiFi begin
+[unsynced t=3089ms] WiFi connecting.... WiFi connected
+[unsynced t=4289ms] WiFi IP: 192.168.4.102
+[unsynced t=4290ms] currentBuffer allocated in PSRAM: 3145728 bytes
+[unsynced t=4291ms] positionBuffer allocated in PSRAM: 1048576 bytes
+[unsynced t=4291ms] desiredBuffer allocated in PSRAM: 1048576 bytes
+[unsynced t=4292ms] Encoder attached
+[unsynced t=4293ms] Motor ready
+[unsynced t=4293ms] 
+[unsynced t=4293ms] === ROS_Connect() call #1 | heap free: 200320 bytes ===
+[unsynced t=4294ms] Initializing micro-ROS...
+[unsynced t=4295ms] WiFi status before transport set: 3
+[unsynced t=5872ms] Transport set | WiFi status after: 3
+[unsynced t=5873ms] Pinging agent at 192.168.4.100:8888 ...
+[unsynced t=5873ms] Waiting for micro-ROS agent Agent found after 0 pings!
+[unsynced t=6195ms] Support initialized
+[unsynced t=6204ms] Node created
+[unsynced t=6216ms] Current sensor publisher created
+[unsynced t=6228ms] Encoder publisher created
+[unsynced t=6240ms] Velocity publisher created
+[unsynced t=6254ms] Desired position publisher created
+[unsynced t=6269ms] Current chunk publisher created
+[unsynced t=6282ms] Telemetry chunk publisher created
+[unsynced t=6298ms] Time synced publisher created
+[unsynced t=6311ms] Teleop subscriber created on topic: actuator_1/freq
+[unsynced t=6322ms] Mode subscriber created on topic: actuator_1/mode
+[unsynced t=6335ms] Setpoint subscriber created on topic: actuator_1/setpoint
+[unsynced t=6356ms] Dump trigger subscriber created on topic: actuator_1/dump_current_buffer
+[unsynced t=6377ms] Retransmit subscriber created
+[unsynced t=6378ms] Executor started
+[unsynced t=6378ms] micro_ros_spin task pinned to core 0
+[unsynced t=6379ms] micro-ROS connected | heap free: 184828 bytes
+[unsynced t=7380ms] [sync:warmup] round-trip 1001ms | epoch=1786045830268573447 ns (1786045830.268)
+[unsynced t=8382ms] [sync:connect] round-trip 1001ms | epoch=1786045831271102130 ns (1786045831.271)
+[1786045831.271633130] ROS time synced | anchor: 1786045831271102130 ns
+[1786045831.272467130] control task pinned to core 1 at priority 5
+[1786045831.273200130] Setup complete!
+[1786045831.276061130] t:8.39s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:1
+[1786045831.375539130] t:8.49s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13331
+[1786045831.475840130] t:8.59s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13417
+[1786045831.575957130] t:8.69s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13396
+[1786045831.676160130] t:8.79s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13371
+[1786045831.775318130] t:8.89s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13338
+[1786045831.875578130] t:8.99s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13426
+[1786045831.976119130] t:9.09s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13406
+[1786045832.075923130] t:9.19s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13341
+[1786045832.175534130] t:9.29s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13383
+[1786045832.275875130] t:9.39s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13411
+[1786045832.375612130] t:9.49s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13389
+[1786045832.475594130] t:9.59s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13375
+[1786045832.575950130] t:9.69s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13397
+[1786045832.676018130] t:9.79s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13379
+[1786045832.775394130] t:9.89s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13359
+[1786045832.875807130] t:9.99s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13428
+[1786045832.976014130] t:10.09s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13386
+[1786045833.075386130] t:10.19s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13334
+[1786045833.175223130] t:10.29s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13435
+[1786045833.275535130] t:10.39s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13462
+[1786045833.376152130] t:10.49s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13422
+[1786045833.476037130] t:10.59s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13340
+[1786045833.575536130] t:10.69s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13362
+[1786045833.675506130] t:10.79s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13413
+[1786045833.775614130] t:10.89s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13412
+[1786045833.875486130] t:10.99s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13393
+[1786045833.975545130] t:11.09s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13418
+[1786045834.075461130] t:11.19s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13416
+[1786045834.175399130] t:11.29s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13428
+[1786045834.365869130] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179880
+[1786045834.369105130] t:11.48s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:12283
+[1786045834.468562130] t:11.58s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13341
+[1786045834.568848130] t:11.68s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13398
+[1786045834.668997130] t:11.78s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13375
+[1786045834.769029130] t:11.88s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13357
+[1786045834.868241130] t:11.98s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13358
+[1786045834.968244130] t:12.08s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13425
+[1786045835.068981130] t:12.18s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13458
+[1786045835.168576130] t:12.28s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13337
+[1786045835.268391130] t:12.38s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13364
+[1786045835.368440130] t:12.48s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13399
+[1786045835.468877130] t:12.58s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13389
+[1786045835.568476130] t:12.68s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13347
+[1786045835.668465130] t:12.78s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13375
+[1786045835.768837130] t:12.88s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13364
+[1786045835.868506130] t:12.98s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13348
+[1786045835.968498130] t:13.08s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13375
+[1786045836.068883130] t:13.18s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13416
+[1786045836.168461130] t:13.28s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13376
+[1786045836.268629130] t:13.38s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13417
+[1786045836.369006130] t:13.48s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13396
+[1786045836.468537130] t:13.58s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13361
+[1786045836.568993130] t:13.68s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13410
+[1786045836.668981130] t:13.78s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13356
+[1786045836.768401130] t:13.88s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13346
+[1786045836.868854130] t:13.98s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13433
+[1786045836.968977130] t:14.08s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13385
+[1786045837.068496130] t:14.18s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13341
+[1786045837.168380130] t:14.28s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13423
+[1786045837.268495130] t:14.38s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13446
+[1786045837.368773130] t:14.48s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13415
+[1786045837.468596130] t:14.58s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13392
+[1786045837.568402130] t:14.68s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13406
+[1786045837.668593130] t:14.78s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13433
+[1786045837.768971130] t:14.88s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13400
+[1786045837.868445130] t:14.98s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13373
+[1786045837.968529130] t:15.08s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13427
+[1786045838.068482130] t:15.18s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13422
+[1786045838.168921130] t:15.28s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13423
+[1786045838.268954130] t:15.38s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13348
+[1786045838.368305130] t:15.48s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13379
+[1786045838.468398130] t:15.58s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13440
+[1786045838.568598130] t:15.68s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13439
+[1786045838.668562130] t:15.78s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13397
+[1786045838.768556130] t:15.88s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13405
+[1786045838.868553130] t:15.98s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13409
+[1786045838.968902130] t:16.08s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13407
+[1786045839.068504130] t:16.18s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13390
+[1786045839.168334130] t:16.28s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13420
+[1786045839.268344130] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179832
+[1786045839.271098130] t:16.38s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13305
+[1786045839.371574130] t:16.48s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13458
+[1786045839.471909130] t:16.58s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13405
+[1786045839.571477130] t:16.68s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13381
+[1786045839.671545130] t:16.78s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13320
+[1786045839.771409130] t:16.88s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13322
+[1786045839.871510130] t:16.98s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13430
+[1786045839.971537130] t:17.08s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13418
+[1786045840.071628130] t:17.18s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13413
+[1786045840.171419130] t:17.28s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13394
+[1786045840.271549130] t:17.38s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13429
+[1786045840.371595130] t:17.48s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13406
+[1786045840.471484130] t:17.58s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13367
+[1786045840.571981130] t:17.68s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13408
+[1786045840.671917130] t:17.78s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13371
+[1786045840.771435130] t:17.88s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13372
+[1786045840.871520130] t:17.98s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13431
+[1786045840.971525130] t:18.08s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13411
+[1786045841.071859130] t:18.18s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13415
+[1786045841.171914130] t:18.28s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13392
+[1786045841.271455130] t:18.38s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13382
+[1786045841.371908130] t:18.48s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13425
+[1786045841.472013130] t:18.58s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13380
+[1786045841.571471130] t:18.68s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13364
+[1786045841.671944130] t:18.78s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13391
+[1786045841.771937130] t:18.88s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13370
+[1786045841.871528130] t:18.98s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13390
+[1786045841.971349130] t:19.08s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13411
+[1786045842.071593130] t:19.18s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13438
+[1786045842.171383130] t:19.28s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13405
+[1786045842.271568130] t:19.38s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13434
+[1786045842.371499130] t:19.48s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13409
+[1786045842.471347130] t:19.58s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13387
+[1786045842.571938130] t:19.68s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13438
+[1786045842.671407130] t:19.78s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13370
+[1786045842.771363130] t:19.88s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13394
+[1786045842.871443130] t:19.98s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13441
+[1786045842.971470130] t:20.08s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13425
+[1786045843.071489130] t:20.18s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13426
+[1786045843.171633130] t:20.28s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13424
+[1786045843.271614130] t:20.38s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13400
+[1786045843.371435130] t:20.48s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13395
+[1786045843.471466130] t:20.58s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13414
+[1786045843.571415130] t:20.68s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:0ms ret:0 lp:13427
+[1786045843.671863130] t:20.78s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13431
+[1786045843.771618130] t:20.88s enc:0.0 des:0.0 err:0.0 cur:-0 cmd:-0 | pub:1ms ret:0 lp:13387

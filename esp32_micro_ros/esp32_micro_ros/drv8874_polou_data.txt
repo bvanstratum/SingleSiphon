@@ -1,0 +1,275 @@
+Electronics » Motion Control Modules » Brushed DC Motor Drivers »
+DRV8874 Single Brushed DC Motor Driver Carrier
+
+Pololu item #: 4035	595 in stock
+Brand: Pololu	supply outlook
+Get stock notification 
+Status: Active and Preferred 
+RoHS 3 compliant	
+ Free add-on shipping in USA 
+This item could qualify for free shipping Free shipping in USA over $75 
+ 
+Price break	Unit price (US$)
+1	11.94
+5	10.98
+25	10.11
+100	9.30
+ 
+Quantity: 
+1
+
+backorders allowed	
+Add to cart
+Add to list
+ 
+Get price notification 
+This compact breakout board for TI’s DRV8874 motor driver offers a wide operating voltage range of 4.5 V to 37 V and can deliver a continuous 2.1 A to a single bidirectional brushed DC motor. The DRV8874 also features integrated current sensing and regulation that limits the peak motor current to about 4.4 A by default, as well as built-in protection against under-voltage, over-current, and over-temperature. The carrier board adds protection against reverse voltage.
+
+Compare all products in Brushed DC Motor Drivers.
+
+ 	Description	 	Specs (16)	 	Pictures (12)	 	Resources (9)	 	FAQs (0)	 	On the blog (1)	 	Distributors (84)	 
+Overview
+This product is a carrier board for Texas Instruments’ DRV887x family of motor drivers; we therefore recommend careful reading of the corresponding driver’s datasheet before using this product. Three pin-compatible versions are available based on these TI motor drivers that differ in the amount of current they can deliver while supporting the same 4.5 V to 37 V operating voltage ranges and control interfaces. We also have pin-compatible versions of these drivers based on the Toshiba’s TB67H453FNG/FTG, which is an alternative to the DRV8876 that offers the same functionality with slightly lower on resistance and a higher maximum operating voltage. The following table compares these five pin-compatible versions along with the similar DRV8256 motor drivers:
+
+Comparison of the Toshiba TB67H453FNG/FTG and TI DRV8874, DRV8876, and DRV8256 motor driver carriers
+
+DRV8876
+(QFN)	
+TB67H453FTG
+(QFN)	
+DRV8876	
+TB67H453FNG	
+DRV8874	
+DRV8256E
+DRV8256P
+Motor channels:	one
+Min. operating voltage:	4.5 V
+Max. operating voltage:	37 V	44 V	37 V	44 V	37 V	48 V
+Max. continuous current(1):	1.1 A	1.3 A	2.1 A	1.9 A
+Peak current:	2 A(2)	4.4 A(2)	6.4 A
+Current sense feedback?	2.5 V/A	1.1 V/A	none
+Active current limiting:	adjustable
+Size:	0.6″ × 0.7″	0.6″ × 0.6″
+1-piece price:	$7.14	$4.49	$8.15	$4.95	$11.94	$14.31 (E)
+$14.31 (P)
+Note 1: On Pololu carrier board, at room temperature and without additional cooling.
+Note 2: Default current limit; see product descriptions for details.
+Details for item #4035
+This carrier for TI’s DRV8874PWP motor driver can supply continuous currents up to approximately 2.1 A and has a current limit set to 4.4 A by default (with 5 V on SLEEP). Since this board is a carrier for the DRV8874, we recommend careful reading of the DRV8874 datasheet. The board ships populated with all of its SMD components, including the DRV8874.
+
+
+DRV8874 Single Brushed DC Motor Driver Carrier, top view with labeled pinout.
+
+
+DRV8874/DRV8876 Single Brushed DC Motor Driver Carrier (md41a), bottom view with dimensions.
+
+Features
+Drives a single bidirectional brushed DC motor or two unidirectional brushed DC motors
+Motor supply voltage: 4.5 V to 37 V
+Output current:
+DRV8876 (QFN): 1.1 A continuous (2 A default current limit)
+DRV8876: 1.3 A continuous (2 A default current limit)
+DRV8874: 2.1 A continuous (3.5 A default current limit)
+Supports 1.8 V to 5 V logic voltage (5.5 V max)
+Integrated current sensing and adjustable active current regulation
+Two current regulation mode options: cycle-by-cycle or fixed off time
+Three input control modes:
+Phase/enable (PH/EH)
+PWM (IN/IN)
+Independent half-bridge control
+Under-voltage lockout and protection against over-current and over-temperature
+Carrier board adds reverse-voltage protection
+Compact size (0.6″×0.7″)
+Using the motor driver
+
+Minimal wiring diagram for connecting a microcontroller to a DRV8874/DRV8876 Single Brushed DC Motor Driver Carrier in PHASE/ENABLE control mode.
+
+Motor and motor power connections are made on one side of the board and logic power and control connections are made on the other. The driver requires a motor voltage between 4.5 V and 37 V to be supplied to the VIN or VM pin. The driver is in sleep mode by default, and a logic voltage between 1.8 V and 5.5 V must be supplied to the SLEEP pin; to take it out of sleep mode. This logic voltage can typically be shared with the controlling device, or it can be supplied by an output from the controlling device, which allows for dynamic control of the sleep mode. The VIN pin is the reverse-protected motor supply input and is the recommended point for connecting motor power. VM is an access point for motor supply power after the reverse voltage protection circuit.
+
+The DRV8874/DRV8876 features three possible control modes: phase/enable (PH/EN), PWM (IN/IN), and independent half-bridge. The PMODE pin determines the control interface, and the state is latched when the driver is enabled through the SLEEP pin.
+
+Phase/enable (PH/EN) mode
+Setting the PMODE pin low prior to enabling the driver, as shown in the diagram above, sets the driver to phase/enable control mode, where the PH pin determines the motor direction and the EN pin can be supplied with a PWM signal to control the motor speed (this is typically referred to as sign-magnitude operation). This mode is generally easier to use as it only requires one PWM signal, but it only allows for drive/brake operation. (Drive/brake operation usually provides a more linear relationship between PWM duty cycle and motor speed than drive/coast operation, and we generally recommend using drive/brake operation when possible.)
+
+Simplified drive/brake operation with PMODE=0 (PHASE/ENABLE)
+EN	PH	OUT1	OUT2	operating mode
+0	X	L	L	brake low (outputs shorted to ground)
+PWM	1	PWM (H/L)	L	forward/brake at speed PWM %
+PWM	0	L	PWM (H/L)	reverse/brake at speed PWM %
+This mode can also be used for locked-antiphase operation, where a sufficiently high-frequency (up to 100 kHz) PWM is applied to the phase (PH) pin and the enable (EN) pin is tied high. In locked-antiphase operation, the PWM duty cycle controls speed and direction, going from full-speed in one direction at 0% duty cycle to full speed in the other direction at 100% duty cycle. A duty cycle of 50% will stop the motor. The appropriate PWM frequency will generally depend on the inductance of the motor.
+
+Advanced usage with PWM (IN/IN) mode
+
+Minimal wiring diagram for connecting a microcontroller to a DRV8874/DRV8876 Single Brushed DC Motor Driver Carrier in PWM (IN/IN) control mode.
+
+When the PMODE pin is set high prior to enabling the driver, the driver is set to PWM (IN/IN) control mode, which allows for more advanced control options, including allowing the H-bridge to enter a high-impedance (coast) state without sleep. The following truth table shows how to achieve drive/coast (slow decay) and drive/brake (fast decay) operation using the IN/IN control interface:
+
+PWM control mode with PMODE=1 (IN/IN)
+IN1	IN2	OUT1	OUT2	operating mode
+0	0	Z	Z	coast (outputs off)
+PWM	0	PWM (H/Z)	PWM (L/Z)	forward/coast at speed PWM %
+0	PWM	PWM (L/Z)	PWM (H/Z)	reverse/coast at speed PWM %
+PWM	1	L	inverted
+PWM (L/H)	reverse/brake at speed 100% − PWM %
+1	PWM	inverted
+PWM (L/H)	L	forward/brake at speed 100% − PWM %
+1	1	L	L	brake low (outputs shorted to ground)
+Advanced usage with independent half-bridge mode
+When the PMODE pin is left high-impedance (i.e. floating or disconnected) when the driver is enabled, the driver is set to independent half-bridge control mode. See the DRV8874/DRV8876 datasheet for more information about this control mode.
+
+Pinout
+
+DRV8874 Single Brushed DC Motor Driver Carrier, top view with labeled pinout.
+
+
+DRV8876 Single Brushed DC Motor Driver Carrier, top view with labeled pinout.
+
+
+DRV8876 (QFN) Single Brushed DC Motor Driver Carrier, top view with labeled pinout.
+
+PIN	Default State	Description
+VIN		4.5 V to 37 V board power supply input.
+GND		Ground connection points for the motor and logic supplies.
+VM		This pin gives access to the motor power supply after the reverse-voltage protection MOSFET (see the board schematic below). It can be used to supply reverse-protected power to other components in the system.
+OUT1		Motor output 1.
+OUT2		Motor output 2.
+EN/IN1	LOW	Motor control input 1 (functions as an enable pin in PHASE/ENABLE mode).
+PH/IN2	LOW	Motor control input 2 (functions as a direction pin in PHASE/ENABLE mode).
+PMODE	FLOATING	Control interface select pin. The state of this pin is latched when the driver is enabled through the SLEEP pin. Setting this pin low prior to enabling sets the driver to phase/enable (PH/EN) control mode. Setting this pin high prior to enabling sets the driver to PWM (IN/IN) control mode. Leaving this pin floating or disconnected on enable sets the driver to independent half-bridge control mode.
+SLEEP	LOW	Sleep input that puts the driver into a low-power sleep mode when low. The driver outputs are high-impedance (coast) in sleep mode.
+VREF		Current limiting threshold reference voltage (see below).
+IMODE	PULLED LOW	Four-state input for current regulation and overcurrent protection mode (see below). This carrier pulls down IMODE to GND through a 20 kΩ resistor setting the current chopping mode to cycle-by-cycle, the over-current response to automatic retry, and FAULT response to current chopping and over-current.
+FAULT	FLOATING	Open-drain, active-low fault output. This pin goes low during an over-current, over-temperature, or under-voltage condition. An external pull-up resistor is required to use this pin.
+CS		Current sense output. This pin provides an analog current-sense feedback voltage of approximately 1.1 V/A (DRV8874) or 2.5 V/A (DRV8876) by default (see below).
+Current limiting
+The DRV8874/DRV8876 can be configured to actively limit the current through the motors by using a fixed off-time PWM current regulation (current chopping) or a cycle-by-cycle PWM current chopping scheme. The current chopping scheme and over-current response is selectable through the IMODE quad-level input. This carrier pulls down IMODE to GND through a 20 kΩ resistor, setting the current chopping mode to cycle-by-cycle. The current limit is determined by the voltage on the VREF pin, which this carrier board pulls up to SLEEP through a 10 kΩ resistor, and the resistor on the CS pin, which this carrier board pulls down to GND through a 2.49 kΩ resistor. When SLEEP is connected to 5 V, the current limit is set to approximately 4.4 A on the DRV8874 carrier or 2 A on the DRV8876 carriers; a lower logic voltage on SLEEP decreases the current limit proportionally. The current limit can be lowered by connecting an additional resistor between VREF and GND or by connecting an external reference voltage directly to VREF; the current limit can be increased by connecting an additional resistor between CS and GND. Current limiting can be disabled by connecting CS directly to GND, although the driver’s overcurrent protection will still limit the current to about 6 A on the DRV8874 or 3.5 A on the DRV8876. Refer to the DRV8874/DRV8876 datasheet for more information about the driver’s current regulation.
+
+Real-world power dissipation considerations
+The DRV8874 is rated for a peak current of 6 A and the DRV8876 is rated for a peak current of 3.5 A by their respective datasheets. However, the chips by themselves will overheat at lower currents. In our tests, we found that the chips on our carrier boards were able to deliver their rated peak currents for less than a second before their thermal protections kicked in and disabled the motor outputs. They were able to operate at their default current limits of 4.4 A (DRV8874) and 2 A (DRV8876) for a few seconds before thermal shutdown. The continuous current specifications we provide for these products of 2.1 A (DRV8874 carrier), 1.3 A (DRV8876 carrier), and 1.1 A (DRV8876 (QFN) carrier) are currents we found to be sustainable for many minutes without triggering thermal shutdown. These tests were conducted at room temperature in open space with no additional cooling (e.g. no forced airflow or heat sinks).
+
+The actual current you can deliver will depend on how well you can keep the motor driver cool. The carrier’s printed circuit board is designed to help with this by drawing heat out of the motor driver chip. PWMing the motor will introduce additional heating proportional to the frequency.
+
+This product can get hot enough to burn you long before the chip overheats. Take care when handling this product and other components connected to it.
+
+Included hardware
+
+
+Breakaway 0.1″ male headers are included with the DRV8874/DRV8876 motor driver carriers, which can be soldered in to use the driver with perfboards, breadboards, or 0.1″ female connectors. (The headers might ship as a single larger strip that can be broken into smaller pieces.) When used with these header pins, the board can be oriented with the parts visible, as shown in the right picture above, or with the silkscreen visible, by soldering the headers in from the opposite side. You can also solder your motor leads and other connections directly to the board.
+
+Schematic
+
+Schematic diagram for the DRV8874/DRV8876 Single Brushed DC Motor Driver Carrier.
+
+This diagram is also available as a downloadable pdf: DRV887x Single Brushed DC Motor Driver Carrier schematic (110k pdf).
+
+Print Email a friend Feeds
+
+Home | Forum | Blog | Support | Ordering Information | Lists | Distributors | BIG Order Form | About | Contact
+
+© 2001–2026 Pololu Corporation
+
+Shopping Cart
+	2×#5190 100:1 Micro Metal Gearmotor HPCB 6V with 12 CPR Encoder, Back Connector
+	2×#4762 JST SH-Style Cable for Micro Metal Gearmotor Encoders, 6-Pin, Single-Ended Female, 12cm
+	1×#4035 DRV8874 Single Brushed DC Motor Driver Carrier
+	1×#1996 Pololu Universal Aluminum Mounting Hub for 3mm Shaft, M3 Holes (2-Pack)
+	1×#5188 75:1 Micro Metal Gearmotor HPCB 6V with 12 CPR Encoder, Back Connector
+	1×#5186 50:1 Micro Metal Gearmotor HPCB 6V with 12 CPR Encoder, Back Connector
+Subtotal: $155.89
+View cart
+Estimate shipping
+
+Check out ►
+
+Related Products
+	DRV8876 Single Brushed DC Motor Driver Carrier
+	DRV8876 (QFN) Single Brushed DC Motor Driver Carrier
+	MPQ6612A Single Brushed DC Motor Driver Carrier
+	MPQ6612A Single Brushed DC Motor Driver Carrier (Soldered Connectors)
+	DRV8263H Single Brushed DC Motor Driver Carrier
+	TB67H453FNG Single Brushed DC Motor Driver Carrier
+	TB67H453FTG (QFN) Single Brushed DC Motor Driver Carrier
+	DRV8256E Single Brushed DC Motor Driver Carrier
+	DRV8256P Single Brushed DC Motor Driver Carrier
+	MP6550 Single Brushed DC Motor Driver Carrier
+	Dual MAX14870 Motor Driver Shield for Arduino
+	Dual MAX14870 Motor Driver for Raspberry Pi (Assembled)
+	TB67H420FTG Dual/Single Motor Driver Carrier
+	TB9051FTG Single Brushed DC Motor Driver Carrier
+	0.100" (2.54 mm) Breakaway Male Header: 1×40-Pin, Straight, Black
+Related Categories
+	Brushed DC Motor Drivers
+	Brushed DC Motor Controllers
+	Pololu Metal DC Gearmotors
+	Plastic DC Gearmotors
+	Female-Female Premium Jumper Wires
+	Wires with Pre-Crimped Terminals
+	0.1″ (2.54 mm) Male Headers
+	0.1″ (2.54 mm) Female Headers
+	Current Sensors
+	Solderless Breadboards
+	Prototyping PCBs
+Pololu Robotics and Electronics	brian.vanstratum@gmail.com | My Account | Log Out | Shopping Cart 
+US toll free: 1-877-7-POLOLU ~ (702) 262-6648
+Same-day shipping, worldwide
+
+Catalog	 	Forum	 	Blog	 	Support	 	Ordering	 	Distributors	 	About	 	Contact	
+Search
+
+Feedback
+Comments or questions?
+Services
+Custom Laser Cutting
+SMT Stencils
+Products
+New Products
+Specials!
+Robots
+3pi
+Balboa
+Cobot
+Romi
+Zumo
+Kits, Soldering
+Kits, No Soldering
+Electronics
+Arduino
+Cables and Wires
+Computer Interface
+Connectors
+Development Boards
+Isolation
+LEDs
+Motor Control
+Power
+Prototyping
+Raspberry Pi
+Relays
+Sensors
+Servo Control
+Voltage Regulators
+Mechanical
+Ball Casters
+Brackets
+Chassis
+Hardware
+Linear Actuators
+Motors
+Motor Shaft Adapters
+Servos
+Stepper Motors
+Tamiya Products
+Tools
+Tracks
+Wheels
+Shirts
+Balboa T-Shirts
+Zumo T-Shirts
+Logo T-Shirts
+Community
+Mailing list
+Pololu Blog
+Engage Your Brain
+Community Projects
+Feeds
+Email a friend

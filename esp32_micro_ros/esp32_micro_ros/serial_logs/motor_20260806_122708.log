@@ -1,0 +1,126 @@
+eed t=6376ms] Time synced publisher created
+[unsynced t=6402ms] Teleop subscriber created on topic: actuator_1/freq
+[unsynced t=6418ms] Mode subscriber created on topic: actuator_1/mode
+[unsynced t=6432ms] Setpoint subscriber created on topic: actuator_1/setpoint
+[unsynced t=6446ms] Dump trigger subscriber created on topic: actuator_1/dump_current_buffer
+[unsynced t=6462ms] Retransmit subscriber created
+[unsynced t=6463ms] Executor started
+[unsynced t=6464ms] micro_ros_spin task pinned to core 0
+[unsynced t=6464ms] micro-ROS connected | heap free: 184272 bytes
+[unsynced t=7466ms] [sync:warmup] round-trip 1001ms | epoch=1786044412050372074 ns (1786044412.050)
+[unsynced t=8467ms] [sync:connect] round-trip 1000ms | epoch=1786044413054206259 ns (1786044413.054)
+[1786044413.054744259] ROS time synced | anchor: 1786044413054206259 ns
+[1786044413.055689259] control task pinned to core 1 at priority 5
+[1786044413.056529259] Setup complete!
+[1786044416.053498259] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179760
+[1786044421.149988259] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179800
+[1786044426.149993259] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179800
+[1786044431.149993259] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179800
+[1786044436.149990259] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179800
+[1786044441.149994259] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179800
+[1786044446.149985259] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179800
+[1786044451.149998259] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179800
+[1786044456.149988259] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179800
+[1786044461.149988259] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179800
+[1786044466.149999259] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179800
+[1786044471.149991259] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179800
+604447Encoder d on mtch
+[17860896025sync:mowitchund-trip 2mepoch=1786044474552337602 ns 
+.55d phase reset
+[1786044474.55378] Control mode REQ_SWEEP
+[1786044475.0853 Enceroed on mode switch
+[17094670602] [sync:modeh] round-trip 9ms oc38(1786044475.095)
+8609668238Sinusoid time anase reset
+[1786.097413383] Cool mode set POSITION
+[1786044476.142604383] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179800
+[1786525743Setp: 10000.eg
+44443383] Setpoint00g
+44405383]point: 30000.0 mDeg
+[1786044477.347286383] Setp0000.0 mDeg
+[178607.83] Setpoint: g
+44477.61383] Setp:  mDeg
+[1786044477.947071383] Setpoint: 70000.0 mDeg
+44478.147029383] Setp: 80000.0 mDeg
+[17860470043:  mDeg
+[1748006383] Setpoint: 100000.0 mDeg
+1786044478.74383] Setp110000.0 mDeg
+1786044479.24814738.0 mDeg
+[17869.447503383] Setnt: 90000.0 mDeg
+[144479.83 mDeg
+178.847060383] Setnt: 70000.0 mDeg
+86044479.990197383] Setpoin0000.0 mDeg
+044480.191113383] Soint: 
+.380230383] Setpoint00.0 mDeg
+[14480.5Setpoint: 30000.0 mDeg
+04448076etpoint: 20000.0 mDeg
+[1786600113Setpo 1 mDeg
+[1786044481.142605383] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179528
+[1786044481.151659383] Setpoint: 0.0 mDeg
+[1786044481.347219383] Setpoin10000.0 mDeg
+[1786044481.547750383] nt: -20000.0 mDeg
+[1786044486.142604383] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179528
+[1786044491.142603383] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179528
+[1786044496.142612383] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179488
+[1786044501.046058383] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179488
+[1786044506.142605383] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179528
+[1786044511.142611383] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179528
+[1786044516.142602383] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179528
+[1786044521.142608383] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179528
+[1786044526.046060383] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179488
+[1786044531.142605383] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179528
+[1786044536.142610383] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179528
+[1786044541.142601383] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179528
+[1786044546.142612383] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179528
+[1786044551.142604383] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179488
+[1786044556.050055383] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179488
+[1786044561.046078383] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179488
+[1786044566.142605383] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179528
+[1786044571.142606383] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179528
+[1786044576.142608383] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179528
+[1786044581.142605383] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179528
+[1786044586.142608383] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179528
+[1786044591.046059383] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179488
+[1786044596.047167383] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179488
+[1786044601.050062383] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179488
+[1786044606.142601383] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179528
+[1786044611.047060383] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179488
+[1786044616.142610383] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179528
+[1786044621.142603383] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179528
+[1786044626.142607383] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179528
+[1786044631.142602383] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179528
+[1786044636.142610383] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179528
+[1786044641.046067383] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179488
+[1786044646.142605383] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179528
+[1786044651.142610383] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179528
+[1786044656.142600383] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179528
+[1786044661.142610383] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179528
+[1786044666.142607383] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179528
+[1786044671.142616383] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179488
+[1786044676.142611383] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179528
+[1786044681.142603383] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179528
+[1786044686.142609383] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179528
+[1786044691.142607383] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179528
+[1786044696.142603383] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179528
+[1786044701.142610383] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179528
+[1786044706.142605383] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179528
+[1786044711.048085383] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179488
+[1786044716.142610383] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179528
+[1786044721.142600383] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179528
+[1786044726.142609383] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179488
+[1786044731.142608383] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179528
+[1786044736.046058383] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179488
+[1786044741.046111383] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179488
+[1786044746.142605383] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179528
+[1786044751.047072383] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179488
+[1786044756.142606383] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179528
+[1786044761.046052383] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179488
+[1786044766.142610383] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179528
+[1786044771.142599383] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179528
+[1786044776.142609383] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179528
+[1786044781.142609383] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179528
+[1786044786.142599383] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179488
+[1786044791.142610383] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179528
+[1786044796.142608383] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179528
+[1786044801.142603383] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179528
+[1786044806.046102383] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179488
+[1786044811.047097383] [watchdog] ping result: 0 | ros_connected: 1 | heap: 179488

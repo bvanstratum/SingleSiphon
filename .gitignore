@@ -1,0 +1,21 @@
+# Colcon/ROS2 build artifacts - regenerated via `colcon build`, never track
+build/
+install/
+log/
+
+# Python bytecode cache
+__pycache__/
+*.pyc
+
+# Rosbag/mcap archive captures - large binary data, not source.
+# Processed results (csv/pkl/json under test_runner_results/) ARE tracked -
+# only the raw per-trial bag recordings are excluded here.
+aFith.mcap/
+aFith_impulse/
+aFith_calibrated/
+esp32_bags/
+test_runner_results/bags/
+**/*_bag/
+
+# Local Claude Code permission overrides (user-specific, not shared config)
+.claude/settings.local.json

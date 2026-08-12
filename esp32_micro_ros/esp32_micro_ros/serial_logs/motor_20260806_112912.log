@@ -1,0 +1,126 @@
+=3086ms] WiFi connecting.... WiFi connected
+[unsynced t=4286ms] WiFi IP: 192.168.4.101
+[unsynced t=4287ms] currentBuffer allocated in PSRAM: 3145728 bytes
+[unsynced t=74451ms] positionBuffer allocated in PSRAM: 1048576 bytes
+[unsynced t=74452ms] desiredBuffer allocated in PSRAM: 1048576 bytes
+[unsynced t=74453ms] Encoder attached
+[unsynced t=74453ms] Motor ready
+[unsynced t=74454ms] 
+[unsynced t=74454ms] === ROS_Connect() call #1 | heap free: 201128 bytes ===
+[unsynced t=74454ms] Initializing micro-ROS...
+[unsynced t=74455ms] WiFi status before transport set: 3
+[unsynced t=75990ms] Transport set | WiFi status after: 3
+[unsynced t=75991ms] Pinging agent at 192.168.4.100:8888 ...
+[unsynced t=75991ms] Waiting for micro-ROS agent Agent found after 0 pings!
+[unsynced t=76371ms] Support initialized
+[unsynced t=76379ms] Node created
+[unsynced t=76393ms] Current sensor publisher created
+[unsynced t=76409ms] Encoder publisher created
+[unsynced t=76420ms] Velocity publisher created
+[unsynced t=76432ms] Desired position publisher created
+[unsynced t=76443ms] Current chunk publisher created
+[unsynced t=76454ms] Telemetry chunk publisher created
+[unsynced t=76465ms] Time synced publisher created
+[unsynced t=76477ms] Teleop subscriber created on topic: actuator_1/freq
+[unsynced t=76494ms] Mode subscriber created on topic: actuator_1/mode
+[unsynced t=76505ms] Setpoint subscriber created on topic: actuator_1/setpoint
+[unsynced t=76516ms] Dump trigger subscriber created on topic: actuator_1/dump_current_buffer
+[unsynced t=76526ms] Retransmit subscriber created
+[unsynced t=76526ms] Executor started
+[unsynced t=76527ms] micro_ros_spin task pinned to core 0
+[unsynced t=76527ms] micro-ROS connected | heap free: 185872 bytes
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  0 register dump:
+PC      : 0x42008dfb  PS      : 0x00060f30  A0      : 0x82006f33  A1      : 0x3fcbd810  
+A2      : 0x00000000  A3      : 0x3fca7c48  A4      : 0x0000000d  A5      : 0x3fcba76c  
+A6      : 0x3fcbd81c  A7      : 0x3fcbd81c  A8      : 0x00000000  A9      : 0x3fcbd7f0  
+A10     : 0x00000001  A11     : 0x3fcba76c  A12     : 0x0000000d  A13     : 0x00000000  
+A14     : 0x3fcbde80  A15     : 0x3fcbe638  SAR     : 0x00000019  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000008  LBEG    : 0x40056f5c  LEND    : 0x40056f72  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x42008df8:0x3fcbd810 0x42006f30:0x3fcbd840 0x420a2456:0x3fcbd860 0x4200450e:0x3fcbd880 0x4208f0c3:0x3fcbd8a0 0x4208fc10:0x3fcbd8f0 0x4208fd9c:0x3fcbd990 0x42096dea:0x3fcbd9b0 0x42094695:0x3fcbda00 0x4208c049:0x3fcbda90 0x4208c08f:0x3fcbdad0 0x42002e5a:0x3fcbdaf0 0x40381d2d:0x3fcbdb10
+
+
+
+
+ELF file SHA256: 2ef38cceb
+
+Rebooting...
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x8 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40380fbd
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x10cc
+load:0x403c8700,len:0xc2c
+load:0x403cb700,len:0x30c0
+entry 0x403c88b8
+[unsynced t=3036ms] ESP32 micro-ROS Serial debug
+[unsynced t=3080ms] WiFi mode set
+[unsynced t=3083ms] WiFi begin
+[unsynced t=3083ms] WiFi connecting.... WiFi connected
+[unsynced t=4283ms] WiFi IP: 192.168.4.101
+[unsynced t=4284ms] currentBuffer allocated in PSRAM: 3145728 bytes
+[unsynced t=4284ms] positionBuffer allocated in PSRAM: 1048576 bytes
+[unsynced t=4285ms] desiredBuffer allocated in PSRAM: 1048576 bytes
+[unsynced t=4286ms] Encoder attached
+[unsynced t=4286ms] Motor ready
+[unsynced t=4286ms] 
+[unsynced t=4286ms] === ROS_Connect() call #1 | heap free: 201128 bytes ===
+[unsynced t=4287ms] Initializing micro-ROS...
+[unsynced t=4287ms] WiFi status before transport set: 3
+[unsynced t=5823ms] Transport set | WiFi status after: 3
+[unsynced t=5824ms] Pinging agent at 192.168.4.100:8888 ...
+[unsynced t=5824ms] Waiting for micro-ROS agent Agent found after 0 pings!
+[unsynced t=6309ms] Support initialized
+[unsynced t=6318ms] Node created
+[unsynced t=6330ms] Current sensor publisher created
+[unsynced t=6347ms] Encoder publisher created
+[unsynced t=6359ms] Velocity publisher created
+[unsynced t=6369ms] Desired position publisher created
+[unsynced t=6379ms] Current chunk publisher created
+[unsynced t=6390ms] Telemetry chunk publisher created
+[unsynced t=6402ms] Time synced publisher created
+[unsynced t=6415ms] Teleop subscriber created on topic: actuator_1/freq
+[unsynced t=6432ms] Mode subscriber created on topic: actuator_1/mode
+[unsynced t=6445ms] Setpoint subscriber created on topic: actuator_1/setpoint
+[unsynced t=6460ms] Dump trigger subscriber created on topic: actuator_1/dump_current_buffer
+[unsynced t=6474ms] Retransmit subscriber created
+[unsynced t=6474ms] Executor started
+[unsynced t=6475ms] micro_ros_spin task pinned to core 0
+[unsynced t=6475ms] micro-ROS connected | heap free: 185872 bytes
+[unsynced t=7477ms] [sync:warmup] round-trip 1001ms | epoch=1786040962757688020 ns (1786040962.757)
+[unsynced t=8479ms] [sync:connect] round-trip 1001ms | epoch=1786040963764696000 ns (1786040963.764)
+[1786040963.765257000] ROS time synced | anchor: 1786040963764696000 ns
+[1786040963.765894000] control task pinned to core 1 at priority 5
+[1786040963.766419000] Setup complete!
+[1786040966.859822000] [watchdog] ping result: 0 | ros_connected: 1 | heap: 180976
+[1786040971.762270000] [watchdog] ping result: 0 | ros_connected: 1 | heap: 180928
+[1786040976.859819000] [watchdog] ping result: 0 | ros_connected: 1 | heap: 180976
+[1786040981.859822000] [watchdog] ping result: 0 | ros_connected: 1 | heap: 180976
+[1786040986.859817000] [watchdog] ping result: 0 | ros_connected: 1 | heap: 180976
+[1786040991.859819000] [watchdog] ping result: 0 | ros_connected: 1 | heap: 180976
+[1786040996.859814000] [watchdog] ping result: 0 | ros_connected: 1 | heap: 180976
+[1786041001.859826000] [watchdog] ping result: 0 | ros_connected: 1 | heap: 180976
+[1786041006.762286000] [watchdog] ping result: 0 | ros_connected: 1 | heap: 180928
+oder zn mode switch
+ode_switch] round-trip | h=1786041067165s .806)
+[1786041010.807566538] Sin time and phase reset
+[1786041010.808079538] Cntrol se: FREQ_S
+[ele recei 0 Hz
+[1786041011.756589 shift: -0.596 rad
+[1786041011.856038538] [watchdog] ping result: 0 | ros_connected: 1 | heap: 180712
+[1786041016.756504538] [watchdog] ping result: 0 | ros_connected: 1 | heap: 180664
+[1786041021.853040538] [watchdog] ping result: 0 | ros_connected: 1 | heap: 180712
+[der on mode switch
+_switch] roundip | 7860410242907715921024.290)
+[1time and phaseset
+[17860592] C mode set to: POSITION
+[1786041026.853680592] [watchdog] ping result: 0 | ros_connected: 1 | heap: 180712
+[1786041031.853674592] [watchdog] ping result: 0 | ros_connected: 1 | heap: 180712
+[1786041036.761133592] [watchdog] ping result: 0 | ros_connected: 1 | heap: 180664
+[1786041041.756195592] [watchdog] ping result: 0 | ros_connected: 1 | heap: 180664
+[1786041046.853683592] [watchdog] ping result: 0 | ros_connected: 1 | heap: 180712

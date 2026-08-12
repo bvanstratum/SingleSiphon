@@ -1,0 +1,366 @@
+[unsynced t=3090ms] WiFi connecting.... WiFi connected
+[unsynced t=4290ms] WiFi IP: 192.168.4.101
+[unsynced t=4291ms] currentBuffer allocated in PSRAM: 3145728 bytes
+[unsynced t=4292ms] positionBuffer allocated in PSRAM: 1048576 bytes
+[unsynced t=4292ms] desiredBuffer allocated in PSRAM: 1048576 bytes
+[unsynced t=4293ms] Encoder attached
+[unsynced t=4294ms] Motor ready
+[unsynced t=4294ms] 
+[unsynced t=4294ms] === ROS_Connect() call #1 | heap free: 200916 bytes ===
+[unsynced t=4295ms] Initializing micro-ROS...
+[unsynced t=4295ms] WiFi status before transport set: 3
+[unsynced t=5831ms] Transport set | WiFi status after: 3
+[unsynced t=5832ms] Pinging agent at 192.168.4.100:8888 ...
+[unsynced t=5832ms] Waiting for micro-ROS agent Agent found after 0 pings!
+[unsynced t=5853ms] Node created
+[unsynced t=5866ms] Current sensor publisher created
+[unsynced t=5903ms] Encoder publisher created
+[unsynced t=5918ms] Desired position publisher created
+[unsynced t=5933ms] Current chunk publisher created
+[unsynced t=5945ms] Telemetry chunk publisher created
+[unsynced t=5958ms] Teleop subscriber created on topic: actuator_1/freq
+[unsynced t=5971ms] Mode subscriber created on topic: actuator_1/mode
+[unsynced t=5982ms] Setpoint subscriber created on topic: actuator_1/setpoint
+[unsynced t=5994ms] Dump trigger subscriber created on topic: actuator_1/dump_current_buffer
+[unsynced t=6007ms] Retransmit subscriber created
+[unsynced t=6007ms] Executor started
+[unsynced t=6008ms] micro_ros_spin task pinned to core 0
+[unsynced t=6008ms] micro-ROS connected | heap free: 185884 bytes
+[unsynced t=7010ms] [sync:warmup] round-trip 1001ms | epoch=1783459287898618504 ns (1783459287.898)
+[unsynced t=8012ms] [sync:connect] round-trip 1001ms | epoch=1783459288901307085 ns (1783459288.901)
+[1783459288.901341085] ROS time synced | anchor: 1783459288901307085 ns
+[1783459288.902089085] control task pinned to core 1 at priority 5
+[1783459288.902730085] Setup complete!
+[1783459291.916132085] [watchdog] ping result: 0 | ros_connected: 1 | heap: 181160
+[1783459296.898589085] [watchdog] ping result: 0 | ros_connected: 1 | heap: 181160
+[1783459301.916134085] [watchdog] ping result: 0 | ros_connected: 1 | heap: 181160
+[1783459304.819658085] teleop freq received: 0.100 Hz
+[1783459304.820244085] Computed phase shift: -15.037 rad
+[1783459306.916135085] [watchdog] ping result: 0 | ros_connected: 1 | heap: 180896
+[1783459307.030271085] teleop freq received: 0.200 Hz
+[1783459307.030866085] Computed phase shift: -31.463 rad
+[1783459307.721586085] teleop freq received: 0.300 Hz
+[1783459307.722174085] Computed phase shift: -48.323 rad
+[1783459311.916133085] [watchdog] ping result: 0 | ros_connected: 1 | heap: 180896
+[1783459316.524245085] teleop freq received: 0.000 Hz
+[1783459316.524899085] Computed phase shift: 18.851 rad
+[1783459316.900677085] [watchdog] ping result: 0 | ros_connected: 1 | heap: 180896
+[1783459320.920213085] Telemetry dump triggered: 32017 samples
+[1783459321.741485085] Telemetry dump complete
+[1783459321.898676085] [watchdog] ping result: 0 | ros_connected: 1 | heap: 180896
+[1783459326.898608085] [watchdog] ping result: 0 | ros_connected: 1 | heap: 180896
+[1783459331.916143085] [watchdog] ping result: 0 | ros_connected: 1 | heap: 180896
+[1783459337.436143085] [watchdog] ping result: 1 | ros_connected: 1 | heap: 180944
+[1783459337.437161085] micro-ROS agent lost - rebooting to reconnect...
+[unsynced t=3039ms] ESP32 micro-ROS Serial debug
+[unsynced t=3086ms] WiFi mode set
+[unsynced t=3089ms] WiFi begin
+[unsynced t=3089ms] WiFi connecting.... WiFi connected
+[unsynced t=4289ms] WiFi IP: 192.168.4.101
+[unsynced t=4290ms] currentBuffer allocated in PSRAM: 3145728 bytes
+[unsynced t=4291ms] positionBuffer allocated in PSRAM: 1048576 bytes
+[unsynced t=4291ms] desiredBuffer allocated in PSRAM: 1048576 bytes
+[unsynced t=4292ms] Encoder attached
+[unsynced t=4293ms] Motor ready
+[unsynced t=4293ms] 
+[unsynced t=4293ms] === ROS_Connect() call #1 | heap free: 201012 bytes ===
+[unsynced t=4294ms] Initializing micro-ROS...
+[unsynced t=4295ms] WiFi status before transport set: 3
+[unsynced t=5830ms] Transport set | WiFi status after: 3
+[unsynced t=5831ms] Pinging agent at 192.168.4.100:8888 ...
+[unsynced t=5831ms] Waiting for micro-ROS agent.
+.
+.
+.
+.
+.
+.
+.
+.
+. [10 pings, heap: 200492]
+[unsynced t=18579ms] .
+.
+.
+.
+.
+.
+.
+.
+.
+. [20 pings, heap: 200296]
+[unsynced t=30525ms] .
+.
+.
+.
+.
+.
+.
+.
+.
+. [30 pings, heap: 200344]
+[unsynced t=42519ms] .
+.
+.
+.
+.
+.
+.
+.
+.
+. [40 pings, heap: 200480]
+[unsynced t=54566ms] .
+.
+.
+.
+.
+.
+.
+.
+.
+. [50 pings, heap: 200332]
+[unsynced t=66513ms] .
+.
+.
+.
+.
+.
+.
+.
+.
+. [60 pings, heap: 200332]
+[unsynced t=78559ms] .
+.
+.
+.
+.
+.
+.
+.
+.
+. [70 pings, heap: 200332]
+[unsynced t=90552ms] .
+.
+.
+.
+.
+.
+.
+.
+.
+. [80 pings, heap: 200484]
+[unsynced t=102598ms] .
+.
+.
+.
+.
+..
+.
+.
+. [90 pings, heap: 200284]
+[unsynced t=114544ms] .
+.
+.
+.
+.
+.
+.
+.
+.
+. [100 pings, heap: 200332]
+[unsynced t=126536ms] .
+.
+.
+.
+.
+.
+.
+.
+.
+. [110 pings, heap: 200336]
+[unsynced t=138584ms] .
+.
+.
+.
+.
+.
+.
+.
+.
+. [120 pings, heap: 200332]
+[unsynced t=150531ms] .
+.
+.
+.
+.
+.
+.
+.
+.
+. [130 pings, heap: 200332]
+[unsynced t=162578ms] .
+.
+.
+.
+.
+.
+.
+.
+.
+. [140 pings, heap: 200336]
+[unsynced t=174569ms] .
+.
+.
+.
+.
+.
+.
+.
+.
+. [150 pings, heap: 200484]
+[unsynced t=186516ms] .
+.
+.
+.
+.
+.
+.
+.
+.
+. [160 pings, heap: 200336]
+[unsynced t=198563ms] .
+.
+.
+.
+.
+.
+.
+.
+.
+. [170 pings, heap: 200288]
+[unsynced t=210554ms] .
+.
+.
+.
+.
+.
+.
+.
+.
+. [180 pings, heap: 200336]
+[unsynced t=222601ms] .
+.
+..
+.
+.
+.
+.
+.
+. [190 pings, heap: 200336]
+[unsynced t=234548ms] .
+.
+.
+.
+.
+.
+.
+.
+.
+. [200 pings, heap: 200336]
+[unsynced t=246595ms] .
+.
+.
+.
+.
+.
+.
+.
+.. [210 pings, heap: 200336]
+[unsynced t=258587ms] .
+.
+.
+.
+.
+.
+.
+.
+.
+. [220 pings, heap: 200484]
+[unsynced t=270533ms] .
+.
+.
+.
+.
+.
+.
+.
+.
+. [230 pings, heap: 200336]
+[unsynced t=282580ms] .
+.
+.
+.
+.
+.
+.
+.
+.
+. [240 pings, heap: 200336]
+[unsynced t=294574ms] .
+.
+.
+.
+.
+.
+.
+.
+.
+. [250 pings, heap: 200332]
+[unsynced t=306521ms] .
+.
+.
+.
+.
+.
+.
+.
+.
+. [260 pings, heap: 200336]
+[unsynced t=318568ms] .
+.
+.
+.
+.
+.
+.
+.
+.
+. [270 pings, heap: 200288]
+[unsynced t=330514ms] .
+.
+.
+.
+.
+.
+.
+.
+.
+. [280 pings, heap: 200336]
+[unsynced t=342604ms] ..
+.
+.
+.
+.
+.
+.
+.
+. [290 pings, heap: 200480]
+[unsynced t=354550ms] .
+.
+.
+.
+.
+.
+.
+.
+.
+. [300 pings, heap: 200332]

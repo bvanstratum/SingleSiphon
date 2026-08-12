@@ -1,0 +1,204 @@
+[unsynced t=5885ms] Transport set | WiFi status after: 3
+[unsynced t=5886ms] Pinging agent at 192.168.4.100:8888 ...
+[unsynced t=5886ms] Waiting for micro-ROS agent Agent found after 0 pings!
+[unsynced t=6279ms] Support initialized
+[unsynced t=6291ms] Node created
+[unsynced t=6303ms] Current sensor publisher created
+[unsynced t=6320ms] Encoder publisher created
+[unsynced t=6339ms] Velocity publisher created
+[unsynced t=6352ms] Desired position publisher created
+[unsynced t=6363ms] Current chunk publisher created
+[unsynced t=6375ms] Telemetry chunk publisher created
+[unsynced t=6388ms] Time synced publisher created
+[unsynced t=6400ms] Teleop subscriber created on topic: actuator_1/freq
+[unsynced t=6415ms] Mode subscriber created on topic: actuator_1/mode
+[unsynced t=6432ms] Setpoint subscriber created on topic: actuator_1/setpoint
+[unsynced t=6443ms] Dump trigger subscriber created on topic: actuator_1/dump_current_buffer
+[unsynced t=6455ms] Retransmit subscriber created
+[unsynced t=6455ms] Executor started
+[unsynced t=6456ms] micro_ros_spin task pinned to core 0
+[unsynced t=6456ms] micro-ROS connected | heap free: 185720 bytes
+[unsynced t=7458ms] [sync:warmup] round-trip 1001ms | epoch=1786041857246437304 ns (1786041857.246)
+[unsynced t=8460ms] [sync:connect] round-trip 1001ms | epoch=1786041858249567914 ns (1786041858.249)
+[1786041858.250147914] ROS time synced | anchor: 1786041858249567914 ns
+[1786041858.250793914] control task pinned to core 1 at priority 5
+[1786041858.251285914] Setup complete!
+[1786041861.344702914] [watchdog] ping result: 0 | ros_connected: 1 | heap: 180824
+[1786041866.344695914] [watchdog] ping result: 0 | ros_connected: 1 | heap: 180824
+[1786041871.344697914] [watchdog] ping result: 0 | ros_connected: 1 | heap: 180824
+[1786041876.344700914] [watchdog] ping result: 0 | ros_connected: 1 | heap: 180824
+49330914] Seteg
+[1786041880.231839914] Setpoint: 2000.
+[17860418point: 30000.0 mDeg
+[1786041point: 40000.0 mDeg
+t:0 mDeg
+[1786041881.344694914] [watchdog] ping result: 0 | ros_connected: 1 | heap: 180556
+Seint: 40000.0 mDeg
+[: 30000.0 mDeg
+Set00.0 mDeg
+[17860oint: 10000.0 mDeg
+[17860 mDeg
+[1786041882.453t: 100 m[1000.0 mDeg
+point: 0.int: 40000.0 mDeg
+[17.0g
+nt: 60000. mDeg
+t: 7000g
+point: 80000.0 mDeg
+integ
+[17860418oint: 60000.0 mDeg
+50000eg
+[1786041886.344692914] [watchdog] ping result: 0 | ros_connected: 1 | heap: 180556
+er zeroed on ch
+e_switround-trip 2ms | epoc41887603233086 ns (1786041887.603)
+[1786041887.604154086] Sinusome and phase reset
+[1786041887.604674086] Comoset toEQ_SWEEP
+[17eop freq received:20
+[1786041888.362497086] Coted phase shift: -0.953 rad
+[1786041891.342015086] [watchdog] ping result: 0 | ros_connected: 1 | heap: 180556
+[1786041896.342006086] [watchdog] ping result: 0 | ros_connected: 1 | heap: 180556
+[1786041leop freq receive.0z
+[1786041897.021519086] Cshift881 rad
+[1786041897.9Encoder zeroed o
+[1786041897.9470de_sch]trip 4mspo78971786041897.947)
+[1786041897.nusoid timephase t
+[1786041897.949322582] Conmode set to:
+[17860int: 10000.0 mDtpoint:Deg
+[1786040000.0 mDeg
+int: 40000.0 mDeg
+[1786041899.9460000.0 mDeg
+Set60000.g
+[1786041900.25int: 7.0g
+[178604190int: 80000.0 mDeg
+[1786041900.6int:g
+100000.0 mDeg
+[1786041901.244592582] [watchdog] ping result: 0 | ros_connected: 1 | heap: 180508
+[1786041Setpoint: 90000.
+[in0.0 mDeg
+[: 0.0 mDeg
+poin mDeg
+Set0.0 mDeg
+nt:00.0 mDeg
+[178604oint: eg
+Setpoint: 20Deg
+[178int: 10000.0 mDeg
+[1786041903.181334582] Setpoint: 0.0 mDeg
+poi00.0 mDeg
+[1786041903.5942.0g
+Setpoi-3mDeg
+[1786041904.nt: 00
+etp50000.mDeg
+[t:.0 mDeg
+[1786041904.748460582] S0 mDeg
+ -80000.0 mDeg
+[1786041905.1t: -00.0 m: -1000 mDeg
+Setpoint:0000.0 mDeg
+nt: -100000.0 mDeg
+[1786041906.0nt: 00g
+[1786041906.342166582] [watchdog] ping result: 0 | ros_connected: 1 | heap: 180556
+Set000.0 mDeg
+point: -70000.0 mDeg
+[1786041906.603205582] Set -6 mDeg
+nt: -50000.0 mDeg
+Setpoint: -40000.0 mDeg
+[1786041906.695458582]point: -30000.0 mDeg
+[1786041906.72618858oint: -20000.0 mDeg
+nt: -10000.eg
+[1786041906.785130582] Setoint: Deg
+t: 100 mDeg
+[1786041906.840000mDeg
+[1786041906.875243582] SemDeg
+[17860oint: 40000.0 mDeg
+582] Setpoint: 50000.0 mDeg
+oint: 60000.0 mDeg
+: 7000mDeg
+[1786041907.028193582] Setpoi0000.0g
+tpoint: 90000mDeg
+[17860: 100000.0 meg
+t: 1100 
+[1786041907.14nt: 120000.0 mDeg
+[1786041907.1815705etpoint: 1300[1786041907.211213582int: .0 mDeg
+etpoin0 mDeg
+[1786041582] S0000.0 mDeg
+[1786041907.298Setpt:mDeg
+oint: 180000.0 mDeg
+[1786041907.390000.0 mDeg
+[1786041907.000mDeg
+[1786041907.420180582] St: 210000.0 mDeg
+[17860419tpoi0.0 mDeg
+[178600.0 mDeg
+[17860oi24.0 mDeg
+[1786041907.541189582] S00.0 [1786041907.569324582] Set600[1786041907.599197582] Se000.0 mDeg
+etpoint: .0 mDeg
+[17: 29000mDeg
+oi300000.0 mDeg
+[17860point: 3100 metpoint: 320000.0 mDeg
+[1786041907.779262582] Setpoint: 330mDeg
+[1786041907.34000mDeg
+[1786041907.8point: 350000.eg
+po0000.0 mDeg
+[1786041907.905216582t: 370 mDeg
+[1786041907.933179582point: 380000.0 g
+[poiDeg
+[1786041907.9t: 400000.0 m
+t: 410000.0 mDeg
+etpoint:00mDeg
+[1700.0 m[1786041908.117264582] t: 440mDeg
+[17860419 430000.0 mDeg
+[17860419t: 420
+[17860int: 410000.0 mDeg
+[178600000Deg
+[17860419390000
+[1786041909.27921380000.0 mDeg
+[1786041909.304274etpoint: 300mDeg
+[178600000.0g
+tpoint: 350000.0 mDeg
+[1786041909.39etpoin000.0 mDeg
+[1786041909.42558658int: 330000.0eg
+[1786041909.458279582] Setpoint:000.0 mDeg
+[1786041909.486470etpoin00.0 mDeg
+[1786041909.000.0 mDeg
+[1786041909.5 290.0 mDeg
+[oint: 280000.0 mDeg
+poi27000mDeg
+[1786041909.634687582] Setpoint: .0 mDeg
+[1786041909.6t: 2.0 mDeg
+int: 240000.0 mDeg
+[178604182] Setpoint: 2300m[tpoeg
+int: 21.0g
+[1786041909.8Setp200000.0 mDeg
+[1786041909.846etpo: 190000.0 mDeg
+: 18000 m
+[17860point: 170000.0 mDeg
+[1786041909.9356tpoint: 160000.0 mDeg
+[1786041909.967etpo: 150000.0 mDeg
+int: 140000.0 mDeg
+[1786041910.040233582] S30000.Deg
+[1786041910.0500.0 mDeg
+[1786041910.tpoint: 110000.0 mDeg
+tpoint: 10000 mDeg
+[1786041910.1nt: 00eg
+[1786041910.177624582] 80000mDeg
+[1786041910.2tpoint: 70000.0 mDeg
+[1786041910.238237582] Setpint: 6000poi[17860poin00.0 m[1786041910.3286525int: 30000.0 mDeg
+0000.0 mDeg
+7582] Setpoint: 10000.0 mDeg
+[1786041910.419143582] oint: 0.0 mDeg
+[1786041910.4510000.0 mDeg
+[1786041910.4poin000.0 mDeg
+[1786041910.511point: -30000.0 mDeg
+[1786041910.5etpo4000eg
+[1786041910.5680 mDeg
+oint: -0.0 mDeg
+[1786041910.6etpo: -7.0 mDeg
+[17860point: -80000.0 mDeg
+90000.0 mDeg
+[1786041910.719277000.eg
+[1786041910.75etpo: mDeg
+[1786041910.780551200[1786041910.810206582] point: -130000.0 [1786041911.342167582] [watchdog] ping result: 0 | ros_connected: 1 | heap: 180556
+[1786041916.342173582] [watchdog] ping result: 0 | ros_connected: 1 | heap: 180556
+[1786041921.342170582] [watchdog] ping result: 0 | ros_connected: 1 | heap: 180556
+[1786041926.342172582] [watchdog] ping result: 0 | ros_connected: 1 | heap: 180556
+[1786041931.342164582] [watchdog] ping result: 0 | ros_connected: 1 | heap: 180556
+[1786041936.342189582] [watchdog] ping result: 0 | ros_connected: 1 | heap: 180556
+[1786041941.247614582] [watchdog] ping result: 0 | ros_connected: 1 | heap: 180508
+[1786041946.266620582] [watchdog] ping result: 0 | ros_connected: 1 | heap: 180508

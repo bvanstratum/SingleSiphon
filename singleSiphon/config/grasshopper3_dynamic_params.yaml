@@ -1,0 +1,29 @@
+# Declares GenICam features on grasshopper3 as live-settable ROS parameters
+# (camera_aravis2's "dynamic_parameters_yaml_url" mechanism), so they can be
+# set with `ros2 param set` *after* the node has started, rather than only
+# at startup via the static ImageFormatControl/AcquisitionControl/
+# AnalogControl blocks in the launch file.
+#
+# This exists specifically to work around a real ordering bug found in this
+# camera's GenICam feature tree (confirmed via the camera's own exported XML,
+# see camera_xml_exporter): both Gain and ExposureTime's writability are
+# gated by a LIVE check of a control register that a separate Auto-mode
+# feature (GainAuto / ExposureAuto+ExposureMode) also writes to. If the
+# launch file's startup parameters set e.g. GainAuto=Off and Gain=<value>
+# together, the Gain write can land before GainAuto=Off has actually taken
+# effect on the camera and gets silently rejected ("'ExposureTime'/'Gain' is
+# not as specified" in the log), leaving the value at whatever it happened to
+# be (e.g. leftover from a previous manual test with
+# hardwareTestingScripts/grasshopper3_controls.py). Setting them here instead
+# and applying via a delayed `ros2 param set` (see the launch file) after the
+# node has had time to settle avoids the race.
+- FeatureName: Gain
+  Type: float
+  Min: 0.0
+  Max: 47.99
+  Description: Manual gain (dB) - AnalogControl.GainAuto must already be Off (set at startup) for this to take effect.
+- FeatureName: ExposureTime
+  Type: float
+  Min: 15.7
+  Max: 24833.1
+  Description: Manual exposure (us) - AcquisitionControl.ExposureMode=Timed and ExposureAuto=Off must already be applied (set at startup) for this to take effect.

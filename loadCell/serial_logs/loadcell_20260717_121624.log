@@ -1,0 +1,345 @@
+ead back 0x0F OK
+Load cell tare: 10109 raw counts (from 10/10 samples)
+WiFi connecting.... connected
+WiFi IP: 192.168.4.101
+Initializing micro-ROS...
+Pinging agent at 192.168.4.100:8888 ...
+Waiting for micro-ROS agent Agent found after 0 pings!
+Node created
+Loadcell publisher created on topic: loadcell_data
+micro-ROS connected
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A2
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A2
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A2
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A2
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A2
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A2
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A2
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A2
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A2
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A2
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A2
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A2
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A2
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A2
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A2
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A2
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A2
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A2
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A2
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A2
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A2
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A2
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A2
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A2
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A2
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A2
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A2
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A2
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3

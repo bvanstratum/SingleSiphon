@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep -rl \"ID_V4L_PRODUCT\\\\|v4l_id\" /usr/lib/udev/rules.d/ /etc/udev/rules.d/ 2>/dev/null)",
+      "Read(//usr/lib/udev/rules.d/**)",
+      "Bash(v4l2-ctl -d /dev/cam_c990 --list-formats-ext)",
+      "Bash(v4l2-ctl -d /dev/cam_c615 --list-formats-ext)"
+    ]
+  }
+}

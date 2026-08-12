@@ -1,0 +1,29 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Build & Upload ESP32 (Actuator)",
+      "type": "shell",
+      "command": "./upload.sh",
+      "options": {
+        "cwd": "${workspaceFolder}/esp32_micro_ros"
+      },
+      "group": "build",
+      "presentation": {
+        "reveal": "always"
+      }
+    },
+    {
+      "label": "Build & Upload ESP32 (LoadCell)",
+      "type": "shell",
+      "command": "./upload.sh",
+      "options": {
+        "cwd": "${workspaceFolder}/loadCell"
+      },
+      "group": "build",
+      "presentation": {
+        "reveal": "always"
+      }
+    }
+  ]
+}

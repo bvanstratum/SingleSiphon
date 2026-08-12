@@ -1,0 +1,32 @@
+# Placeholder camera_info for the Grasshopper3 (camera_front) — uncalibrated.
+# camera_aravis2's camera_driver_uv requires a valid camera_info_url to start
+# at all; this just declares image size so it doesn't fail its startup
+# assertion. Run a real checkerboard calibration (ros2 run camera_calibration
+# cameracalibrator) later and replace this file if calibrated topics
+# (rectified images, accurate projection_matrix) are ever needed.
+image_width: 2048
+image_height: 1536
+camera_name: camera_front_vis
+camera_matrix:
+  rows: 3
+  cols: 3
+  data: [1.0, 0.0, 0.0,
+         0.0, 1.0, 0.0,
+         0.0, 0.0, 1.0]
+distortion_model: plumb_bob
+distortion_coefficients:
+  rows: 1
+  cols: 5
+  data: [0.0, 0.0, 0.0, 0.0, 0.0]
+rectification_matrix:
+  rows: 3
+  cols: 3
+  data: [1.0, 0.0, 0.0,
+         0.0, 1.0, 0.0,
+         0.0, 0.0, 1.0]
+projection_matrix:
+  rows: 3
+  cols: 4
+  data: [1.0, 0.0, 0.0, 0.0,
+         0.0, 1.0, 0.0, 0.0,
+         0.0, 0.0, 1.0, 0.0]

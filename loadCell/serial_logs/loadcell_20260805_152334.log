@@ -1,0 +1,2762 @@
+ote 0x0F, read back 0x0F OK
+  CTRL3: wrote 0x41, read back 0x41 OK
+  CTRL4: wrote 0x1E, read back 0x1E OK
+  CTRL5: wrote 0x0F, read back 0x0F OK
+Boot tare - collecting 2000 fresh samples:
+  sample    1:    10880  (running sum:     10880, n_ok: 1)
+  sample    2:    10772  (running sum:     21652, n_ok: 2)
+  sample    3:    10718  (running sum:     32370, n_ok: 3)
+  sample    4:    10827  (running sum:     43197, n_ok: 4)
+  sample    5:    10748  (running sum:     53945, n_ok: 5)
+  sample    6:    10833  (running sum:     64778, n_ok: 6)
+  sample    7:    10749  (running sum:     75527, n_ok: 7)
+  sample    8:    10801  (running sum:     86328, n_ok: 8)
+  sample    9:    10793  (running sum:     97121, n_ok: 9)
+  sample   10:    10972  (running sum:    108093, n_ok: 10)
+  sample   11:    11672  (running sum:    119765, n_ok: 11)
+  sample   12:    11332  (running sum:    131097, n_ok: 12)
+  sample   13:    11017  (running sum:    142114, n_ok: 13)
+  sample   14:    10904  (running sum:    153018, n_ok: 14)
+  sample   15:    10452  (running sum:    163470, n_ok: 15)
+  sample   16:    10557  (running sum:    174027, n_ok: 16)
+  sample   17:    10652  (running sum:    184679, n_ok: 17)
+  sample   18:    10856  (running sum:    195535, n_ok: 18)
+  sample   19:    11013  (running sum:    206548, n_ok: 19)
+  sample   20:    10989  (running sum:    217537, n_ok: 20)
+  sample   21:    10723  (running sum:    228260, n_ok: 21)
+  sample   22:    10605  (running sum:    238865, n_ok: 22)
+  sample   23:    10367  (running sum:    249232, n_ok: 23)
+  sample   24:    10243  (running sum:    259475, n_ok: 24)
+  sample   25:    10298  (running sum:    269773, n_ok: 25)
+  sample   26:    10178  (running sum:    279951, n_ok: 26)
+  sample   27:     9877  (running sum:    289828, n_ok: 27)
+  sample   28:     9786  (running sum:    299614, n_ok: 28)
+  sample   29:    10224  (running sum:    309838, n_ok: 29)
+  sample   30:    10322  (running sum:    320160, n_ok: 30)
+  sample   31:    10731  (running sum:    330891, n_ok: 31)
+  sample   32:    10926  (running sum:    341817, n_ok: 32)
+  sample   33:    11010  (running sum:    352827, n_ok: 33)
+  sample   34:    10885  (running sum:    363712, n_ok: 34)
+  sample   35:    10778  (running sum:    374490, n_ok: 35)
+  sample   36:    10852  (running sum:    385342, n_ok: 36)
+  sample   37:    10882  (running sum:    396224, n_ok: 37)
+  sample   38:    11151  (running sum:    407375, n_ok: 38)
+  sample   39:    11056  (running sum:    418431, n_ok: 39)
+  sample   40:    11080  (running sum:    429511, n_ok: 40)
+  sample   41:    11156  (running sum:    440667, n_ok: 41)
+  sample   42:    11063  (running sum:    451730, n_ok: 42)
+  sample   43:    11161  (running sum:    462891, n_ok: 43)
+  sample   44:    11604  (running sum:    474495, n_ok: 44)
+  sample   45:    11709  (running sum:    486204, n_ok: 45)
+  sample   46:    11400  (running sum:    497604, n_ok: 46)
+  sample   47:    11337  (running sum:    508941, n_ok: 47)
+  sample   48:    10750  (running sum:    519691, n_ok: 48)
+  sample   49:    10777  (running sum:    530468, n_ok: 49)
+  sample   50:    10401  (running sum:    540869, n_ok: 50)
+  sample   51:    10419  (running sum:    551288, n_ok: 51)
+  sample   52:    10305  (running sum:    561593, n_ok: 52)
+  sample   53:    10285  (running sum:    571878, n_ok: 53)
+  sample   54:    10140  (running sum:    582018, n_ok: 54)
+  sample   55:    10132  (running sum:    592150, n_ok: 55)
+  sample   56:    10052  (running sum:    602202, n_ok: 56)
+  sample   57:     9950  (running sum:    612152, n_ok: 57)
+  sample   58:     9859  (running sum:    622011, n_ok: 58)
+  sample   59:     9889  (running sum:    631900, n_ok: 59)
+  sample   60:     9443  (running sum:    641343, n_ok: 60)
+  sample   61:     8925  (running sum:    650268, n_ok: 61)
+  sample   62:     9103  (running sum:    659371, n_ok: 62)
+  sample   63:     9306  (running sum:    668677, n_ok: 63)
+  sample   64:     9357  (running sum:    678034, n_ok: 64)
+  sample   65:     9954  (running sum:    687988, n_ok: 65)
+  sample   66:    10287  (running sum:    698275, n_ok: 66)
+  sample   67:    10254  (running sum:    708529, n_ok: 67)
+  sample   68:    10289  (running sum:    718818, n_ok: 68)
+  sample   69:    10424  (running sum:    729242, n_ok: 69)
+  sample   70:    10469  (running sum:    739711, n_ok: 70)
+  sample   71:    10600  (running sum:    750311, n_ok: 71)
+  sample   72:    10578  (running sum:    760889, n_ok: 72)
+  sample   73:    10762  (running sum:    771651, n_ok: 73)
+  sample   74:    10750  (running sum:    782401, n_ok: 74)
+  sample   75:    10840  (running sum:    793241, n_ok: 75)
+  sample   76:    10934  (running sum:    804175, n_ok: 76)
+  sample   77:    11268  (running sum:    815443, n_ok: 77)
+  sample   78:    12203  (running sum:    827646, n_ok: 78)
+  sample   79:    11976  (running sum:    839622, n_ok: 79)
+  sample   80:    11931  (running sum:    851553, n_ok: 80)
+  sample   81:    11810  (running sum:    863363, n_ok: 81)
+  sample   82:    11304  (running sum:    874667, n_ok: 82)
+  sample   83:    11197  (running sum:    885864, n_ok: 83)
+  sample   84:    10966  (running sum:    896830, n_ok: 84)
+  sample   85:    11076  (running sum:    907906, n_ok: 85)
+  sample   86:    10985  (running sum:    918891, n_ok: 86)
+  sample   87:    11078  (running sum:    929969, n_ok: 87)
+  sample   88:    10965  (running sum:    940934, n_ok: 88)
+  sample   89:    11010  (running sum:    951944, n_ok: 89)
+  sample   90:    11065  (running sum:    963009, n_ok: 90)
+  sample   91:    10987  (running sum:    973996, n_ok: 91)
+  sample   92:    10985  (running sum:    984981, n_ok: 92)
+  sample   93:    10586  (running sum:    995567, n_ok: 93)
+  sample   94:    10074  (running sum:   1005641, n_ok: 94)
+  sample   95:     9689  (running sum:   1015330, n_ok: 95)
+  sample   96:     9786  (running sum:   1025116, n_ok: 96)
+  sample   97:    10004  (running sum:   1035120, n_ok: 97)
+  sample   98:    10398  (running sum:   1045518, n_ok: 98)
+  sample   99:    10693  (running sum:   1056211, n_ok: 99)
+  sample  100:    11029  (running sum:   1067240, n_ok: 100)
+  sample  101:    10955  (running sum:   1078195, n_ok: 101)
+  sample  102:    10837  (running sum:   1089032, n_ok: 102)
+  sample  103:    10892  (running sum:   1099924, n_ok: 103)
+  sample  104:    10699  (running sum:   1110623, n_ok: 104)
+  sample  105:    10776  (running sum:   1121399, n_ok: 105)
+  sample  106:    10687  (running sum:   1132086, n_ok: 106)
+  sample  107:    10759  (running sum:   1142845, n_ok: 107)
+  sample  108:    10699  (running sum:   1153544, n_ok: 108)
+  sample  109:    10784  (running sum:   1164328, n_ok: 109)
+  sample  110:    11061  (running sum:   1175389, n_ok: 110)
+  sample  111:    11823  (running sum:   1187212, n_ok: 111)
+  sample  112:    11876  (running sum:   1199088, n_ok: 112)
+  sample  113:    11633  (running sum:   1210721, n_ok: 113)
+  sample  114:    11651  (running sum:   1222372, n_ok: 114)
+  sample  115:    11020  (running sum:   1233392, n_ok: 115)
+  sample  116:    10915  (running sum:   1244307, n_ok: 116)
+  sample  117:    10742  (running sum:   1255049, n_ok: 117)
+  sample  118:    10460  (running sum:   1265509, n_ok: 118)
+  sample  119:    10505  (running sum:   1276014, n_ok: 119)
+  sample  120:    10486  (running sum:   1286500, n_ok: 120)
+  sample  121:    10494  (running sum:   1296994, n_ok: 121)
+  sample  122:    10432  (running sum:   1307426, n_ok: 122)
+  sample  123:    10523  (running sum:   1317949, n_ok: 123)
+  sample  124:    10519  (running sum:   1328468, n_ok: 124)
+  sample  125:    10585  (running sum:   1339053, n_ok: 125)
+  sample  126:    10613  (running sum:   1349666, n_ok: 126)
+  sample  127:    10099  (running sum:   1359765, n_ok: 127)
+  sample  128:     9730  (running sum:   1369495, n_ok: 128)
+  sample  129:     9802  (running sum:   1379297, n_ok: 129)
+  sample  130:     9876  (running sum:   1389173, n_ok: 130)
+  sample  131:     9847  (running sum:   1399020, n_ok: 131)
+  sample  132:    10283  (running sum:   1409303, n_ok: 132)
+  sample  133:    10359  (running sum:   1419662, n_ok: 133)
+  sample  134:    10317  (running sum:   1429979, n_ok: 134)
+  sample  135:    10343  (running sum:   1440322, n_ok: 135)
+  sample  136:    10507  (running sum:   1450829, n_ok: 136)
+  sample  137:    10454  (running sum:   1461283, n_ok: 137)
+  sample  138:    10611  (running sum:   1471894, n_ok: 138)
+  sample  139:    10639  (running sum:   1482533, n_ok: 139)
+  sample  140:    10856  (running sum:   1493389, n_ok: 140)
+  sample  141:    10763  (running sum:   1504152, n_ok: 141)
+  sample  142:    10510  (running sum:   1514662, n_ok: 142)
+  sample  143:    10401  (running sum:   1525063, n_ok: 143)
+  sample  144:    10704  (running sum:   1535767, n_ok: 144)
+  sample  145:    11365  (running sum:   1547132, n_ok: 145)
+  sample  146:    11008  (running sum:   1558140, n_ok: 146)
+  sample  147:    10995  (running sum:   1569135, n_ok: 147)
+  sample  148:    10784  (running sum:   1579919, n_ok: 148)
+  sample  149:    10339  (running sum:   1590258, n_ok: 149)
+  sample  150:    10465  (running sum:   1600723, n_ok: 150)
+  sample  151:    10534  (running sum:   1611257, n_ok: 151)
+  sample  152:    10594  (running sum:   1621851, n_ok: 152)
+  sample  153:    10512  (running sum:   1632363, n_ok: 153)
+  sample  154:    10377  (running sum:   1642740, n_ok: 154)
+  sample  155:    10051  (running sum:   1652791, n_ok: 155)
+  sample  156:     9900  (running sum:   1662691, n_ok: 156)
+  sample  157:     9854  (running sum:   1672545, n_ok: 157)
+  sample  158:     9983  (running sum:   1682528, n_ok: 158)
+  sample  159:     9941  (running sum:   1692469, n_ok: 159)
+  sample  160:     9671  (running sum:   1702140, n_ok: 160)
+  sample  161:     9524  (running sum:   1711664, n_ok: 161)
+  sample  162:     9351  (running sum:   1721015, n_ok: 162)
+  sample  163:     9678  (running sum:   1730693, n_ok: 163)
+  sample  164:     9733  (running sum:   1740426, n_ok: 164)
+  sample  165:    10118  (running sum:   1750544, n_ok: 165)
+  sample  166:    10299  (running sum:   1760843, n_ok: 166)
+  sample  167:    10578  (running sum:   1771421, n_ok: 167)
+  sample  168:    10482  (running sum:   1781903, n_ok: 168)
+  sample  169:    10626  (running sum:   1792529, n_ok: 169)
+  sample  170:    10536  (running sum:   1803065, n_ok: 170)
+  sample  171:    10475  (running sum:   1813540, n_ok: 171)
+  sample  172:    10746  (running sum:   1824286, n_ok: 172)
+  sample  173:    10759  (running sum:   1835045, n_ok: 173)
+  sample  174:    10810  (running sum:   1845855, n_ok: 174)
+  sample  175:    10888  (running sum:   1856743, n_ok: 175)
+  sample  176:    10788  (running sum:   1867531, n_ok: 176)
+  sample  177:    10979  (running sum:   1878510, n_ok: 177)
+  sample  178:    11789  (running sum:   1890299, n_ok: 178)
+  sample  179:    11901  (running sum:   1902200, n_ok: 179)
+  sample  180:    11749  (running sum:   1913949, n_ok: 180)
+  sample  181:    11615  (running sum:   1925564, n_ok: 181)
+  sample  182:    11051  (running sum:   1936615, n_ok: 182)
+  sample  183:    11034  (running sum:   1947649, n_ok: 183)
+  sample  184:    10713  (running sum:   1958362, n_ok: 184)
+  sample  185:    10669  (running sum:   1969031, n_ok: 185)
+  sample  186:    10754  (running sum:   1979785, n_ok: 186)
+  sample  187:    10776  (running sum:   1990561, n_ok: 187)
+  sample  188:    10666  (running sum:   2001227, n_ok: 188)
+  sample  189:    10711  (running sum:   2011938, n_ok: 189)
+  sample  190:    10702  (running sum:   2022640, n_ok: 190)
+  sample  191:    10660  (running sum:   2033300, n_ok: 191)
+  sample  192:    10605  (running sum:   2043905, n_ok: 192)
+  sample  193:    10727  (running sum:   2054632, n_ok: 193)
+  sample  194:    10168  (running sum:   2064800, n_ok: 194)
+  sample  195:     9582  (running sum:   2074382, n_ok: 195)
+  sample  196:     9836  (running sum:   2084218, n_ok: 196)
+  sample  197:     9919  (running sum:   2094137, n_ok: 197)
+  sample  198:    10003  (running sum:   2104140, n_ok: 198)
+  sample  199:    10566  (running sum:   2114706, n_ok: 199)
+  sample  200:    10852  (running sum:   2125558, n_ok: 200)
+  sample  201:    10738  (running sum:   2136296, n_ok: 201)
+  sample  202:    10794  (running sum:   2147090, n_ok: 202)
+  sample  203:    10793  (running sum:   2157883, n_ok: 203)
+  sample  204:    10847  (running sum:   2168730, n_ok: 204)
+  sample  205:    10998  (running sum:   2179728, n_ok: 205)
+  sample  206:    11121  (running sum:   2190849, n_ok: 206)
+  sample  207:    11091  (running sum:   2201940, n_ok: 207)
+  sample  208:    11001  (running sum:   2212941, n_ok: 208)
+  sample  209:    11119  (running sum:   2224060, n_ok: 209)
+  sample  210:    11285  (running sum:   2235345, n_ok: 210)
+  sample  211:    11646  (running sum:   2246991, n_ok: 211)
+  sample  212:    12363  (running sum:   2259354, n_ok: 212)
+  sample  213:    12024  (running sum:   2271378, n_ok: 213)
+  sample  214:    11877  (running sum:   2283255, n_ok: 214)
+  sample  215:    11800  (running sum:   2295055, n_ok: 215)
+  sample  216:    11402  (running sum:   2306457, n_ok: 216)
+  sample  217:    11331  (running sum:   2317788, n_ok: 217)
+  sample  218:    11179  (running sum:   2328967, n_ok: 218)
+  sample  219:    11195  (running sum:   2340162, n_ok: 219)
+  sample  220:    11221  (running sum:   2351383, n_ok: 220)
+  sample  221:    11296  (running sum:   2362679, n_ok: 221)
+  sample  222:    10984  (running sum:   2373663, n_ok: 222)
+  sample  223:    11091  (running sum:   2384754, n_ok: 223)
+  sample  224:    10965  (running sum:   2395719, n_ok: 224)
+  sample  225:    10883  (running sum:   2406602, n_ok: 225)
+  sample  226:    10773  (running sum:   2417375, n_ok: 226)
+  sample  227:    10398  (running sum:   2427773, n_ok: 227)
+  sample  228:    10019  (running sum:   2437792, n_ok: 228)
+  sample  229:     9684  (running sum:   2447476, n_ok: 229)
+  sample  230:     9985  (running sum:   2457461, n_ok: 230)
+  sample  231:     9924  (running sum:   2467385, n_ok: 231)
+  sample  232:    10435  (running sum:   2477820, n_ok: 232)
+  sample  233:    10786  (running sum:   2488606, n_ok: 233)
+  sample  234:    10746  (running sum:   2499352, n_ok: 234)
+  sample  235:    10710  (running sum:   2510062, n_ok: 235)
+  sample  236:    10649  (running sum:   2520711, n_ok: 236)
+  sample  237:    10484  (running sum:   2531195, n_ok: 237)
+  sample  238:    10450  (running sum:   2541645, n_ok: 238)
+  sample  239:    10335  (running sum:   2551980, n_ok: 239)
+  sample  240:    10328  (running sum:   2562308, n_ok: 240)
+  sample  241:    10218  (running sum:   2572526, n_ok: 241)
+  sample  242:    10418  (running sum:   2582944, n_ok: 242)
+  sample  243:    10343  (running sum:   2593287, n_ok: 243)
+  sample  244:    10694  (running sum:   2603981, n_ok: 244)
+  sample  245:    11480  (running sum:   2615461, n_ok: 245)
+  sample  246:    11555  (running sum:   2627016, n_ok: 246)
+  sample  247:    11426  (running sum:   2638442, n_ok: 247)
+  sample  248:    11352  (running sum:   2649794, n_ok: 248)
+  sample  249:    10683  (running sum:   2660477, n_ok: 249)
+  sample  250:    10605  (running sum:   2671082, n_ok: 250)
+  sample  251:    10250  (running sum:   2681332, n_ok: 251)
+  sample  252:    10143  (running sum:   2691475, n_ok: 252)
+  sample  253:    10158  (running sum:   2701633, n_ok: 253)
+  sample  254:    10278  (running sum:   2711911, n_ok: 254)
+  sample  255:    10336  (running sum:   2722247, n_ok: 255)
+  sample  256:    10434  (running sum:   2732681, n_ok: 256)
+  sample  257:    10537  (running sum:   2743218, n_ok: 257)
+  sample  258:    10730  (running sum:   2753948, n_ok: 258)
+  sample  259:    10610  (running sum:   2764558, n_ok: 259)
+  sample  260:    10672  (running sum:   2775230, n_ok: 260)
+  sample  261:    10041  (running sum:   2785271, n_ok: 261)
+  sample  262:     9439  (running sum:   2794710, n_ok: 262)
+  sample  263:     9578  (running sum:   2804288, n_ok: 263)
+  sample  264:     9679  (running sum:   2813967, n_ok: 264)
+  sample  265:     9933  (running sum:   2823900, n_ok: 265)
+  sample  266:    10474  (running sum:   2834374, n_ok: 266)
+  sample  267:    10758  (running sum:   2845132, n_ok: 267)
+  sample  268:    10903  (running sum:   2856035, n_ok: 268)
+  sample  269:    10992  (running sum:   2867027, n_ok: 269)
+  sample  270:    10947  (running sum:   2877974, n_ok: 270)
+  sample  271:    10893  (running sum:   2888867, n_ok: 271)
+  sample  272:    10963  (running sum:   2899830, n_ok: 272)
+  sample  273:    10904  (running sum:   2910734, n_ok: 273)
+  sample  274:    10720  (running sum:   2921454, n_ok: 274)
+  sample  275:    10604  (running sum:   2932058, n_ok: 275)
+  sample  276:    10726  (running sum:   2942784, n_ok: 276)
+  sample  277:    10711  (running sum:   2953495, n_ok: 277)
+  sample  278:    11219  (running sum:   2964714, n_ok: 278)
+  sample  279:    11773  (running sum:   2976487, n_ok: 279)
+  sample  280:    11631  (running sum:   2988118, n_ok: 280)
+  sample  281:    11419  (running sum:   2999537, n_ok: 281)
+  sample  282:    11057  (running sum:   3010594, n_ok: 282)
+  sample  283:    10798  (running sum:   3021392, n_ok: 283)
+  sample  284:    10582  (running sum:   3031974, n_ok: 284)
+  sample  285:    10507  (running sum:   3042481, n_ok: 285)
+  sample  286:    10341  (running sum:   3052822, n_ok: 286)
+  sample  287:    10357  (running sum:   3063179, n_ok: 287)
+  sample  288:    10380  (running sum:   3073559, n_ok: 288)
+  sample  289:    10108  (running sum:   3083667, n_ok: 289)
+  sample  290:    10372  (running sum:   3094039, n_ok: 290)
+  sample  291:    10282  (running sum:   3104321, n_ok: 291)
+  sample  292:    10429  (running sum:   3114750, n_ok: 292)
+  sample  293:    10283  (running sum:   3125033, n_ok: 293)
+  sample  294:     9998  (running sum:   3135031, n_ok: 294)
+  sample  295:     9529  (running sum:   3144560, n_ok: 295)
+  sample  296:     9474  (running sum:   3154034, n_ok: 296)
+  sample  297:     9483  (running sum:   3163517, n_ok: 297)
+  sample  298:     9607  (running sum:   3173124, n_ok: 298)
+  sample  299:    10161  (running sum:   3183285, n_ok: 299)
+  sample  300:    10386  (running sum:   3193671, n_ok: 300)
+  sample  301:    10527  (running sum:   3204198, n_ok: 301)
+  sample  302:    10654  (running sum:   3214852, n_ok: 302)
+  sample  303:    10861  (running sum:   3225713, n_ok: 303)
+  sample  304:    10960  (running sum:   3236673, n_ok: 304)
+  sample  305:    11024  (running sum:   3247697, n_ok: 305)
+  sample  306:    10922  (running sum:   3258619, n_ok: 306)
+  sample  307:    10992  (running sum:   3269611, n_ok: 307)
+  sample  308:    11031  (running sum:   3280642, n_ok: 308)
+  sample  309:    11065  (running sum:   3291707, n_ok: 309)
+  sample  310:    10997  (running sum:   3302704, n_ok: 310)
+  sample  311:    11345  (running sum:   3314049, n_ok: 311)
+  sample  312:    12221  (running sum:   3326270, n_ok: 312)
+  sample  313:    12144  (running sum:   3338414, n_ok: 313)
+  sample  314:    12034  (running sum:   3350448, n_ok: 314)
+  sample  315:    11917  (running sum:   3362365, n_ok: 315)
+  sample  316:    11300  (running sum:   3373665, n_ok: 316)
+  sample  317:    11303  (running sum:   3384968, n_ok: 317)
+  sample  318:    11128  (running sum:   3396096, n_ok: 318)
+  sample  319:    11040  (running sum:   3407136, n_ok: 319)
+  sample  320:    11015  (running sum:   3418151, n_ok: 320)
+  sample  321:    11001  (running sum:   3429152, n_ok: 321)
+  sample  322:    10822  (running sum:   3439974, n_ok: 322)
+  sample  323:    10833  (running sum:   3450807, n_ok: 323)
+  sample  324:    10860  (running sum:   3461667, n_ok: 324)
+  sample  325:    10814  (running sum:   3472481, n_ok: 325)
+  sample  326:    10836  (running sum:   3483317, n_ok: 326)
+  sample  327:    10706  (running sum:   3494023, n_ok: 327)
+  sample  328:    10231  (running sum:   3504254, n_ok: 328)
+  sample  329:     9773  (running sum:   3514027, n_ok: 329)
+  sample  330:     9943  (running sum:   3523970, n_ok: 330)
+  sample  331:     9968  (running sum:   3533938, n_ok: 331)
+  sample  332:    10085  (running sum:   3544023, n_ok: 332)
+  sample  333:    10548  (running sum:   3554571, n_ok: 333)
+  sample  334:    10697  (running sum:   3565268, n_ok: 334)
+  sample  335:    10734  (running sum:   3576002, n_ok: 335)
+  sample  336:    10777  (running sum:   3586779, n_ok: 336)
+  sample  337:    10744  (running sum:   3597523, n_ok: 337)
+  sample  338:    10818  (running sum:   3608341, n_ok: 338)
+  sample  339:    10918  (running sum:   3619259, n_ok: 339)
+  sample  340:    10809  (running sum:   3630068, n_ok: 340)
+  sample  341:    10814  (running sum:   3640882, n_ok: 341)
+  sample  342:    10712  (running sum:   3651594, n_ok: 342)
+  sample  343:    10638  (running sum:   3662232, n_ok: 343)
+  sample  344:    10801  (running sum:   3673033, n_ok: 344)
+  sample  345:    11331  (running sum:   3684364, n_ok: 345)
+  sample  346:    11690  (running sum:   3696054, n_ok: 346)
+  sample  347:    11393  (running sum:   3707447, n_ok: 347)
+  sample  348:    11438  (running sum:   3718885, n_ok: 348)
+  sample  349:    10961  (running sum:   3729846, n_ok: 349)
+  sample  350:    10802  (running sum:   3740648, n_ok: 350)
+  sample  351:    10597  (running sum:   3751245, n_ok: 351)
+  sample  352:    10552  (running sum:   3761797, n_ok: 352)
+  sample  353:    10576  (running sum:   3772373, n_ok: 353)
+  sample  354:    10599  (running sum:   3782972, n_ok: 354)
+  sample  355:    10706  (running sum:   3793678, n_ok: 355)
+  sample  356:    10252  (running sum:   3803930, n_ok: 356)
+  sample  357:    10169  (running sum:   3814099, n_ok: 357)
+  sample  358:     9855  (running sum:   3823954, n_ok: 358)
+  sample  359:     9906  (running sum:   3833860, n_ok: 359)
+  sample  360:    10121  (running sum:   3843981, n_ok: 360)
+  sample  361:     9711  (running sum:   3853692, n_ok: 361)
+  sample  362:     9132  (running sum:   3862824, n_ok: 362)
+  sample  363:     9094  (running sum:   3871918, n_ok: 363)
+  sample  364:     9514  (running sum:   3881432, n_ok: 364)
+  sample  365:     9712  (running sum:   3891144, n_ok: 365)
+  sample  366:    10079  (running sum:   3901223, n_ok: 366)
+  sample  367:    10159  (running sum:   3911382, n_ok: 367)
+  sample  368:     9923  (running sum:   3921305, n_ok: 368)
+  sample  369:     9917  (running sum:   3931222, n_ok: 369)
+  sample  370:    10030  (running sum:   3941252, n_ok: 370)
+  sample  371:    10069  (running sum:   3951321, n_ok: 371)
+  sample  372:    10136  (running sum:   3961457, n_ok: 372)
+  sample  373:    10195  (running sum:   3971652, n_ok: 373)
+  sample  374:    10410  (running sum:   3982062, n_ok: 374)
+  sample  375:    10618  (running sum:   3992680, n_ok: 375)
+  sample  376:    10633  (running sum:   4003313, n_ok: 376)
+  sample  377:    10666  (running sum:   4013979, n_ok: 377)
+  sample  378:    11041  (running sum:   4025020, n_ok: 378)
+  sample  379:    11742  (running sum:   4036762, n_ok: 379)
+  sample  380:    11211  (running sum:   4047973, n_ok: 380)
+  sample  381:    11153  (running sum:   4059126, n_ok: 381)
+  sample  382:    11038  (running sum:   4070164, n_ok: 382)
+  sample  383:    10511  (running sum:   4080675, n_ok: 383)
+  sample  384:    10493  (running sum:   4091168, n_ok: 384)
+  sample  385:    10455  (running sum:   4101623, n_ok: 385)
+  sample  386:    10563  (running sum:   4112186, n_ok: 386)
+  sample  387:    10651  (running sum:   4122837, n_ok: 387)
+  sample  388:    10735  (running sum:   4133572, n_ok: 388)
+  sample  389:    10660  (running sum:   4144232, n_ok: 389)
+  sample  390:    10647  (running sum:   4154879, n_ok: 390)
+  sample  391:    10478  (running sum:   4165357, n_ok: 391)
+  sample  392:    10559  (running sum:   4175916, n_ok: 392)
+  sample  393:    10530  (running sum:   4186446, n_ok: 393)
+  sample  394:    10401  (running sum:   4196847, n_ok: 394)
+  sample  395:     9865  (running sum:   4206712, n_ok: 395)
+  sample  396:     9562  (running sum:   4216274, n_ok: 396)
+  sample  397:     9679  (running sum:   4225953, n_ok: 397)
+  sample  398:     9950  (running sum:   4235903, n_ok: 398)
+  sample  399:    10273  (running sum:   4246176, n_ok: 399)
+  sample  400:    10628  (running sum:   4256804, n_ok: 400)
+  sample  401:    10915  (running sum:   4267719, n_ok: 401)
+  sample  402:    10836  (running sum:   4278555, n_ok: 402)
+  sample  403:    10920  (running sum:   4289475, n_ok: 403)
+  sample  404:    10890  (running sum:   4300365, n_ok: 404)
+  sample  405:    10971  (running sum:   4311336, n_ok: 405)
+  sample  406:    11041  (running sum:   4322377, n_ok: 406)
+  sample  407:    10979  (running sum:   4333356, n_ok: 407)
+  sample  408:    10995  (running sum:   4344351, n_ok: 408)
+  sample  409:    10982  (running sum:   4355333, n_ok: 409)
+  sample  410:    11018  (running sum:   4366351, n_ok: 410)
+  sample  411:    11242  (running sum:   4377593, n_ok: 411)
+  sample  412:    11886  (running sum:   4389479, n_ok: 412)
+  sample  413:    12081  (running sum:   4401560, n_ok: 413)
+  sample  414:    11861  (running sum:   4413421, n_ok: 414)
+  sample  415:    11784  (running sum:   4425205, n_ok: 415)
+  sample  416:    11288  (running sum:   4436493, n_ok: 416)
+  sample  417:    11206  (running sum:   4447699, n_ok: 417)
+  sample  418:    10974  (running sum:   4458673, n_ok: 418)
+  sample  419:    10808  (running sum:   4469481, n_ok: 419)
+  sample  420:    10906  (running sum:   4480387, n_ok: 420)
+  sample  421:    10842  (running sum:   4491229, n_ok: 421)
+  sample  422:    10791  (running sum:   4502020, n_ok: 422)
+  sample  423:    10749  (running sum:   4512769, n_ok: 423)
+  sample  424:    10673  (running sum:   4523442, n_ok: 424)
+  sample  425:    10699  (running sum:   4534141, n_ok: 425)
+  sample  426:    10670  (running sum:   4544811, n_ok: 426)
+  sample  427:    10742  (running sum:   4555553, n_ok: 427)
+  sample  428:    10242  (running sum:   4565795, n_ok: 428)
+  sample  429:     9710  (running sum:   4575505, n_ok: 429)
+  sample  430:     9733  (running sum:   4585238, n_ok: 430)
+  sample  431:     9763  (running sum:   4595001, n_ok: 431)
+  sample  432:     9796  (running sum:   4604797, n_ok: 432)
+  sample  433:    10640  (running sum:   4615437, n_ok: 433)
+  sample  434:    10796  (running sum:   4626233, n_ok: 434)
+  sample  435:    10863  (running sum:   4637096, n_ok: 435)
+  sample  436:    10847  (running sum:   4647943, n_ok: 436)
+  sample  437:    10878  (running sum:   4658821, n_ok: 437)
+  sample  438:    10864  (running sum:   4669685, n_ok: 438)
+  sample  439:    11010  (running sum:   4680695, n_ok: 439)
+  sample  440:    10831  (running sum:   4691526, n_ok: 440)
+  sample  441:    10964  (running sum:   4702490, n_ok: 441)
+  sample  442:    10931  (running sum:   4713421, n_ok: 442)
+  sample  443:    10912  (running sum:   4724333, n_ok: 443)
+  sample  444:    10906  (running sum:   4735239, n_ok: 444)
+  sample  445:    11312  (running sum:   4746551, n_ok: 445)
+  sample  446:    12189  (running sum:   4758740, n_ok: 446)
+  sample  447:    11991  (running sum:   4770731, n_ok: 447)
+  sample  448:    11798  (running sum:   4782529, n_ok: 448)
+  sample  449:    11692  (running sum:   4794221, n_ok: 449)
+  sample  450:    11115  (running sum:   4805336, n_ok: 450)
+  sample  451:    10888  (running sum:   4816224, n_ok: 451)
+  sample  452:    10805  (running sum:   4827029, n_ok: 452)
+  sample  453:    10699  (running sum:   4837728, n_ok: 453)
+  sample  454:    10592  (running sum:   4848320, n_ok: 454)
+  sample  455:    10793  (running sum:   4859113, n_ok: 455)
+  sample  456:    10530  (running sum:   4869643, n_ok: 456)
+  sample  457:    10509  (running sum:   4880152, n_ok: 457)
+  sample  458:    10588  (running sum:   4890740, n_ok: 458)
+  sample  459:    10607  (running sum:   4901347, n_ok: 459)
+  sample  460:    10493  (running sum:   4911840, n_ok: 460)
+  sample  461:    10340  (running sum:   4922180, n_ok: 461)
+  sample  462:     9828  (running sum:   4932008, n_ok: 462)
+  sample  463:     9283  (running sum:   4941291, n_ok: 463)
+  sample  464:     9400  (running sum:   4950691, n_ok: 464)
+  sample  465:     9395  (running sum:   4960086, n_ok: 465)
+  sample  466:     9774  (running sum:   4969860, n_ok: 466)
+  sample  467:    10144  (running sum:   4980004, n_ok: 467)
+  sample  468:    10387  (running sum:   4990391, n_ok: 468)
+  sample  469:    10353  (running sum:   5000744, n_ok: 469)
+  sample  470:    10343  (running sum:   5011087, n_ok: 470)
+  sample  471:    10368  (running sum:   5021455, n_ok: 471)
+  sample  472:    10296  (running sum:   5031751, n_ok: 472)
+  sample  473:    10502  (running sum:   5042253, n_ok: 473)
+  sample  474:    10369  (running sum:   5052622, n_ok: 474)
+  sample  475:    10438  (running sum:   5063060, n_ok: 475)
+  sample  476:    10354  (running sum:   5073414, n_ok: 476)
+  sample  477:    10404  (running sum:   5083818, n_ok: 477)
+  sample  478:    10536  (running sum:   5094354, n_ok: 478)
+  sample  479:    11228  (running sum:   5105582, n_ok: 479)
+  sample  480:    11423  (running sum:   5117005, n_ok: 480)
+  sample  481:    11307  (running sum:   5128312, n_ok: 481)
+  sample  482:    11253  (running sum:   5139565, n_ok: 482)
+  sample  483:    10725  (running sum:   5150290, n_ok: 483)
+  sample  484:    10875  (running sum:   5161165, n_ok: 484)
+  sample  485:    10560  (running sum:   5171725, n_ok: 485)
+  sample  486:    10480  (running sum:   5182205, n_ok: 486)
+  sample  487:    10449  (running sum:   5192654, n_ok: 487)
+  sample  488:    10443  (running sum:   5203097, n_ok: 488)
+  sample  489:    10375  (running sum:   5213472, n_ok: 489)
+  sample  490:    10373  (running sum:   5223845, n_ok: 490)
+  sample  491:    10317  (running sum:   5234162, n_ok: 491)
+  sample  492:    10462  (running sum:   5244624, n_ok: 492)
+  sample  493:    10521  (running sum:   5255145, n_ok: 493)
+  sample  494:    10563  (running sum:   5265708, n_ok: 494)
+  sample  495:    10130  (running sum:   5275838, n_ok: 495)
+  sample  496:     9440  (running sum:   5285278, n_ok: 496)
+  sample  497:     9722  (running sum:   5295000, n_ok: 497)
+  sample  498:     9669  (running sum:   5304669, n_ok: 498)
+  sample  499:     9849  (running sum:   5314518, n_ok: 499)
+  sample  500:    10453  (running sum:   5324971, n_ok: 500)
+  sample  501:    10648  (running sum:   5335619, n_ok: 501)
+  sample  502:    10607  (running sum:   5346226, n_ok: 502)
+  sample  503:    10732  (running sum:   5356958, n_ok: 503)
+  sample  504:    10753  (running sum:   5367711, n_ok: 504)
+  sample  505:    10631  (running sum:   5378342, n_ok: 505)
+  sample  506:    10715  (running sum:   5389057, n_ok: 506)
+  sample  507:    10720  (running sum:   5399777, n_ok: 507)
+  sample  508:    10961  (running sum:   5410738, n_ok: 508)
+  sample  509:    10736  (running sum:   5421474, n_ok: 509)
+  sample  510:    10730  (running sum:   5432204, n_ok: 510)
+  sample  511:    10740  (running sum:   5442944, n_ok: 511)
+  sample  512:    11133  (running sum:   5454077, n_ok: 512)
+  sample  513:    11980  (running sum:   5466057, n_ok: 513)
+  sample  514:    11734  (running sum:   5477791, n_ok: 514)
+  sample  515:    11748  (running sum:   5489539, n_ok: 515)
+  sample  516:    11481  (running sum:   5501020, n_ok: 516)
+  sample  517:    11239  (running sum:   5512259, n_ok: 517)
+  sample  518:    11028  (running sum:   5523287, n_ok: 518)
+  sample  519:    10920  (running sum:   5534207, n_ok: 519)
+  sample  520:    10999  (running sum:   5545206, n_ok: 520)
+  sample  521:    10941  (running sum:   5556147, n_ok: 521)
+  sample  522:    10847  (running sum:   5566994, n_ok: 522)
+  sample  523:    10643  (running sum:   5577637, n_ok: 523)
+  sample  524:    10742  (running sum:   5588379, n_ok: 524)
+  sample  525:    10706  (running sum:   5599085, n_ok: 525)
+  sample  526:    10897  (running sum:   5609982, n_ok: 526)
+  sample  527:    10889  (running sum:   5620871, n_ok: 527)
+  sample  528:    10645  (running sum:   5631516, n_ok: 528)
+  sample  529:    10193  (running sum:   5641709, n_ok: 529)
+  sample  530:     9807  (running sum:   5651516, n_ok: 530)
+  sample  531:    10007  (running sum:   5661523, n_ok: 531)
+  sample  532:    10089  (running sum:   5671612, n_ok: 532)
+  sample  533:    10457  (running sum:   5682069, n_ok: 533)
+  sample  534:    10837  (running sum:   5692906, n_ok: 534)
+  sample  535:    10952  (running sum:   5703858, n_ok: 535)
+  sample  536:    10895  (running sum:   5714753, n_ok: 536)
+  sample  537:    10945  (running sum:   5725698, n_ok: 537)
+  sample  538:    11011  (running sum:   5736709, n_ok: 538)
+  sample  539:    10966  (running sum:   5747675, n_ok: 539)
+  sample  540:    10932  (running sum:   5758607, n_ok: 540)
+  sample  541:    11011  (running sum:   5769618, n_ok: 541)
+  sample  542:    11060  (running sum:   5780678, n_ok: 542)
+  sample  543:    10972  (running sum:   5791650, n_ok: 543)
+  sample  544:    10848  (running sum:   5802498, n_ok: 544)
+  sample  545:    10972  (running sum:   5813470, n_ok: 545)
+  sample  546:    11841  (running sum:   5825311, n_ok: 546)
+  sample  547:    11980  (running sum:   5837291, n_ok: 547)
+  sample  548:    11755  (running sum:   5849046, n_ok: 548)
+  sample  549:    11533  (running sum:   5860579, n_ok: 549)
+  sample  550:    11018  (running sum:   5871597, n_ok: 550)
+  sample  551:    11044  (running sum:   5882641, n_ok: 551)
+  sample  552:    10829  (running sum:   5893470, n_ok: 552)
+  sample  553:    10861  (running sum:   5904331, n_ok: 553)
+  sample  554:    10861  (running sum:   5915192, n_ok: 554)
+  sample  555:    10798  (running sum:   5925990, n_ok: 555)
+  sample  556:    10648  (running sum:   5936638, n_ok: 556)
+  sample  557:    10720  (running sum:   5947358, n_ok: 557)
+  sample  558:    10586  (running sum:   5957944, n_ok: 558)
+  sample  559:    10710  (running sum:   5968654, n_ok: 559)
+  sample  560:    10648  (running sum:   5979302, n_ok: 560)
+  sample  561:    10621  (running sum:   5989923, n_ok: 561)
+  sample  562:    10107  (running sum:   6000030, n_ok: 562)
+  sample  563:     9648  (running sum:   6009678, n_ok: 563)
+  sample  564:     9702  (running sum:   6019380, n_ok: 564)
+  sample  565:     9900  (running sum:   6029280, n_ok: 565)
+  sample  566:     9946  (running sum:   6039226, n_ok: 566)
+  sample  567:    10607  (running sum:   6049833, n_ok: 567)
+  sample  568:    10850  (running sum:   6060683, n_ok: 568)
+  sample  569:    10766  (running sum:   6071449, n_ok: 569)
+  sample  570:    10701  (running sum:   6082150, n_ok: 570)
+  sample  571:    10822  (running sum:   6092972, n_ok: 571)
+  sample  572:    10795  (running sum:   6103767, n_ok: 572)
+  sample  573:    10798  (running sum:   6114565, n_ok: 573)
+  sample  574:    10652  (running sum:   6125217, n_ok: 574)
+  sample  575:    10657  (running sum:   6135874, n_ok: 575)
+  sample  576:    10620  (running sum:   6146494, n_ok: 576)
+  sample  577:    10635  (running sum:   6157129, n_ok: 577)
+  sample  578:    10698  (running sum:   6167827, n_ok: 578)
+  sample  579:    11030  (running sum:   6178857, n_ok: 579)
+  sample  580:    11790  (running sum:   6190647, n_ok: 580)
+  sample  581:    11451  (running sum:   6202098, n_ok: 581)
+  sample  582:    11356  (running sum:   6213454, n_ok: 582)
+  sample  583:    10939  (running sum:   6224393, n_ok: 583)
+  sample  584:    10453  (running sum:   6234846, n_ok: 584)
+  sample  585:    10329  (running sum:   6245175, n_ok: 585)
+  sample  586:    10152  (running sum:   6255327, n_ok: 586)
+  sample  587:    10178  (running sum:   6265505, n_ok: 587)
+  sample  588:    10110  (running sum:   6275615, n_ok: 588)
+  sample  589:    10279  (running sum:   6285894, n_ok: 589)
+  sample  590:    10006  (running sum:   6295900, n_ok: 590)
+  sample  591:     9951  (running sum:   6305851, n_ok: 591)
+  sample  592:    10017  (running sum:   6315868, n_ok: 592)
+  sample  593:    10115  (running sum:   6325983, n_ok: 593)
+  sample  594:    10074  (running sum:   6336057, n_ok: 594)
+  sample  595:     9701  (running sum:   6345758, n_ok: 595)
+  sample  596:     9409  (running sum:   6355167, n_ok: 596)
+  sample  597:     8966  (running sum:   6364133, n_ok: 597)
+  sample  598:     9258  (running sum:   6373391, n_ok: 598)
+  sample  599:     9295  (running sum:   6382686, n_ok: 599)
+  sample  600:     9891  (running sum:   6392577, n_ok: 600)
+  sample  601:    10197  (running sum:   6402774, n_ok: 601)
+  sample  602:    10417  (running sum:   6413191, n_ok: 602)
+  sample  603:    10518  (running sum:   6423709, n_ok: 603)
+  sample  604:    10569  (running sum:   6434278, n_ok: 604)
+  sample  605:    10598  (running sum:   6444876, n_ok: 605)
+  sample  606:    10601  (running sum:   6455477, n_ok: 606)
+  sample  607:    10755  (running sum:   6466232, n_ok: 607)
+  sample  608:    10727  (running sum:   6476959, n_ok: 608)
+  sample  609:    10563  (running sum:   6487522, n_ok: 609)
+  sample  610:    10749  (running sum:   6498271, n_ok: 610)
+  sample  611:    10646  (running sum:   6508917, n_ok: 611)
+  sample  612:    11010  (running sum:   6519927, n_ok: 612)
+  sample  613:    11789  (running sum:   6531716, n_ok: 613)
+  sample  614:    11855  (running sum:   6543571, n_ok: 614)
+  sample  615:    11787  (running sum:   6555358, n_ok: 615)
+  sample  616:    11737  (running sum:   6567095, n_ok: 616)
+  sample  617:    11136  (running sum:   6578231, n_ok: 617)
+  sample  618:    10974  (running sum:   6589205, n_ok: 618)
+  sample  619:    10883  (running sum:   6600088, n_ok: 619)
+  sample  620:    10744  (running sum:   6610832, n_ok: 620)
+  sample  621:    10713  (running sum:   6621545, n_ok: 621)
+  sample  622:    10857  (running sum:   6632402, n_ok: 622)
+  sample  623:    10720  (running sum:   6643122, n_ok: 623)
+  sample  624:    10809  (running sum:   6653931, n_ok: 624)
+  sample  625:    10810  (running sum:   6664741, n_ok: 625)
+  sample  626:    10761  (running sum:   6675502, n_ok: 626)
+  sample  627:    10758  (running sum:   6686260, n_ok: 627)
+  sample  628:    10835  (running sum:   6697095, n_ok: 628)
+  sample  629:    10242  (running sum:   6707337, n_ok: 629)
+  sample  630:     9653  (running sum:   6716990, n_ok: 630)
+  sample  631:     9903  (running sum:   6726893, n_ok: 631)
+  sample  632:     9974  (running sum:   6736867, n_ok: 632)
+  sample  633:    10119  (running sum:   6746986, n_ok: 633)
+  sample  634:    10705  (running sum:   6757691, n_ok: 634)
+  sample  635:    10900  (running sum:   6768591, n_ok: 635)
+  sample  636:    10761  (running sum:   6779352, n_ok: 636)
+  sample  637:    10870  (running sum:   6790222, n_ok: 637)
+  sample  638:    10936  (running sum:   6801158, n_ok: 638)
+  sample  639:    10939  (running sum:   6812097, n_ok: 639)
+  sample  640:    11037  (running sum:   6823134, n_ok: 640)
+  sample  641:    10961  (running sum:   6834095, n_ok: 641)
+  sample  642:    11022  (running sum:   6845117, n_ok: 642)
+  sample  643:    10977  (running sum:   6856094, n_ok: 643)
+  sample  644:    10977  (running sum:   6867071, n_ok: 644)
+  sample  645:    10994  (running sum:   6878065, n_ok: 645)
+  sample  646:    11425  (running sum:   6889490, n_ok: 646)
+  sample  647:    12098  (running sum:   6901588, n_ok: 647)
+  sample  648:    11952  (running sum:   6913540, n_ok: 648)
+  sample  649:    11757  (running sum:   6925297, n_ok: 649)
+  sample  650:    11490  (running sum:   6936787, n_ok: 650)
+  sample  651:    11151  (running sum:   6947938, n_ok: 651)
+  sample  652:    11016  (running sum:   6958954, n_ok: 652)
+  sample  653:    10869  (running sum:   6969823, n_ok: 653)
+  sample  654:    10793  (running sum:   6980616, n_ok: 654)
+  sample  655:    10625  (running sum:   6991241, n_ok: 655)
+  sample  656:    10734  (running sum:   7001975, n_ok: 656)
+  sample  657:    10724  (running sum:   7012699, n_ok: 657)
+  sample  658:    10617  (running sum:   7023316, n_ok: 658)
+  sample  659:    10720  (running sum:   7034036, n_ok: 659)
+  sample  660:    10683  (running sum:   7044719, n_ok: 660)
+  sample  661:    10704  (running sum:   7055423, n_ok: 661)
+  sample  662:    10269  (running sum:   7065692, n_ok: 662)
+  sample  663:     9893  (running sum:   7075585, n_ok: 663)
+  sample  664:     9496  (running sum:   7085081, n_ok: 664)
+  sample  665:     9679  (running sum:   7094760, n_ok: 665)
+  sample  666:     9740  (running sum:   7104500, n_ok: 666)
+  sample  667:    10184  (running sum:   7114684, n_ok: 667)
+  sample  668:    10490  (running sum:   7125174, n_ok: 668)
+  sample  669:    10597  (running sum:   7135771, n_ok: 669)
+  sample  670:    10577  (running sum:   7146348, n_ok: 670)
+  sample  671:    10679  (running sum:   7157027, n_ok: 671)
+  sample  672:    10634  (running sum:   7167661, n_ok: 672)
+  sample  673:    10641  (running sum:   7178302, n_ok: 673)
+  sample  674:    10649  (running sum:   7188951, n_ok: 674)
+  sample  675:    10658  (running sum:   7199609, n_ok: 675)
+  sample  676:    10518  (running sum:   7210127, n_ok: 676)
+  sample  677:    10535  (running sum:   7220662, n_ok: 677)
+  sample  678:    10482  (running sum:   7231144, n_ok: 678)
+  sample  679:    10660  (running sum:   7241804, n_ok: 679)
+  sample  680:    11508  (running sum:   7253312, n_ok: 680)
+  sample  681:    11388  (running sum:   7264700, n_ok: 681)
+  sample  682:    11328  (running sum:   7276028, n_ok: 682)
+  sample  683:    11204  (running sum:   7287232, n_ok: 683)
+  sample  684:    10639  (running sum:   7297871, n_ok: 684)
+  sample  685:    10550  (running sum:   7308421, n_ok: 685)
+  sample  686:    10418  (running sum:   7318839, n_ok: 686)
+  sample  687:    10329  (running sum:   7329168, n_ok: 687)
+  sample  688:    10088  (running sum:   7339256, n_ok: 688)
+  sample  689:    10244  (running sum:   7349500, n_ok: 689)
+  sample  690:    10135  (running sum:   7359635, n_ok: 690)
+  sample  691:    10141  (running sum:   7369776, n_ok: 691)
+  sample  692:    10235  (running sum:   7380011, n_ok: 692)
+  sample  693:    10251  (running sum:   7390262, n_ok: 693)
+  sample  694:    10244  (running sum:   7400506, n_ok: 694)
+  sample  695:    10234  (running sum:   7410740, n_ok: 695)
+  sample  696:     9802  (running sum:   7420542, n_ok: 696)
+  sample  697:     9334  (running sum:   7429876, n_ok: 697)
+  sample  698:     9550  (running sum:   7439426, n_ok: 698)
+  sample  699:     9696  (running sum:   7449122, n_ok: 699)
+  sample  700:     9733  (running sum:   7458855, n_ok: 700)
+  sample  701:    10396  (running sum:   7469251, n_ok: 701)
+  sample  702:    10594  (running sum:   7479845, n_ok: 702)
+  sample  703:    10458  (running sum:   7490303, n_ok: 703)
+  sample  704:    10508  (running sum:   7500811, n_ok: 704)
+  sample  705:    10545  (running sum:   7511356, n_ok: 705)
+  sample  706:    10603  (running sum:   7521959, n_ok: 706)
+  sample  707:    10866  (running sum:   7532825, n_ok: 707)
+  sample  708:    10746  (running sum:   7543571, n_ok: 708)
+  sample  709:    10794  (running sum:   7554365, n_ok: 709)
+  sample  710:    10712  (running sum:   7565077, n_ok: 710)
+  sample  711:    10735  (running sum:   7575812, n_ok: 711)
+  sample  712:    10806  (running sum:   7586618, n_ok: 712)
+  sample  713:    11289  (running sum:   7597907, n_ok: 713)
+  sample  714:    11908  (running sum:   7609815, n_ok: 714)
+  sample  715:    11560  (running sum:   7621375, n_ok: 715)
+  sample  716:    11511  (running sum:   7632886, n_ok: 716)
+  sample  717:    11095  (running sum:   7643981, n_ok: 717)
+  sample  718:    10923  (running sum:   7654904, n_ok: 718)
+  sample  719:    10784  (running sum:   7665688, n_ok: 719)
+  sample  720:    10716  (running sum:   7676404, n_ok: 720)
+  sample  721:    10595  (running sum:   7686999, n_ok: 721)
+  sample  722:    10661  (running sum:   7697660, n_ok: 722)
+  sample  723:    10669  (running sum:   7708329, n_ok: 723)
+  sample  724:    10498  (running sum:   7718827, n_ok: 724)
+  sample  725:    10534  (running sum:   7729361, n_ok: 725)
+  sample  726:    10508  (running sum:   7739869, n_ok: 726)
+  sample  727:    10604  (running sum:   7750473, n_ok: 727)
+  sample  728:    10572  (running sum:   7761045, n_ok: 728)
+  sample  729:    10273  (running sum:   7771318, n_ok: 729)
+  sample  730:     9878  (running sum:   7781196, n_ok: 730)
+  sample  731:     9740  (running sum:   7790936, n_ok: 731)
+  sample  732:     9910  (running sum:   7800846, n_ok: 732)
+  sample  733:     9923  (running sum:   7810769, n_ok: 733)
+  sample  734:    10370  (running sum:   7821139, n_ok: 734)
+  sample  735:    10640  (running sum:   7831779, n_ok: 735)
+  sample  736:    10753  (running sum:   7842532, n_ok: 736)
+  sample  737:    10892  (running sum:   7853424, n_ok: 737)
+  sample  738:    11061  (running sum:   7864485, n_ok: 738)
+  sample  739:    10939  (running sum:   7875424, n_ok: 739)
+  sample  740:    10945  (running sum:   7886369, n_ok: 740)
+  sample  741:    11073  (running sum:   7897442, n_ok: 741)
+  sample  742:    11116  (running sum:   7908558, n_ok: 742)
+  sample  743:    11061  (running sum:   7919619, n_ok: 743)
+  sample  744:    11130  (running sum:   7930749, n_ok: 744)
+  sample  745:    11069  (running sum:   7941818, n_ok: 745)
+  sample  746:    11426  (running sum:   7953244, n_ok: 746)
+  sample  747:    12295  (running sum:   7965539, n_ok: 747)
+  sample  748:    12144  (running sum:   7977683, n_ok: 748)
+  sample  749:    11916  (running sum:   7989599, n_ok: 749)
+  sample  750:    11881  (running sum:   8001480, n_ok: 750)
+  sample  751:    11239  (running sum:   8012719, n_ok: 751)
+  sample  752:    11202  (running sum:   8023921, n_ok: 752)
+  sample  753:    11108  (running sum:   8035029, n_ok: 753)
+  sample  754:    11004  (running sum:   8046033, n_ok: 754)
+  sample  755:    10959  (running sum:   8056992, n_ok: 755)
+  sample  756:    10971  (running sum:   8067963, n_ok: 756)
+  sample  757:    10828  (running sum:   8078791, n_ok: 757)
+  sample  758:    10955  (running sum:   8089746, n_ok: 758)
+  sample  759:    10889  (running sum:   8100635, n_ok: 759)
+  sample  760:    10872  (running sum:   8111507, n_ok: 760)
+  sample  761:    10679  (running sum:   8122186, n_ok: 761)
+  sample  762:    10860  (running sum:   8133046, n_ok: 762)
+  sample  763:    10211  (running sum:   8143257, n_ok: 763)
+  sample  764:     9761  (running sum:   8153018, n_ok: 764)
+  sample  765:     9939  (running sum:   8162957, n_ok: 765)
+  sample  766:    10056  (running sum:   8173013, n_ok: 766)
+  sample  767:    10174  (running sum:   8183187, n_ok: 767)
+  sample  768:    10658  (running sum:   8193845, n_ok: 768)
+  sample  769:    10888  (running sum:   8204733, n_ok: 769)
+  sample  770:    10844  (running sum:   8215577, n_ok: 770)
+  sample  771:    10746  (running sum:   8226323, n_ok: 771)
+  sample  772:    10806  (running sum:   8237129, n_ok: 772)
+  sample  773:    10830  (running sum:   8247959, n_ok: 773)
+  sample  774:    10909  (running sum:   8258868, n_ok: 774)
+  sample  775:    10850  (running sum:   8269718, n_ok: 775)
+  sample  776:    10787  (running sum:   8280505, n_ok: 776)
+  sample  777:    10912  (running sum:   8291417, n_ok: 777)
+  sample  778:    10876  (running sum:   8302293, n_ok: 778)
+  sample  779:    10953  (running sum:   8313246, n_ok: 779)
+  sample  780:    11384  (running sum:   8324630, n_ok: 780)
+  sample  781:    11863  (running sum:   8336493, n_ok: 781)
+  sample  782:    11621  (running sum:   8348114, n_ok: 782)
+  sample  783:    11494  (running sum:   8359608, n_ok: 783)
+  sample  784:    11067  (running sum:   8370675, n_ok: 784)
+  sample  785:    10872  (running sum:   8381547, n_ok: 785)
+  sample  786:    10653  (running sum:   8392200, n_ok: 786)
+  sample  787:    10629  (running sum:   8402829, n_ok: 787)
+  sample  788:    10645  (running sum:   8413474, n_ok: 788)
+  sample  789:    10554  (running sum:   8424028, n_ok: 789)
+  sample  790:    10628  (running sum:   8434656, n_ok: 790)
+  sample  791:    10492  (running sum:   8445148, n_ok: 791)
+  sample  792:    10521  (running sum:   8455669, n_ok: 792)
+  sample  793:    10519  (running sum:   8466188, n_ok: 793)
+  sample  794:    10537  (running sum:   8476725, n_ok: 794)
+  sample  795:    10543  (running sum:   8487268, n_ok: 795)
+  sample  796:     9968  (running sum:   8497236, n_ok: 796)
+  sample  797:     9706  (running sum:   8506942, n_ok: 797)
+  sample  798:     9635  (running sum:   8516577, n_ok: 798)
+  sample  799:     9633  (running sum:   8526210, n_ok: 799)
+  sample  800:     9738  (running sum:   8535948, n_ok: 800)
+  sample  801:    10183  (running sum:   8546131, n_ok: 801)
+  sample  802:    10368  (running sum:   8556499, n_ok: 802)
+  sample  803:    10481  (running sum:   8566980, n_ok: 803)
+  sample  804:    10469  (running sum:   8577449, n_ok: 804)
+  sample  805:    10513  (running sum:   8587962, n_ok: 805)
+  sample  806:    10450  (running sum:   8598412, n_ok: 806)
+  sample  807:    10590  (running sum:   8609002, n_ok: 807)
+  sample  808:    10642  (running sum:   8619644, n_ok: 808)
+  sample  809:    10650  (running sum:   8630294, n_ok: 809)
+  sample  810:    10511  (running sum:   8640805, n_ok: 810)
+  sample  811:    10588  (running sum:   8651393, n_ok: 811)
+  sample  812:    10534  (running sum:   8661927, n_ok: 812)
+  sample  813:    10750  (running sum:   8672677, n_ok: 813)
+  sample  814:    11596  (running sum:   8684273, n_ok: 814)
+  sample  815:    11398  (running sum:   8695671, n_ok: 815)
+  sample  816:    11365  (running sum:   8707036, n_ok: 816)
+  sample  817:    11163  (running sum:   8718199, n_ok: 817)
+  sample  818:    10768  (running sum:   8728967, n_ok: 818)
+  sample  819:    10543  (running sum:   8739510, n_ok: 819)
+  sample  820:    10440  (running sum:   8749950, n_ok: 820)
+  sample  821:    10423  (running sum:   8760373, n_ok: 821)
+  sample  822:    10420  (running sum:   8770793, n_ok: 822)
+  sample  823:    10450  (running sum:   8781243, n_ok: 823)
+  sample  824:    10326  (running sum:   8791569, n_ok: 824)
+  sample  825:    10409  (running sum:   8801978, n_ok: 825)
+  sample  826:    10301  (running sum:   8812279, n_ok: 826)
+  sample  827:    10437  (running sum:   8822716, n_ok: 827)
+  sample  828:    10348  (running sum:   8833064, n_ok: 828)
+  sample  829:    10425  (running sum:   8843489, n_ok: 829)
+  sample  830:     9921  (running sum:   8853410, n_ok: 830)
+  sample  831:     9549  (running sum:   8862959, n_ok: 831)
+  sample  832:     9752  (running sum:   8872711, n_ok: 832)
+  sample  833:     9795  (running sum:   8882506, n_ok: 833)
+  sample  834:    10043  (running sum:   8892549, n_ok: 834)
+  sample  835:    10471  (running sum:   8903020, n_ok: 835)
+  sample  836:    10650  (running sum:   8913670, n_ok: 836)
+  sample  837:    10657  (running sum:   8924327, n_ok: 837)
+  sample  838:    10808  (running sum:   8935135, n_ok: 838)
+  sample  839:    10774  (running sum:   8945909, n_ok: 839)
+  sample  840:    10812  (running sum:   8956721, n_ok: 840)
+  sample  841:    11017  (running sum:   8967738, n_ok: 841)
+  sample  842:    10919  (running sum:   8978657, n_ok: 842)
+  sample  843:    10941  (running sum:   8989598, n_ok: 843)
+  sample  844:    10928  (running sum:   9000526, n_ok: 844)
+  sample  845:    10932  (running sum:   9011458, n_ok: 845)
+  sample  846:    11034  (running sum:   9022492, n_ok: 846)
+  sample  847:    11695  (running sum:   9034187, n_ok: 847)
+  sample  848:    12037  (running sum:   9046224, n_ok: 848)
+  sample  849:    11771  (running sum:   9057995, n_ok: 849)
+  sample  850:    11720  (running sum:   9069715, n_ok: 850)
+  sample  851:    11204  (running sum:   9080919, n_ok: 851)
+  sample  852:    11055  (running sum:   9091974, n_ok: 852)
+  sample  853:    10896  (running sum:   9102870, n_ok: 853)
+  sample  854:    10852  (running sum:   9113722, n_ok: 854)
+  sample  855:    10821  (running sum:   9124543, n_ok: 855)
+  sample  856:    10928  (running sum:   9135471, n_ok: 856)
+  sample  857:    10717  (running sum:   9146188, n_ok: 857)
+  sample  858:    10684  (running sum:   9156872, n_ok: 858)
+  sample  859:    10690  (running sum:   9167562, n_ok: 859)
+  sample  860:    10632  (running sum:   9178194, n_ok: 860)
+  sample  861:    10689  (running sum:   9188883, n_ok: 861)
+  sample  862:    10678  (running sum:   9199561, n_ok: 862)
+  sample  863:    10180  (running sum:   9209741, n_ok: 863)
+  sample  864:     9915  (running sum:   9219656, n_ok: 864)
+  sample  865:     9903  (running sum:   9229559, n_ok: 865)
+  sample  866:     9929  (running sum:   9239488, n_ok: 866)
+  sample  867:    10054  (running sum:   9249542, n_ok: 867)
+  sample  868:    10595  (running sum:   9260137, n_ok: 868)
+  sample  869:    10821  (running sum:   9270958, n_ok: 869)
+  sample  870:    10867  (running sum:   9281825, n_ok: 870)
+  sample  871:    10807  (running sum:   9292632, n_ok: 871)
+  sample  872:    10872  (running sum:   9303504, n_ok: 872)
+  sample  873:    10939  (running sum:   9314443, n_ok: 873)
+  sample  874:    10939  (running sum:   9325382, n_ok: 874)
+  sample  875:    10845  (running sum:   9336227, n_ok: 875)
+  sample  876:    10962  (running sum:   9347189, n_ok: 876)
+  sample  877:    10882  (running sum:   9358071, n_ok: 877)
+  sample  878:    10864  (running sum:   9368935, n_ok: 878)
+  sample  879:    10874  (running sum:   9379809, n_ok: 879)
+  sample  880:    11122  (running sum:   9390931, n_ok: 880)
+  sample  881:    12028  (running sum:   9402959, n_ok: 881)
+  sample  882:    11683  (running sum:   9414642, n_ok: 882)
+  sample  883:    11503  (running sum:   9426145, n_ok: 883)
+  sample  884:    11347  (running sum:   9437492, n_ok: 884)
+  sample  885:    10890  (running sum:   9448382, n_ok: 885)
+  sample  886:    10628  (running sum:   9459010, n_ok: 886)
+  sample  887:    10496  (running sum:   9469506, n_ok: 887)
+  sample  888:    10448  (running sum:   9479954, n_ok: 888)
+  sample  889:    10350  (running sum:   9490304, n_ok: 889)
+  sample  890:    10363  (running sum:   9500667, n_ok: 890)
+  sample  891:    10233  (running sum:   9510900, n_ok: 891)
+  sample  892:    10268  (running sum:   9521168, n_ok: 892)
+  sample  893:    10109  (running sum:   9531277, n_ok: 893)
+  sample  894:    10164  (running sum:   9541441, n_ok: 894)
+  sample  895:    10142  (running sum:   9551583, n_ok: 895)
+  sample  896:     9865  (running sum:   9561448, n_ok: 896)
+  sample  897:     9431  (running sum:   9570879, n_ok: 897)
+  sample  898:     9029  (running sum:   9579908, n_ok: 898)
+  sample  899:     9202  (running sum:   9589110, n_ok: 899)
+  sample  900:     9332  (running sum:   9598442, n_ok: 900)
+  sample  901:     9629  (running sum:   9608071, n_ok: 901)
+  sample  902:    10037  (running sum:   9618108, n_ok: 902)
+  sample  903:    10247  (running sum:   9628355, n_ok: 903)
+  sample  904:    10312  (running sum:   9638667, n_ok: 904)
+  sample  905:    10164  (running sum:   9648831, n_ok: 905)
+  sample  906:    10264  (running sum:   9659095, n_ok: 906)
+  sample  907:    10315  (running sum:   9669410, n_ok: 907)
+  sample  908:    10394  (running sum:   9679804, n_ok: 908)
+  sample  909:    10251  (running sum:   9690055, n_ok: 909)
+  sample  910:    10426  (running sum:   9700481, n_ok: 910)
+  sample  911:    10451  (running sum:   9710932, n_ok: 911)
+  sample  912:    10400  (running sum:   9721332, n_ok: 912)
+  sample  913:    10621  (running sum:   9731953, n_ok: 913)
+  sample  914:    11186  (running sum:   9743139, n_ok: 914)
+  sample  915:    11532  (running sum:   9754671, n_ok: 915)
+  sample  916:    11325  (running sum:   9765996, n_ok: 916)
+  sample  917:    11173  (running sum:   9777169, n_ok: 917)
+  sample  918:    10621  (running sum:   9787790, n_ok: 918)
+  sample  919:    10552  (running sum:   9798342, n_ok: 919)
+  sample  920:    10396  (running sum:   9808738, n_ok: 920)
+  sample  921:    10225  (running sum:   9818963, n_ok: 921)
+  sample  922:    10326  (running sum:   9829289, n_ok: 922)
+  sample  923:    10355  (running sum:   9839644, n_ok: 923)
+  sample  924:    10419  (running sum:   9850063, n_ok: 924)
+  sample  925:    10353  (running sum:   9860416, n_ok: 925)
+  sample  926:    10375  (running sum:   9870791, n_ok: 926)
+  sample  927:    10335  (running sum:   9881126, n_ok: 927)
+  sample  928:    10380  (running sum:   9891506, n_ok: 928)
+  sample  929:    10452  (running sum:   9901958, n_ok: 929)
+  sample  930:     9715  (running sum:   9911673, n_ok: 930)
+  sample  931:     9540  (running sum:   9921213, n_ok: 931)
+  sample  932:     9823  (running sum:   9931036, n_ok: 932)
+  sample  933:     9637  (running sum:   9940673, n_ok: 933)
+  sample  934:     9898  (running sum:   9950571, n_ok: 934)
+  sample  935:    10435  (running sum:   9961006, n_ok: 935)
+  sample  936:    10784  (running sum:   9971790, n_ok: 936)
+  sample  937:    10960  (running sum:   9982750, n_ok: 937)
+  sample  938:    10853  (running sum:   9993603, n_ok: 938)
+  sample  939:    10927  (running sum:  10004530, n_ok: 939)
+  sample  940:    10892  (running sum:  10015422, n_ok: 940)
+  sample  941:    11034  (running sum:  10026456, n_ok: 941)
+  sample  942:    11007  (running sum:  10037463, n_ok: 942)
+  sample  943:    11079  (running sum:  10048542, n_ok: 943)
+  sample  944:    11082  (running sum:  10059624, n_ok: 944)
+  sample  945:    11140  (running sum:  10070764, n_ok: 945)
+  sample  946:    11269  (running sum:  10082033, n_ok: 946)
+  sample  947:    11522  (running sum:  10093555, n_ok: 947)
+  sample  948:    12330  (running sum:  10105885, n_ok: 948)
+  sample  949:    12027  (running sum:  10117912, n_ok: 949)
+  sample  950:    11886  (running sum:  10129798, n_ok: 950)
+  sample  951:    11763  (running sum:  10141561, n_ok: 951)
+  sample  952:    11172  (running sum:  10152733, n_ok: 952)
+  sample  953:    11015  (running sum:  10163748, n_ok: 953)
+  sample  954:    11031  (running sum:  10174779, n_ok: 954)
+  sample  955:    10922  (running sum:  10185701, n_ok: 955)
+  sample  956:    10929  (running sum:  10196630, n_ok: 956)
+  sample  957:    10939  (running sum:  10207569, n_ok: 957)
+  sample  958:    10659  (running sum:  10218228, n_ok: 958)
+  sample  959:    10784  (running sum:  10229012, n_ok: 959)
+  sample  960:    10679  (running sum:  10239691, n_ok: 960)
+  sample  961:    10716  (running sum:  10250407, n_ok: 961)
+  sample  962:    10634  (running sum:  10261041, n_ok: 962)
+  sample  963:    10421  (running sum:  10271462, n_ok: 963)
+  sample  964:     9954  (running sum:  10281416, n_ok: 964)
+  sample  965:     9596  (running sum:  10291012, n_ok: 965)
+  sample  966:     9793  (running sum:  10300805, n_ok: 966)
+  sample  967:     9907  (running sum:  10310712, n_ok: 967)
+  sample  968:    10320  (running sum:  10321032, n_ok: 968)
+  sample  969:    10741  (running sum:  10331773, n_ok: 969)
+  sample  970:    10805  (running sum:  10342578, n_ok: 970)
+  sample  971:    10767  (running sum:  10353345, n_ok: 971)
+  sample  972:    10846  (running sum:  10364191, n_ok: 972)
+  sample  973:    10867  (running sum:  10375058, n_ok: 973)
+  sample  974:    10951  (running sum:  10386009, n_ok: 974)
+  sample  975:    10999  (running sum:  10397008, n_ok: 975)
+  sample  976:    10987  (running sum:  10407995, n_ok: 976)
+  sample  977:    10989  (running sum:  10418984, n_ok: 977)
+  sample  978:    10966  (running sum:  10429950, n_ok: 978)
+  sample  979:    10919  (running sum:  10440869, n_ok: 979)
+  sample  980:    11262  (running sum:  10452131, n_ok: 980)
+  sample  981:    12023  (running sum:  10464154, n_ok: 981)
+  sample  982:    12040  (running sum:  10476194, n_ok: 982)
+  sample  983:    11901  (running sum:  10488095, n_ok: 983)
+  sample  984:    11760  (running sum:  10499855, n_ok: 984)
+  sample  985:    11151  (running sum:  10511006, n_ok: 985)
+  sample  986:    11207  (running sum:  10522213, n_ok: 986)
+  sample  987:    10920  (running sum:  10533133, n_ok: 987)
+  sample  988:    10835  (running sum:  10543968, n_ok: 988)
+  sample  989:    10925  (running sum:  10554893, n_ok: 989)
+  sample  990:    10929  (running sum:  10565822, n_ok: 990)
+  sample  991:    10765  (running sum:  10576587, n_ok: 991)
+  sample  992:    10666  (running sum:  10587253, n_ok: 992)
+  sample  993:    10702  (running sum:  10597955, n_ok: 993)
+  sample  994:    10620  (running sum:  10608575, n_ok: 994)
+  sample  995:    10459  (running sum:  10619034, n_ok: 995)
+  sample  996:    10592  (running sum:  10629626, n_ok: 996)
+  sample  997:    10074  (running sum:  10639700, n_ok: 997)
+  sample  998:     9470  (running sum:  10649170, n_ok: 998)
+  sample  999:     9660  (running sum:  10658830, n_ok: 999)
+  sample 1000:     9795  (running sum:  10668625, n_ok: 1000)
+  sample 1001:     9852  (running sum:  10678477, n_ok: 1001)
+  sample 1002:    10434  (running sum:  10688911, n_ok: 1002)
+  sample 1003:    10750  (running sum:  10699661, n_ok: 1003)
+  sample 1004:    10577  (running sum:  10710238, n_ok: 1004)
+  sample 1005:    10628  (running sum:  10720866, n_ok: 1005)
+  sample 1006:    10570  (running sum:  10731436, n_ok: 1006)
+  sample 1007:    10620  (running sum:  10742056, n_ok: 1007)
+  sample 1008:    10639  (running sum:  10752695, n_ok: 1008)
+  sample 1009:    10712  (running sum:  10763407, n_ok: 1009)
+  sample 1010:    10569  (running sum:  10773976, n_ok: 1010)
+  sample 1011:    10444  (running sum:  10784420, n_ok: 1011)
+  sample 1012:    10569  (running sum:  10794989, n_ok: 1012)
+  sample 1013:    10581  (running sum:  10805570, n_ok: 1013)
+  sample 1014:    10899  (running sum:  10816469, n_ok: 1014)
+  sample 1015:    11715  (running sum:  10828184, n_ok: 1015)
+  sample 1016:    11491  (running sum:  10839675, n_ok: 1016)
+  sample 1017:    11319  (running sum:  10850994, n_ok: 1017)
+  sample 1018:    11054  (running sum:  10862048, n_ok: 1018)
+  sample 1019:    10662  (running sum:  10872710, n_ok: 1019)
+  sample 1020:    10530  (running sum:  10883240, n_ok: 1020)
+  sample 1021:    10339  (running sum:  10893579, n_ok: 1021)
+  sample 1022:    10497  (running sum:  10904076, n_ok: 1022)
+  sample 1023:    10418  (running sum:  10914494, n_ok: 1023)
+  sample 1024:    10457  (running sum:  10924951, n_ok: 1024)
+  sample 1025:    10339  (running sum:  10935290, n_ok: 1025)
+  sample 1026:    10433  (running sum:  10945723, n_ok: 1026)
+  sample 1027:    10391  (running sum:  10956114, n_ok: 1027)
+  sample 1028:    10517  (running sum:  10966631, n_ok: 1028)
+  sample 1029:    10453  (running sum:  10977084, n_ok: 1029)
+  sample 1030:    10252  (running sum:  10987336, n_ok: 1030)
+  sample 1031:     9799  (running sum:  10997135, n_ok: 1031)
+  sample 1032:     9414  (running sum:  11006549, n_ok: 1032)
+  sample 1033:     9715  (running sum:  11016264, n_ok: 1033)
+  sample 1034:     9760  (running sum:  11026024, n_ok: 1034)
+  sample 1035:    10210  (running sum:  11036234, n_ok: 1035)
+  sample 1036:    10461  (running sum:  11046695, n_ok: 1036)
+  sample 1037:    10630  (running sum:  11057325, n_ok: 1037)
+  sample 1038:    10671  (running sum:  11067996, n_ok: 1038)
+  sample 1039:    10818  (running sum:  11078814, n_ok: 1039)
+  sample 1040:    10828  (running sum:  11089642, n_ok: 1040)
+  sample 1041:    10789  (running sum:  11100431, n_ok: 1041)
+  sample 1042:    10924  (running sum:  11111355, n_ok: 1042)
+  sample 1043:    10827  (running sum:  11122182, n_ok: 1043)
+  sample 1044:    10864  (running sum:  11133046, n_ok: 1044)
+  sample 1045:    10897  (running sum:  11143943, n_ok: 1045)
+  sample 1046:    10848  (running sum:  11154791, n_ok: 1046)
+  sample 1047:    11116  (running sum:  11165907, n_ok: 1047)
+  sample 1048:    12006  (running sum:  11177913, n_ok: 1048)
+  sample 1049:    11947  (running sum:  11189860, n_ok: 1049)
+  sample 1050:    11686  (running sum:  11201546, n_ok: 1050)
+  sample 1051:    11706  (running sum:  11213252, n_ok: 1051)
+  sample 1052:    11013  (running sum:  11224265, n_ok: 1052)
+  sample 1053:    11177  (running sum:  11235442, n_ok: 1053)
+  sample 1054:    10981  (running sum:  11246423, n_ok: 1054)
+  sample 1055:    10815  (running sum:  11257238, n_ok: 1055)
+  sample 1056:    10930  (running sum:  11268168, n_ok: 1056)
+  sample 1057:    10997  (running sum:  11279165, n_ok: 1057)
+  sample 1058:    10851  (running sum:  11290016, n_ok: 1058)
+  sample 1059:    10894  (running sum:  11300910, n_ok: 1059)
+  sample 1060:    10833  (running sum:  11311743, n_ok: 1060)
+  sample 1061:    10804  (running sum:  11322547, n_ok: 1061)
+  sample 1062:    10648  (running sum:  11333195, n_ok: 1062)
+  sample 1063:    10679  (running sum:  11343874, n_ok: 1063)
+  sample 1064:    10100  (running sum:  11353974, n_ok: 1064)
+  sample 1065:     9570  (running sum:  11363544, n_ok: 1065)
+  sample 1066:     9777  (running sum:  11373321, n_ok: 1066)
+  sample 1067:     9951  (running sum:  11383272, n_ok: 1067)
+  sample 1068:    10172  (running sum:  11393444, n_ok: 1068)
+  sample 1069:    10787  (running sum:  11404231, n_ok: 1069)
+  sample 1070:    10974  (running sum:  11415205, n_ok: 1070)
+  sample 1071:    10825  (running sum:  11426030, n_ok: 1071)
+  sample 1072:    10784  (running sum:  11436814, n_ok: 1072)
+  sample 1073:    10703  (running sum:  11447517, n_ok: 1073)
+  sample 1074:    10697  (running sum:  11458214, n_ok: 1074)
+  sample 1075:    10855  (running sum:  11469069, n_ok: 1075)
+  sample 1076:    10785  (running sum:  11479854, n_ok: 1076)
+  sample 1077:    10880  (running sum:  11490734, n_ok: 1077)
+  sample 1078:    10771  (running sum:  11501505, n_ok: 1078)
+  sample 1079:    10766  (running sum:  11512271, n_ok: 1079)
+  sample 1080:    10966  (running sum:  11523237, n_ok: 1080)
+  sample 1081:    11340  (running sum:  11534577, n_ok: 1081)
+  sample 1082:    12078  (running sum:  11546655, n_ok: 1082)
+  sample 1083:    11727  (running sum:  11558382, n_ok: 1083)
+  sample 1084:    11544  (running sum:  11569926, n_ok: 1084)
+  sample 1085:    11212  (running sum:  11581138, n_ok: 1085)
+  sample 1086:    10892  (running sum:  11592030, n_ok: 1086)
+  sample 1087:    10660  (running sum:  11602690, n_ok: 1087)
+  sample 1088:    10421  (running sum:  11613111, n_ok: 1088)
+  sample 1089:    10631  (running sum:  11623742, n_ok: 1089)
+  sample 1090:    10638  (running sum:  11634380, n_ok: 1090)
+  sample 1091:    10586  (running sum:  11644966, n_ok: 1091)
+  sample 1092:    10451  (running sum:  11655417, n_ok: 1092)
+  sample 1093:    10514  (running sum:  11665931, n_ok: 1093)
+  sample 1094:    10504  (running sum:  11676435, n_ok: 1094)
+  sample 1095:    10437  (running sum:  11686872, n_ok: 1095)
+  sample 1096:    10368  (running sum:  11697240, n_ok: 1096)
+  sample 1097:    10093  (running sum:  11707333, n_ok: 1097)
+  sample 1098:     9660  (running sum:  11716993, n_ok: 1098)
+  sample 1099:     9440  (running sum:  11726433, n_ok: 1099)
+  sample 1100:     9578  (running sum:  11736011, n_ok: 1100)
+  sample 1101:     9759  (running sum:  11745770, n_ok: 1101)
+  sample 1102:    10176  (running sum:  11755946, n_ok: 1102)
+  sample 1103:    10435  (running sum:  11766381, n_ok: 1103)
+  sample 1104:    10586  (running sum:  11776967, n_ok: 1104)
+  sample 1105:    10584  (running sum:  11787551, n_ok: 1105)
+  sample 1106:    10402  (running sum:  11797953, n_ok: 1106)
+  sample 1107:    10534  (running sum:  11808487, n_ok: 1107)
+  sample 1108:    10432  (running sum:  11818919, n_ok: 1108)
+  sample 1109:    10463  (running sum:  11829382, n_ok: 1109)
+  sample 1110:    10480  (running sum:  11839862, n_ok: 1110)
+  sample 1111:    10346  (running sum:  11850208, n_ok: 1111)
+  sample 1112:    10373  (running sum:  11860581, n_ok: 1112)
+  sample 1113:    10454  (running sum:  11871035, n_ok: 1113)
+  sample 1114:    10637  (running sum:  11881672, n_ok: 1114)
+  sample 1115:    11482  (running sum:  11893154, n_ok: 1115)
+  sample 1116:    11257  (running sum:  11904411, n_ok: 1116)
+  sample 1117:    11162  (running sum:  11915573, n_ok: 1117)
+  sample 1118:    11016  (running sum:  11926589, n_ok: 1118)
+  sample 1119:    10376  (running sum:  11936965, n_ok: 1119)
+  sample 1120:    10439  (running sum:  11947404, n_ok: 1120)
+  sample 1121:    10131  (running sum:  11957535, n_ok: 1121)
+  sample 1122:    10231  (running sum:  11967766, n_ok: 1122)
+  sample 1123:    10183  (running sum:  11977949, n_ok: 1123)
+  sample 1124:    10200  (running sum:  11988149, n_ok: 1124)
+  sample 1125:    10113  (running sum:  11998262, n_ok: 1125)
+  sample 1126:    10122  (running sum:  12008384, n_ok: 1126)
+  sample 1127:    10223  (running sum:  12018607, n_ok: 1127)
+  sample 1128:    10276  (running sum:  12028883, n_ok: 1128)
+  sample 1129:    10104  (running sum:  12038987, n_ok: 1129)
+  sample 1130:    10165  (running sum:  12049152, n_ok: 1130)
+  sample 1131:     9517  (running sum:  12058669, n_ok: 1131)
+  sample 1132:     9184  (running sum:  12067853, n_ok: 1132)
+  sample 1133:     9342  (running sum:  12077195, n_ok: 1133)
+  sample 1134:     9485  (running sum:  12086680, n_ok: 1134)
+  sample 1135:     9827  (running sum:  12096507, n_ok: 1135)
+  sample 1136:    10263  (running sum:  12106770, n_ok: 1136)
+  sample 1137:    10498  (running sum:  12117268, n_ok: 1137)
+  sample 1138:    10495  (running sum:  12127763, n_ok: 1138)
+  sample 1139:    10509  (running sum:  12138272, n_ok: 1139)
+  sample 1140:    10511  (running sum:  12148783, n_ok: 1140)
+  sample 1141:    10526  (running sum:  12159309, n_ok: 1141)
+  sample 1142:    10628  (running sum:  12169937, n_ok: 1142)
+  sample 1143:    10574  (running sum:  12180511, n_ok: 1143)
+  sample 1144:    10631  (running sum:  12191142, n_ok: 1144)
+  sample 1145:    10652  (running sum:  12201794, n_ok: 1145)
+  sample 1146:    10788  (running sum:  12212582, n_ok: 1146)
+  sample 1147:    10797  (running sum:  12223379, n_ok: 1147)
+  sample 1148:    11260  (running sum:  12234639, n_ok: 1148)
+  sample 1149:    11920  (running sum:  12246559, n_ok: 1149)
+  sample 1150:    11521  (running sum:  12258080, n_ok: 1150)
+  sample 1151:    11507  (running sum:  12269587, n_ok: 1151)
+  sample 1152:    11153  (running sum:  12280740, n_ok: 1152)
+  sample 1153:    10887  (running sum:  12291627, n_ok: 1153)
+  sample 1154:    10738  (running sum:  12302365, n_ok: 1154)
+  sample 1155:    10554  (running sum:  12312919, n_ok: 1155)
+  sample 1156:    10664  (running sum:  12323583, n_ok: 1156)
+  sample 1157:    10685  (running sum:  12334268, n_ok: 1157)
+  sample 1158:    10735  (running sum:  12345003, n_ok: 1158)
+  sample 1159:    10683  (running sum:  12355686, n_ok: 1159)
+  sample 1160:    10773  (running sum:  12366459, n_ok: 1160)
+  sample 1161:    10804  (running sum:  12377263, n_ok: 1161)
+  sample 1162:    10789  (running sum:  12388052, n_ok: 1162)
+  sample 1163:    10808  (running sum:  12398860, n_ok: 1163)
+  sample 1164:    10459  (running sum:  12409319, n_ok: 1164)
+  sample 1165:    10042  (running sum:  12419361, n_ok: 1165)
+  sample 1166:     9938  (running sum:  12429299, n_ok: 1166)
+  sample 1167:    10190  (running sum:  12439489, n_ok: 1167)
+  sample 1168:    10225  (running sum:  12449714, n_ok: 1168)
+  sample 1169:    10818  (running sum:  12460532, n_ok: 1169)
+  sample 1170:    10947  (running sum:  12471479, n_ok: 1170)
+  sample 1171:    11145  (running sum:  12482624, n_ok: 1171)
+  sample 1172:    11151  (running sum:  12493775, n_ok: 1172)
+  sample 1173:    11313  (running sum:  12505088, n_ok: 1173)
+  sample 1174:    11181  (running sum:  12516269, n_ok: 1174)
+  sample 1175:    11290  (running sum:  12527559, n_ok: 1175)
+  sample 1176:    11336  (running sum:  12538895, n_ok: 1176)
+  sample 1177:    11289  (running sum:  12550184, n_ok: 1177)
+  sample 1178:    11295  (running sum:  12561479, n_ok: 1178)
+  sample 1179:    11243  (running sum:  12572722, n_ok: 1179)
+  sample 1180:    11170  (running sum:  12583892, n_ok: 1180)
+  sample 1181:    11486  (running sum:  12595378, n_ok: 1181)
+  sample 1182:    12277  (running sum:  12607655, n_ok: 1182)
+  sample 1183:    11982  (running sum:  12619637, n_ok: 1183)
+  sample 1184:    11877  (running sum:  12631514, n_ok: 1184)
+  sample 1185:    11876  (running sum:  12643390, n_ok: 1185)
+  sample 1186:    11165  (running sum:  12654555, n_ok: 1186)
+  sample 1187:    11053  (running sum:  12665608, n_ok: 1187)
+  sample 1188:    10726  (running sum:  12676334, n_ok: 1188)
+  sample 1189:    10786  (running sum:  12687120, n_ok: 1189)
+  sample 1190:    10842  (running sum:  12697962, n_ok: 1190)
+  sample 1191:    10810  (running sum:  12708772, n_ok: 1191)
+  sample 1192:    10651  (running sum:  12719423, n_ok: 1192)
+  sample 1193:    10666  (running sum:  12730089, n_ok: 1193)
+  sample 1194:    10692  (running sum:  12740781, n_ok: 1194)
+  sample 1195:    10619  (running sum:  12751400, n_ok: 1195)
+  sample 1196:    10646  (running sum:  12762046, n_ok: 1196)
+  sample 1197:    10602  (running sum:  12772648, n_ok: 1197)
+  sample 1198:     9973  (running sum:  12782621, n_ok: 1198)
+  sample 1199:     9504  (running sum:  12792125, n_ok: 1199)
+  sample 1200:     9748  (running sum:  12801873, n_ok: 1200)
+  sample 1201:     9951  (running sum:  12811824, n_ok: 1201)
+  sample 1202:    10027  (running sum:  12821851, n_ok: 1202)
+  sample 1203:    10588  (running sum:  12832439, n_ok: 1203)
+  sample 1204:    10745  (running sum:  12843184, n_ok: 1204)
+  sample 1205:    10681  (running sum:  12853865, n_ok: 1205)
+  sample 1206:    10694  (running sum:  12864559, n_ok: 1206)
+  sample 1207:    10721  (running sum:  12875280, n_ok: 1207)
+  sample 1208:    10651  (running sum:  12885931, n_ok: 1208)
+  sample 1209:    10902  (running sum:  12896833, n_ok: 1209)
+  sample 1210:    10848  (running sum:  12907681, n_ok: 1210)
+  sample 1211:    10807  (running sum:  12918488, n_ok: 1211)
+  sample 1212:    10660  (running sum:  12929148, n_ok: 1212)
+  sample 1213:    10745  (running sum:  12939893, n_ok: 1213)
+  sample 1214:    10919  (running sum:  12950812, n_ok: 1214)
+  sample 1215:    11386  (running sum:  12962198, n_ok: 1215)
+  sample 1216:    11731  (running sum:  12973929, n_ok: 1216)
+  sample 1217:    11529  (running sum:  12985458, n_ok: 1217)
+  sample 1218:    11390  (running sum:  12996848, n_ok: 1218)
+  sample 1219:    11088  (running sum:  13007936, n_ok: 1219)
+  sample 1220:    10771  (running sum:  13018707, n_ok: 1220)
+  sample 1221:    10646  (running sum:  13029353, n_ok: 1221)
+  sample 1222:    10482  (running sum:  13039835, n_ok: 1222)
+  sample 1223:    10454  (running sum:  13050289, n_ok: 1223)
+  sample 1224:    10488  (running sum:  13060777, n_ok: 1224)
+  sample 1225:    10474  (running sum:  13071251, n_ok: 1225)
+  sample 1226:    10365  (running sum:  13081616, n_ok: 1226)
+  sample 1227:    10441  (running sum:  13092057, n_ok: 1227)
+  sample 1228:    10464  (running sum:  13102521, n_ok: 1228)
+  sample 1229:    10328  (running sum:  13112849, n_ok: 1229)
+  sample 1230:    10451  (running sum:  13123300, n_ok: 1230)
+  sample 1231:     9864  (running sum:  13133164, n_ok: 1231)
+  sample 1232:     9586  (running sum:  13142750, n_ok: 1232)
+  sample 1233:     9469  (running sum:  13152219, n_ok: 1233)
+  sample 1234:     9645  (running sum:  13161864, n_ok: 1234)
+  sample 1235:     9747  (running sum:  13171611, n_ok: 1235)
+  sample 1236:    10287  (running sum:  13181898, n_ok: 1236)
+  sample 1237:    10402  (running sum:  13192300, n_ok: 1237)
+  sample 1238:    10549  (running sum:  13202849, n_ok: 1238)
+  sample 1239:    10479  (running sum:  13213328, n_ok: 1239)
+  sample 1240:    10572  (running sum:  13223900, n_ok: 1240)
+  sample 1241:    10623  (running sum:  13234523, n_ok: 1241)
+  sample 1242:    10621  (running sum:  13245144, n_ok: 1242)
+  sample 1243:    10577  (running sum:  13255721, n_ok: 1243)
+  sample 1244:    10659  (running sum:  13266380, n_ok: 1244)
+  sample 1245:    10636  (running sum:  13277016, n_ok: 1245)
+  sample 1246:    10732  (running sum:  13287748, n_ok: 1246)
+  sample 1247:    10601  (running sum:  13298349, n_ok: 1247)
+  sample 1248:    10979  (running sum:  13309328, n_ok: 1248)
+  sample 1249:    11842  (running sum:  13321170, n_ok: 1249)
+  sample 1250:    11708  (running sum:  13332878, n_ok: 1250)
+  sample 1251:    11681  (running sum:  13344559, n_ok: 1251)
+  sample 1252:    11418  (running sum:  13355977, n_ok: 1252)
+  sample 1253:    10882  (running sum:  13366859, n_ok: 1253)
+  sample 1254:    10852  (running sum:  13377711, n_ok: 1254)
+  sample 1255:    10738  (running sum:  13388449, n_ok: 1255)
+  sample 1256:    10727  (running sum:  13399176, n_ok: 1256)
+  sample 1257:    10668  (running sum:  13409844, n_ok: 1257)
+  sample 1258:    10900  (running sum:  13420744, n_ok: 1258)
+  sample 1259:    10733  (running sum:  13431477, n_ok: 1259)
+  sample 1260:    10781  (running sum:  13442258, n_ok: 1260)
+  sample 1261:    10887  (running sum:  13453145, n_ok: 1261)
+  sample 1262:    10897  (running sum:  13464042, n_ok: 1262)
+  sample 1263:    10759  (running sum:  13474801, n_ok: 1263)
+  sample 1264:    10679  (running sum:  13485480, n_ok: 1264)
+  sample 1265:    10232  (running sum:  13495712, n_ok: 1265)
+  sample 1266:     9860  (running sum:  13505572, n_ok: 1266)
+  sample 1267:    10024  (running sum:  13515596, n_ok: 1267)
+  sample 1268:    10090  (running sum:  13525686, n_ok: 1268)
+  sample 1269:    10357  (running sum:  13536043, n_ok: 1269)
+  sample 1270:    10698  (running sum:  13546741, n_ok: 1270)
+  sample 1271:    11082  (running sum:  13557823, n_ok: 1271)
+  sample 1272:    10962  (running sum:  13568785, n_ok: 1272)
+  sample 1273:    10974  (running sum:  13579759, n_ok: 1273)
+  sample 1274:    10867  (running sum:  13590626, n_ok: 1274)
+  sample 1275:    10801  (running sum:  13601427, n_ok: 1275)
+  sample 1276:    11082  (running sum:  13612509, n_ok: 1276)
+  sample 1277:    11039  (running sum:  13623548, n_ok: 1277)
+  sample 1278:    10974  (running sum:  13634522, n_ok: 1278)
+  sample 1279:    10920  (running sum:  13645442, n_ok: 1279)
+  sample 1280:    10945  (running sum:  13656387, n_ok: 1280)
+  sample 1281:    11138  (running sum:  13667525, n_ok: 1281)
+  sample 1282:    11708  (running sum:  13679233, n_ok: 1282)
+  sample 1283:    11967  (running sum:  13691200, n_ok: 1283)
+  sample 1284:    11768  (running sum:  13702968, n_ok: 1284)
+  sample 1285:    11726  (running sum:  13714694, n_ok: 1285)
+  sample 1286:    11014  (running sum:  13725708, n_ok: 1286)
+  sample 1287:    11083  (running sum:  13736791, n_ok: 1287)
+  sample 1288:    10909  (running sum:  13747700, n_ok: 1288)
+  sample 1289:    10784  (running sum:  13758484, n_ok: 1289)
+  sample 1290:    10760  (running sum:  13769244, n_ok: 1290)
+  sample 1291:    10730  (running sum:  13779974, n_ok: 1291)
+  sample 1292:    10805  (running sum:  13790779, n_ok: 1292)
+  sample 1293:    10793  (running sum:  13801572, n_ok: 1293)
+  sample 1294:    10817  (running sum:  13812389, n_ok: 1294)
+  sample 1295:    10832  (running sum:  13823221, n_ok: 1295)
+  sample 1296:    10660  (running sum:  13833881, n_ok: 1296)
+  sample 1297:    10679  (running sum:  13844560, n_ok: 1297)
+  sample 1298:    10146  (running sum:  13854706, n_ok: 1298)
+  sample 1299:     9641  (running sum:  13864347, n_ok: 1299)
+  sample 1300:     9659  (running sum:  13874006, n_ok: 1300)
+  sample 1301:     9777  (running sum:  13883783, n_ok: 1301)
+  sample 1302:     9848  (running sum:  13893631, n_ok: 1302)
+  sample 1303:    10325  (running sum:  13903956, n_ok: 1303)
+  sample 1304:    10670  (running sum:  13914626, n_ok: 1304)
+  sample 1305:    10628  (running sum:  13925254, n_ok: 1305)
+  sample 1306:    10554  (running sum:  13935808, n_ok: 1306)
+  sample 1307:    10437  (running sum:  13946245, n_ok: 1307)
+  sample 1308:    10442  (running sum:  13956687, n_ok: 1308)
+  sample 1309:    10760  (running sum:  13967447, n_ok: 1309)
+  sample 1310:    10621  (running sum:  13978068, n_ok: 1310)
+  sample 1311:    10656  (running sum:  13988724, n_ok: 1311)
+  sample 1312:    10500  (running sum:  13999224, n_ok: 1312)
+  sample 1313:    10553  (running sum:  14009777, n_ok: 1313)
+  sample 1314:    10568  (running sum:  14020345, n_ok: 1314)
+  sample 1315:    10849  (running sum:  14031194, n_ok: 1315)
+  sample 1316:    11645  (running sum:  14042839, n_ok: 1316)
+  sample 1317:    11492  (running sum:  14054331, n_ok: 1317)
+  sample 1318:    11275  (running sum:  14065606, n_ok: 1318)
+  sample 1319:    11142  (running sum:  14076748, n_ok: 1319)
+  sample 1320:    10626  (running sum:  14087374, n_ok: 1320)
+  sample 1321:    10474  (running sum:  14097848, n_ok: 1321)
+  sample 1322:    10296  (running sum:  14108144, n_ok: 1322)
+  sample 1323:    10353  (running sum:  14118497, n_ok: 1323)
+  sample 1324:    10316  (running sum:  14128813, n_ok: 1324)
+  sample 1325:    10292  (running sum:  14139105, n_ok: 1325)
+  sample 1326:    10121  (running sum:  14149226, n_ok: 1326)
+  sample 1327:    10087  (running sum:  14159313, n_ok: 1327)
+  sample 1328:    10021  (running sum:  14169334, n_ok: 1328)
+  sample 1329:    10116  (running sum:  14179450, n_ok: 1329)
+  sample 1330:    10162  (running sum:  14189612, n_ok: 1330)
+  sample 1331:     9958  (running sum:  14199570, n_ok: 1331)
+  sample 1332:     9633  (running sum:  14209203, n_ok: 1332)
+  sample 1333:     9282  (running sum:  14218485, n_ok: 1333)
+  sample 1334:     9356  (running sum:  14227841, n_ok: 1334)
+  sample 1335:     9518  (running sum:  14237359, n_ok: 1335)
+  sample 1336:     9710  (running sum:  14247069, n_ok: 1336)
+  sample 1337:    10050  (running sum:  14257119, n_ok: 1337)
+  sample 1338:    10371  (running sum:  14267490, n_ok: 1338)
+  sample 1339:    10286  (running sum:  14277776, n_ok: 1339)
+  sample 1340:    10274  (running sum:  14288050, n_ok: 1340)
+  sample 1341:    10377  (running sum:  14298427, n_ok: 1341)
+  sample 1342:    10443  (running sum:  14308870, n_ok: 1342)
+  sample 1343:    10485  (running sum:  14319355, n_ok: 1343)
+  sample 1344:    10476  (running sum:  14329831, n_ok: 1344)
+  sample 1345:    10576  (running sum:  14340407, n_ok: 1345)
+  sample 1346:    10414  (running sum:  14350821, n_ok: 1346)
+  sample 1347:    10522  (running sum:  14361343, n_ok: 1347)
+  sample 1348:    10572  (running sum:  14371915, n_ok: 1348)
+  sample 1349:    11135  (running sum:  14383050, n_ok: 1349)
+  sample 1350:    11466  (running sum:  14394516, n_ok: 1350)
+  sample 1351:    11293  (running sum:  14405809, n_ok: 1351)
+  sample 1352:    11211  (running sum:  14417020, n_ok: 1352)
+  sample 1353:    10773  (running sum:  14427793, n_ok: 1353)
+  sample 1354:    10737  (running sum:  14438530, n_ok: 1354)
+  sample 1355:    10572  (running sum:  14449102, n_ok: 1355)
+  sample 1356:    10400  (running sum:  14459502, n_ok: 1356)
+  sample 1357:    10565  (running sum:  14470067, n_ok: 1357)
+  sample 1358:    10484  (running sum:  14480551, n_ok: 1358)
+  sample 1359:    10499  (running sum:  14491050, n_ok: 1359)
+  sample 1360:    10419  (running sum:  14501469, n_ok: 1360)
+  sample 1361:    10421  (running sum:  14511890, n_ok: 1361)
+  sample 1362:    10432  (running sum:  14522322, n_ok: 1362)
+  sample 1363:    10433  (running sum:  14532755, n_ok: 1363)
+  sample 1364:    10542  (running sum:  14543297, n_ok: 1364)
+  sample 1365:    10146  (running sum:  14553443, n_ok: 1365)
+  sample 1366:     9624  (running sum:  14563067, n_ok: 1366)
+  sample 1367:     9654  (running sum:  14572721, n_ok: 1367)
+  sample 1368:     9843  (running sum:  14582564, n_ok: 1368)
+  sample 1369:     9948  (running sum:  14592512, n_ok: 1369)
+  sample 1370:    10613  (running sum:  14603125, n_ok: 1370)
+  sample 1371:    10857  (running sum:  14613982, n_ok: 1371)
+  sample 1372:    10808  (running sum:  14624790, n_ok: 1372)
+  sample 1373:    10919  (running sum:  14635709, n_ok: 1373)
+  sample 1374:    10868  (running sum:  14646577, n_ok: 1374)
+  sample 1375:    10889  (running sum:  14657466, n_ok: 1375)
+  sample 1376:    10958  (running sum:  14668424, n_ok: 1376)
+  sample 1377:    10837  (running sum:  14679261, n_ok: 1377)
+  sample 1378:    11109  (running sum:  14690370, n_ok: 1378)
+  sample 1379:    11095  (running sum:  14701465, n_ok: 1379)
+  sample 1380:    11155  (running sum:  14712620, n_ok: 1380)
+  sample 1381:    11117  (running sum:  14723737, n_ok: 1381)
+  sample 1382:    11445  (running sum:  14735182, n_ok: 1382)
+  sample 1383:    12233  (running sum:  14747415, n_ok: 1383)
+  sample 1384:    12030  (running sum:  14759445, n_ok: 1384)
+  sample 1385:    11874  (running sum:  14771319, n_ok: 1385)
+  sample 1386:    11675  (running sum:  14782994, n_ok: 1386)
+  sample 1387:    11217  (running sum:  14794211, n_ok: 1387)
+  sample 1388:    11180  (running sum:  14805391, n_ok: 1388)
+  sample 1389:    11053  (running sum:  14816444, n_ok: 1389)
+  sample 1390:    11019  (running sum:  14827463, n_ok: 1390)
+  sample 1391:    11094  (running sum:  14838557, n_ok: 1391)
+  sample 1392:    10943  (running sum:  14849500, n_ok: 1392)
+  sample 1393:    10872  (running sum:  14860372, n_ok: 1393)
+  sample 1394:    10905  (running sum:  14871277, n_ok: 1394)
+  sample 1395:    10743  (running sum:  14882020, n_ok: 1395)
+  sample 1396:    10831  (running sum:  14892851, n_ok: 1396)
+  sample 1397:    10883  (running sum:  14903734, n_ok: 1397)
+  sample 1398:    10433  (running sum:  14914167, n_ok: 1398)
+  sample 1399:    10257  (running sum:  14924424, n_ok: 1399)
+  sample 1400:     9842  (running sum:  14934266, n_ok: 1400)
+  sample 1401:    10165  (running sum:  14944431, n_ok: 1401)
+  sample 1402:    10062  (running sum:  14954493, n_ok: 1402)
+  sample 1403:    10527  (running sum:  14965020, n_ok: 1403)
+  sample 1404:    10831  (running sum:  14975851, n_ok: 1404)
+  sample 1405:    11006  (running sum:  14986857, n_ok: 1405)
+  sample 1406:    10870  (running sum:  14997727, n_ok: 1406)
+  sample 1407:    10926  (running sum:  15008653, n_ok: 1407)
+  sample 1408:    10959  (running sum:  15019612, n_ok: 1408)
+  sample 1409:    10922  (running sum:  15030534, n_ok: 1409)
+  sample 1410:    10996  (running sum:  15041530, n_ok: 1410)
+  sample 1411:    10829  (running sum:  15052359, n_ok: 1411)
+  sample 1412:    10880  (running sum:  15063239, n_ok: 1412)
+  sample 1413:    10818  (running sum:  15074057, n_ok: 1413)
+  sample 1414:    10636  (running sum:  15084693, n_ok: 1414)
+  sample 1415:    10896  (running sum:  15095589, n_ok: 1415)
+  sample 1416:    11672  (running sum:  15107261, n_ok: 1416)
+  sample 1417:    11618  (running sum:  15118879, n_ok: 1417)
+  sample 1418:    11431  (running sum:  15130310, n_ok: 1418)
+  sample 1419:    11437  (running sum:  15141747, n_ok: 1419)
+  sample 1420:    10722  (running sum:  15152469, n_ok: 1420)
+  sample 1421:    10767  (running sum:  15163236, n_ok: 1421)
+  sample 1422:    10483  (running sum:  15173719, n_ok: 1422)
+  sample 1423:    10329  (running sum:  15184048, n_ok: 1423)
+  sample 1424:    10370  (running sum:  15194418, n_ok: 1424)
+  sample 1425:    10336  (running sum:  15204754, n_ok: 1425)
+  sample 1426:    10273  (running sum:  15215027, n_ok: 1426)
+  sample 1427:    10329  (running sum:  15225356, n_ok: 1427)
+  sample 1428:    10256  (running sum:  15235612, n_ok: 1428)
+  sample 1429:    10334  (running sum:  15245946, n_ok: 1429)
+  sample 1430:    10247  (running sum:  15256193, n_ok: 1430)
+  sample 1431:    10439  (running sum:  15266632, n_ok: 1431)
+  sample 1432:     9994  (running sum:  15276626, n_ok: 1432)
+  sample 1433:     9420  (running sum:  15286046, n_ok: 1433)
+  sample 1434:     9439  (running sum:  15295485, n_ok: 1434)
+  sample 1435:     9644  (running sum:  15305129, n_ok: 1435)
+  sample 1436:     9708  (running sum:  15314837, n_ok: 1436)
+  sample 1437:    10288  (running sum:  15325125, n_ok: 1437)
+  sample 1438:    10601  (running sum:  15335726, n_ok: 1438)
+  sample 1439:    10496  (running sum:  15346222, n_ok: 1439)
+  sample 1440:    10589  (running sum:  15356811, n_ok: 1440)
+  sample 1441:    10636  (running sum:  15367447, n_ok: 1441)
+  sample 1442:    10661  (running sum:  15378108, n_ok: 1442)
+  sample 1443:    10775  (running sum:  15388883, n_ok: 1443)
+  sample 1444:    10709  (running sum:  15399592, n_ok: 1444)
+  sample 1445:    10818  (running sum:  15410410, n_ok: 1445)
+  sample 1446:    10615  (running sum:  15421025, n_ok: 1446)
+  sample 1447:    10810  (running sum:  15431835, n_ok: 1447)
+  sample 1448:    10831  (running sum:  15442666, n_ok: 1448)
+  sample 1449:    11045  (running sum:  15453711, n_ok: 1449)
+  sample 1450:    11840  (running sum:  15465551, n_ok: 1450)
+  sample 1451:    11671  (running sum:  15477222, n_ok: 1451)
+  sample 1452:    11602  (running sum:  15488824, n_ok: 1452)
+  sample 1453:    11350  (running sum:  15500174, n_ok: 1453)
+  sample 1454:    10855  (running sum:  15511029, n_ok: 1454)
+  sample 1455:    10695  (running sum:  15521724, n_ok: 1455)
+  sample 1456:    10632  (running sum:  15532356, n_ok: 1456)
+  sample 1457:    10663  (running sum:  15543019, n_ok: 1457)
+  sample 1458:    10570  (running sum:  15553589, n_ok: 1458)
+  sample 1459:    10676  (running sum:  15564265, n_ok: 1459)
+  sample 1460:    10424  (running sum:  15574689, n_ok: 1460)
+  sample 1461:    10632  (running sum:  15585321, n_ok: 1461)
+  sample 1462:    10570  (running sum:  15595891, n_ok: 1462)
+  sample 1463:    10500  (running sum:  15606391, n_ok: 1463)
+  sample 1464:    10531  (running sum:  15616922, n_ok: 1464)
+  sample 1465:    10340  (running sum:  15627262, n_ok: 1465)
+  sample 1466:     9902  (running sum:  15637164, n_ok: 1466)
+  sample 1467:     9634  (running sum:  15646798, n_ok: 1467)
+  sample 1468:     9863  (running sum:  15656661, n_ok: 1468)
+  sample 1469:    10013  (running sum:  15666674, n_ok: 1469)
+  sample 1470:    10528  (running sum:  15677202, n_ok: 1470)
+  sample 1471:    10765  (running sum:  15687967, n_ok: 1471)
+  sample 1472:    10802  (running sum:  15698769, n_ok: 1472)
+  sample 1473:    10869  (running sum:  15709638, n_ok: 1473)
+  sample 1474:    10954  (running sum:  15720592, n_ok: 1474)
+  sample 1475:    11044  (running sum:  15731636, n_ok: 1475)
+  sample 1476:    11034  (running sum:  15742670, n_ok: 1476)
+  sample 1477:    11095  (running sum:  15753765, n_ok: 1477)
+  sample 1478:    11219  (running sum:  15764984, n_ok: 1478)
+  sample 1479:    11224  (running sum:  15776208, n_ok: 1479)
+  sample 1480:    11210  (running sum:  15787418, n_ok: 1480)
+  sample 1481:    11063  (running sum:  15798481, n_ok: 1481)
+  sample 1482:    11343  (running sum:  15809824, n_ok: 1482)
+  sample 1483:    12155  (running sum:  15821979, n_ok: 1483)
+  sample 1484:    12091  (running sum:  15834070, n_ok: 1484)
+  sample 1485:    12025  (running sum:  15846095, n_ok: 1485)
+  sample 1486:    11895  (running sum:  15857990, n_ok: 1486)
+  sample 1487:    11266  (running sum:  15869256, n_ok: 1487)
+  sample 1488:    11248  (running sum:  15880504, n_ok: 1488)
+  sample 1489:    11048  (running sum:  15891552, n_ok: 1489)
+  sample 1490:    10917  (running sum:  15902469, n_ok: 1490)
+  sample 1491:    11003  (running sum:  15913472, n_ok: 1491)
+  sample 1492:    10919  (running sum:  15924391, n_ok: 1492)
+  sample 1493:    10911  (running sum:  15935302, n_ok: 1493)
+  sample 1494:    10835  (running sum:  15946137, n_ok: 1494)
+  sample 1495:    10869  (running sum:  15957006, n_ok: 1495)
+  sample 1496:    10830  (running sum:  15967836, n_ok: 1496)
+  sample 1497:    10900  (running sum:  15978736, n_ok: 1497)
+  sample 1498:    10874  (running sum:  15989610, n_ok: 1498)
+  sample 1499:    10389  (running sum:  15999999, n_ok: 1499)
+  sample 1500:     9851  (running sum:  16009850, n_ok: 1500)
+  sample 1501:     9969  (running sum:  16019819, n_ok: 1501)
+  sample 1502:    10057  (running sum:  16029876, n_ok: 1502)
+  sample 1503:    10041  (running sum:  16039917, n_ok: 1503)
+  sample 1504:    10666  (running sum:  16050583, n_ok: 1504)
+  sample 1505:    10888  (running sum:  16061471, n_ok: 1505)
+  sample 1506:    10900  (running sum:  16072371, n_ok: 1506)
+  sample 1507:    10883  (running sum:  16083254, n_ok: 1507)
+  sample 1508:    10801  (running sum:  16094055, n_ok: 1508)
+  sample 1509:    10894  (running sum:  16104949, n_ok: 1509)
+  sample 1510:    11101  (running sum:  16116050, n_ok: 1510)
+  sample 1511:    10986  (running sum:  16127036, n_ok: 1511)
+  sample 1512:    10991  (running sum:  16138027, n_ok: 1512)
+  sample 1513:    10805  (running sum:  16148832, n_ok: 1513)
+  sample 1514:    10831  (running sum:  16159663, n_ok: 1514)
+  sample 1515:    10935  (running sum:  16170598, n_ok: 1515)
+  sample 1516:    11338  (running sum:  16181936, n_ok: 1516)
+  sample 1517:    11918  (running sum:  16193854, n_ok: 1517)
+  sample 1518:    11525  (running sum:  16205379, n_ok: 1518)
+  sample 1519:    11500  (running sum:  16216879, n_ok: 1519)
+  sample 1520:    11228  (running sum:  16228107, n_ok: 1520)
+  sample 1521:    10840  (running sum:  16238947, n_ok: 1521)
+  sample 1522:    10789  (running sum:  16249736, n_ok: 1522)
+  sample 1523:    10650  (running sum:  16260386, n_ok: 1523)
+  sample 1524:    10587  (running sum:  16270973, n_ok: 1524)
+  sample 1525:    10482  (running sum:  16281455, n_ok: 1525)
+  sample 1526:    10461  (running sum:  16291916, n_ok: 1526)
+  sample 1527:    10258  (running sum:  16302174, n_ok: 1527)
+  sample 1528:    10385  (running sum:  16312559, n_ok: 1528)
+  sample 1529:    10371  (running sum:  16322930, n_ok: 1529)
+  sample 1530:    10286  (running sum:  16333216, n_ok: 1530)
+  sample 1531:    10441  (running sum:  16343657, n_ok: 1531)
+  sample 1532:    10043  (running sum:  16353700, n_ok: 1532)
+  sample 1533:     9461  (running sum:  16363161, n_ok: 1533)
+  sample 1534:     9279  (running sum:  16372440, n_ok: 1534)
+  sample 1535:     9475  (running sum:  16381915, n_ok: 1535)
+  sample 1536:     9581  (running sum:  16391496, n_ok: 1536)
+  sample 1537:    10038  (running sum:  16401534, n_ok: 1537)
+  sample 1538:    10424  (running sum:  16411958, n_ok: 1538)
+  sample 1539:    10516  (running sum:  16422474, n_ok: 1539)
+  sample 1540:    10474  (running sum:  16432948, n_ok: 1540)
+  sample 1541:    10629  (running sum:  16443577, n_ok: 1541)
+  sample 1542:    10459  (running sum:  16454036, n_ok: 1542)
+  sample 1543:    10519  (running sum:  16464555, n_ok: 1543)
+  sample 1544:    10516  (running sum:  16475071, n_ok: 1544)
+  sample 1545:    10499  (running sum:  16485570, n_ok: 1545)
+  sample 1546:    10486  (running sum:  16496056, n_ok: 1546)
+  sample 1547:    10510  (running sum:  16506566, n_ok: 1547)
+  sample 1548:    10550  (running sum:  16517116, n_ok: 1548)
+  sample 1549:    10747  (running sum:  16527863, n_ok: 1549)
+  sample 1550:    11636  (running sum:  16539499, n_ok: 1550)
+  sample 1551:    11567  (running sum:  16551066, n_ok: 1551)
+  sample 1552:    11400  (running sum:  16562466, n_ok: 1552)
+  sample 1553:    11254  (running sum:  16573720, n_ok: 1553)
+  sample 1554:    10634  (running sum:  16584354, n_ok: 1554)
+  sample 1555:    10561  (running sum:  16594915, n_ok: 1555)
+  sample 1556:    10327  (running sum:  16605242, n_ok: 1556)
+  sample 1557:    10236  (running sum:  16615478, n_ok: 1557)
+  sample 1558:    10184  (running sum:  16625662, n_ok: 1558)
+  sample 1559:    10352  (running sum:  16636014, n_ok: 1559)
+  sample 1560:    10336  (running sum:  16646350, n_ok: 1560)
+  sample 1561:    10415  (running sum:  16656765, n_ok: 1561)
+  sample 1562:    10297  (running sum:  16667062, n_ok: 1562)
+  sample 1563:    10401  (running sum:  16677463, n_ok: 1563)
+  sample 1564:    10222  (running sum:  16687685, n_ok: 1564)
+  sample 1565:    10291  (running sum:  16697976, n_ok: 1565)
+  sample 1566:     9740  (running sum:  16707716, n_ok: 1566)
+  sample 1567:     9279  (running sum:  16716995, n_ok: 1567)
+  sample 1568:     9346  (running sum:  16726341, n_ok: 1568)
+  sample 1569:     9451  (running sum:  16735792, n_ok: 1569)
+  sample 1570:     9672  (running sum:  16745464, n_ok: 1570)
+  sample 1571:    10230  (running sum:  16755694, n_ok: 1571)
+  sample 1572:    10532  (running sum:  16766226, n_ok: 1572)
+  sample 1573:    10538  (running sum:  16776764, n_ok: 1573)
+  sample 1574:    10576  (running sum:  16787340, n_ok: 1574)
+  sample 1575:    10620  (running sum:  16797960, n_ok: 1575)
+  sample 1576:    10524  (running sum:  16808484, n_ok: 1576)
+  sample 1577:    10622  (running sum:  16819106, n_ok: 1577)
+  sample 1578:    10715  (running sum:  16829821, n_ok: 1578)
+  sample 1579:    10869  (running sum:  16840690, n_ok: 1579)
+  sample 1580:    10743  (running sum:  16851433, n_ok: 1580)
+  sample 1581:    10911  (running sum:  16862344, n_ok: 1581)
+  sample 1582:    10937  (running sum:  16873281, n_ok: 1582)
+  sample 1583:    11450  (running sum:  16884731, n_ok: 1583)
+  sample 1584:    12108  (running sum:  16896839, n_ok: 1584)
+  sample 1585:    11751  (running sum:  16908590, n_ok: 1585)
+  sample 1586:    11698  (running sum:  16920288, n_ok: 1586)
+  sample 1587:    11255  (running sum:  16931543, n_ok: 1587)
+  sample 1588:    11141  (running sum:  16942684, n_ok: 1588)
+  sample 1589:    10880  (running sum:  16953564, n_ok: 1589)
+  sample 1590:    10795  (running sum:  16964359, n_ok: 1590)
+  sample 1591:    10935  (running sum:  16975294, n_ok: 1591)
+  sample 1592:    10950  (running sum:  16986244, n_ok: 1592)
+  sample 1593:    11088  (running sum:  16997332, n_ok: 1593)
+  sample 1594:    10885  (running sum:  17008217, n_ok: 1594)
+  sample 1595:    10894  (running sum:  17019111, n_ok: 1595)
+  sample 1596:    10858  (running sum:  17029969, n_ok: 1596)
+  sample 1597:    10837  (running sum:  17040806, n_ok: 1597)
+  sample 1598:    10870  (running sum:  17051676, n_ok: 1598)
+  sample 1599:    10338  (running sum:  17062014, n_ok: 1599)
+  sample 1600:     9946  (running sum:  17071960, n_ok: 1600)
+  sample 1601:     9762  (running sum:  17081722, n_ok: 1601)
+  sample 1602:    10003  (running sum:  17091725, n_ok: 1602)
+  sample 1603:     9986  (running sum:  17101711, n_ok: 1603)
+  sample 1604:    10499  (running sum:  17112210, n_ok: 1604)
+  sample 1605:    10815  (running sum:  17123025, n_ok: 1605)
+  sample 1606:    10852  (running sum:  17133877, n_ok: 1606)
+  sample 1607:    10892  (running sum:  17144769, n_ok: 1607)
+  sample 1608:    10951  (running sum:  17155720, n_ok: 1608)
+  sample 1609:    10790  (running sum:  17166510, n_ok: 1609)
+  sample 1610:    10833  (running sum:  17177343, n_ok: 1610)
+  sample 1611:    10697  (running sum:  17188040, n_ok: 1611)
+  sample 1612:    10821  (running sum:  17198861, n_ok: 1612)
+  sample 1613:    10679  (running sum:  17209540, n_ok: 1613)
+  sample 1614:    10792  (running sum:  17220332, n_ok: 1614)
+  sample 1615:    10843  (running sum:  17231175, n_ok: 1615)
+  sample 1616:    11082  (running sum:  17242257, n_ok: 1616)
+  sample 1617:    11994  (running sum:  17254251, n_ok: 1617)
+  sample 1618:    11844  (running sum:  17266095, n_ok: 1618)
+  sample 1619:    11708  (running sum:  17277803, n_ok: 1619)
+  sample 1620:    11513  (running sum:  17289316, n_ok: 1620)
+  sample 1621:    10865  (running sum:  17300181, n_ok: 1621)
+  sample 1622:    10831  (running sum:  17311012, n_ok: 1622)
+  sample 1623:    10689  (running sum:  17321701, n_ok: 1623)
+  sample 1624:    10558  (running sum:  17332259, n_ok: 1624)
+  sample 1625:    10581  (running sum:  17342840, n_ok: 1625)
+  sample 1626:    10582  (running sum:  17353422, n_ok: 1626)
+  sample 1627:    10547  (running sum:  17363969, n_ok: 1627)
+  sample 1628:    10571  (running sum:  17374540, n_ok: 1628)
+  sample 1629:    10643  (running sum:  17385183, n_ok: 1629)
+  sample 1630:    10648  (running sum:  17395831, n_ok: 1630)
+  sample 1631:    10591  (running sum:  17406422, n_ok: 1631)
+  sample 1632:    10359  (running sum:  17416781, n_ok: 1632)
+  sample 1633:     9686  (running sum:  17426467, n_ok: 1633)
+  sample 1634:     9307  (running sum:  17435774, n_ok: 1634)
+  sample 1635:     9437  (running sum:  17445211, n_ok: 1635)
+  sample 1636:     9579  (running sum:  17454790, n_ok: 1636)
+  sample 1637:     9810  (running sum:  17464600, n_ok: 1637)
+  sample 1638:    10263  (running sum:  17474863, n_ok: 1638)
+  sample 1639:    10505  (running sum:  17485368, n_ok: 1639)
+  sample 1640:    10499  (running sum:  17495867, n_ok: 1640)
+  sample 1641:    10564  (running sum:  17506431, n_ok: 1641)
+  sample 1642:    10513  (running sum:  17516944, n_ok: 1642)
+  sample 1643:    10448  (running sum:  17527392, n_ok: 1643)
+  sample 1644:    10658  (running sum:  17538050, n_ok: 1644)
+  sample 1645:    10392  (running sum:  17548442, n_ok: 1645)
+  sample 1646:    10422  (running sum:  17558864, n_ok: 1646)
+  sample 1647:    10360  (running sum:  17569224, n_ok: 1647)
+  sample 1648:    10545  (running sum:  17579769, n_ok: 1648)
+  sample 1649:    10671  (running sum:  17590440, n_ok: 1649)
+  sample 1650:    11169  (running sum:  17601609, n_ok: 1650)
+  sample 1651:    11652  (running sum:  17613261, n_ok: 1651)
+  sample 1652:    11415  (running sum:  17624676, n_ok: 1652)
+  sample 1653:    11296  (running sum:  17635972, n_ok: 1653)
+  sample 1654:    10855  (running sum:  17646827, n_ok: 1654)
+  sample 1655:    10658  (running sum:  17657485, n_ok: 1655)
+  sample 1656:    10448  (running sum:  17667933, n_ok: 1656)
+  sample 1657:    10310  (running sum:  17678243, n_ok: 1657)
+  sample 1658:    10453  (running sum:  17688696, n_ok: 1658)
+  sample 1659:    10413  (running sum:  17699109, n_ok: 1659)
+  sample 1660:    10336  (running sum:  17709445, n_ok: 1660)
+  sample 1661:    10415  (running sum:  17719860, n_ok: 1661)
+  sample 1662:    10397  (running sum:  17730257, n_ok: 1662)
+  sample 1663:    10436  (running sum:  17740693, n_ok: 1663)
+  sample 1664:    10418  (running sum:  17751111, n_ok: 1664)
+  sample 1665:    10392  (running sum:  17761503, n_ok: 1665)
+  sample 1666:     9990  (running sum:  17771493, n_ok: 1666)
+  sample 1667:     9644  (running sum:  17781137, n_ok: 1667)
+  sample 1668:     9678  (running sum:  17790815, n_ok: 1668)
+  sample 1669:     9827  (running sum:  17800642, n_ok: 1669)
+  sample 1670:     9718  (running sum:  17810360, n_ok: 1670)
+  sample 1671:    10430  (running sum:  17820790, n_ok: 1671)
+  sample 1672:    10670  (running sum:  17831460, n_ok: 1672)
+  sample 1673:    10857  (running sum:  17842317, n_ok: 1673)
+  sample 1674:    10815  (running sum:  17853132, n_ok: 1674)
+  sample 1675:    10860  (running sum:  17863992, n_ok: 1675)
+  sample 1676:    10843  (running sum:  17874835, n_ok: 1676)
+  sample 1677:    11077  (running sum:  17885912, n_ok: 1677)
+  sample 1678:    10999  (running sum:  17896911, n_ok: 1678)
+  sample 1679:    11050  (running sum:  17907961, n_ok: 1679)
+  sample 1680:    11071  (running sum:  17919032, n_ok: 1680)
+  sample 1681:    11006  (running sum:  17930038, n_ok: 1681)
+  sample 1682:    11053  (running sum:  17941091, n_ok: 1682)
+  sample 1683:    11290  (running sum:  17952381, n_ok: 1683)
+  sample 1684:    12234  (running sum:  17964615, n_ok: 1684)
+  sample 1685:    11992  (running sum:  17976607, n_ok: 1685)
+  sample 1686:    11932  (running sum:  17988539, n_ok: 1686)
+  sample 1687:    11812  (running sum:  18000351, n_ok: 1687)
+  sample 1688:    11183  (running sum:  18011534, n_ok: 1688)
+  sample 1689:    11161  (running sum:  18022695, n_ok: 1689)
+  sample 1690:    10894  (running sum:  18033589, n_ok: 1690)
+  sample 1691:    11034  (running sum:  18044623, n_ok: 1691)
+  sample 1692:    11032  (running sum:  18055655, n_ok: 1692)
+  sample 1693:    10898  (running sum:  18066553, n_ok: 1693)
+  sample 1694:    10831  (running sum:  18077384, n_ok: 1694)
+  sample 1695:    10941  (running sum:  18088325, n_ok: 1695)
+  sample 1696:    10905  (running sum:  18099230, n_ok: 1696)
+  sample 1697:    10926  (running sum:  18110156, n_ok: 1697)
+  sample 1698:    10883  (running sum:  18121039, n_ok: 1698)
+  sample 1699:    10875  (running sum:  18131914, n_ok: 1699)
+  sample 1700:    10395  (running sum:  18142309, n_ok: 1700)
+  sample 1701:     9985  (running sum:  18152294, n_ok: 1701)
+  sample 1702:    10109  (running sum:  18162403, n_ok: 1702)
+  sample 1703:    10099  (running sum:  18172502, n_ok: 1703)
+  sample 1704:    10406  (running sum:  18182908, n_ok: 1704)
+  sample 1705:    10929  (running sum:  18193837, n_ok: 1705)
+  sample 1706:    11021  (running sum:  18204858, n_ok: 1706)
+  sample 1707:    10990  (running sum:  18215848, n_ok: 1707)
+  sample 1708:    11013  (running sum:  18226861, n_ok: 1708)
+  sample 1709:    11051  (running sum:  18237912, n_ok: 1709)
+  sample 1710:    10975  (running sum:  18248887, n_ok: 1710)
+  sample 1711:    11123  (running sum:  18260010, n_ok: 1711)
+  sample 1712:    11044  (running sum:  18271054, n_ok: 1712)
+  sample 1713:    11052  (running sum:  18282106, n_ok: 1713)
+  sample 1714:    11122  (running sum:  18293228, n_ok: 1714)
+  sample 1715:    10940  (running sum:  18304168, n_ok: 1715)
+  sample 1716:    11064  (running sum:  18315232, n_ok: 1716)
+  sample 1717:    11770  (running sum:  18327002, n_ok: 1717)
+  sample 1718:    12100  (running sum:  18339102, n_ok: 1718)
+  sample 1719:    11870  (running sum:  18350972, n_ok: 1719)
+  sample 1720:    11765  (running sum:  18362737, n_ok: 1720)
+  sample 1721:    11264  (running sum:  18374001, n_ok: 1721)
+  sample 1722:    11161  (running sum:  18385162, n_ok: 1722)
+  sample 1723:    10889  (running sum:  18396051, n_ok: 1723)
+  sample 1724:    10764  (running sum:  18406815, n_ok: 1724)
+  sample 1725:    10838  (running sum:  18417653, n_ok: 1725)
+  sample 1726:    10841  (running sum:  18428494, n_ok: 1726)
+  sample 1727:    10747  (running sum:  18439241, n_ok: 1727)
+  sample 1728:    10714  (running sum:  18449955, n_ok: 1728)
+  sample 1729:    10724  (running sum:  18460679, n_ok: 1729)
+  sample 1730:    10777  (running sum:  18471456, n_ok: 1730)
+  sample 1731:    10595  (running sum:  18482051, n_ok: 1731)
+  sample 1732:    10585  (running sum:  18492636, n_ok: 1732)
+  sample 1733:    10193  (running sum:  18502829, n_ok: 1733)
+  sample 1734:     9679  (running sum:  18512508, n_ok: 1734)
+  sample 1735:     9677  (running sum:  18522185, n_ok: 1735)
+  sample 1736:     9839  (running sum:  18532024, n_ok: 1736)
+  sample 1737:     9858  (running sum:  18541882, n_ok: 1737)
+  sample 1738:    10419  (running sum:  18552301, n_ok: 1738)
+  sample 1739:    10669  (running sum:  18562970, n_ok: 1739)
+  sample 1740:    10582  (running sum:  18573552, n_ok: 1740)
+  sample 1741:    10513  (running sum:  18584065, n_ok: 1741)
+  sample 1742:    10504  (running sum:  18594569, n_ok: 1742)
+  sample 1743:    10470  (running sum:  18605039, n_ok: 1743)
+  sample 1744:    10601  (running sum:  18615640, n_ok: 1744)
+  sample 1745:    10545  (running sum:  18626185, n_ok: 1745)
+  sample 1746:    10589  (running sum:  18636774, n_ok: 1746)
+  sample 1747:    10405  (running sum:  18647179, n_ok: 1747)
+  sample 1748:    10577  (running sum:  18657756, n_ok: 1748)
+  sample 1749:    10491  (running sum:  18668247, n_ok: 1749)
+  sample 1750:    10727  (running sum:  18678974, n_ok: 1750)
+  sample 1751:    11611  (running sum:  18690585, n_ok: 1751)
+  sample 1752:    11221  (running sum:  18701806, n_ok: 1752)
+  sample 1753:    11161  (running sum:  18712967, n_ok: 1753)
+  sample 1754:    11025  (running sum:  18723992, n_ok: 1754)
+  sample 1755:    10580  (running sum:  18734572, n_ok: 1755)
+  sample 1756:    10404  (running sum:  18744976, n_ok: 1756)
+  sample 1757:    10120  (running sum:  18755096, n_ok: 1757)
+  sample 1758:    10165  (running sum:  18765261, n_ok: 1758)
+  sample 1759:    10360  (running sum:  18775621, n_ok: 1759)
+  sample 1760:    10404  (running sum:  18786025, n_ok: 1760)
+  sample 1761:    10277  (running sum:  18796302, n_ok: 1761)
+  sample 1762:    10262  (running sum:  18806564, n_ok: 1762)
+  sample 1763:    10190  (running sum:  18816754, n_ok: 1763)
+  sample 1764:    10275  (running sum:  18827029, n_ok: 1764)
+  sample 1765:    10326  (running sum:  18837355, n_ok: 1765)
+  sample 1766:    10246  (running sum:  18847601, n_ok: 1766)
+  sample 1767:     9773  (running sum:  18857374, n_ok: 1767)
+  sample 1768:     9378  (running sum:  18866752, n_ok: 1768)
+  sample 1769:     9593  (running sum:  18876345, n_ok: 1769)
+  sample 1770:     9723  (running sum:  18886068, n_ok: 1770)
+  sample 1771:    10030  (running sum:  18896098, n_ok: 1771)
+  sample 1772:    10430  (running sum:  18906528, n_ok: 1772)
+  sample 1773:    10627  (running sum:  18917155, n_ok: 1773)
+  sample 1774:    10638  (running sum:  18927793, n_ok: 1774)
+  sample 1775:    10688  (running sum:  18938481, n_ok: 1775)
+  sample 1776:    10700  (running sum:  18949181, n_ok: 1776)
+  sample 1777:    10707  (running sum:  18959888, n_ok: 1777)
+  sample 1778:    10677  (running sum:  18970565, n_ok: 1778)
+  sample 1779:    10705  (running sum:  18981270, n_ok: 1779)
+  sample 1780:    10749  (running sum:  18992019, n_ok: 1780)
+  sample 1781:    10690  (running sum:  19002709, n_ok: 1781)
+  sample 1782:    10705  (running sum:  19013414, n_ok: 1782)
+  sample 1783:    10919  (running sum:  19024333, n_ok: 1783)
+  sample 1784:    11615  (running sum:  19035948, n_ok: 1784)
+  sample 1785:    11849  (running sum:  19047797, n_ok: 1785)
+  sample 1786:    11563  (running sum:  19059360, n_ok: 1786)
+  sample 1787:    11421  (running sum:  19070781, n_ok: 1787)
+  sample 1788:    10898  (running sum:  19081679, n_ok: 1788)
+  sample 1789:    10968  (running sum:  19092647, n_ok: 1789)
+  sample 1790:    10615  (running sum:  19103262, n_ok: 1790)
+  sample 1791:    10510  (running sum:  19113772, n_ok: 1791)
+  sample 1792:    10555  (running sum:  19124327, n_ok: 1792)
+  sample 1793:    10533  (running sum:  19134860, n_ok: 1793)
+  sample 1794:    10504  (running sum:  19145364, n_ok: 1794)
+  sample 1795:    10597  (running sum:  19155961, n_ok: 1795)
+  sample 1796:    10545  (running sum:  19166506, n_ok: 1796)
+  sample 1797:    10508  (running sum:  19177014, n_ok: 1797)
+  sample 1798:    10555  (running sum:  19187569, n_ok: 1798)
+  sample 1799:    10548  (running sum:  19198117, n_ok: 1799)
+  sample 1800:     9994  (running sum:  19208111, n_ok: 1800)
+  sample 1801:     9494  (running sum:  19217605, n_ok: 1801)
+  sample 1802:     9537  (running sum:  19227142, n_ok: 1802)
+  sample 1803:     9772  (running sum:  19236914, n_ok: 1803)
+  sample 1804:     9847  (running sum:  19246761, n_ok: 1804)
+  sample 1805:    10541  (running sum:  19257302, n_ok: 1805)
+  sample 1806:    10747  (running sum:  19268049, n_ok: 1806)
+  sample 1807:    10806  (running sum:  19278855, n_ok: 1807)
+  sample 1808:    10787  (running sum:  19289642, n_ok: 1808)
+  sample 1809:    10938  (running sum:  19300580, n_ok: 1809)
+  sample 1810:    10787  (running sum:  19311367, n_ok: 1810)
+  sample 1811:    10974  (running sum:  19322341, n_ok: 1811)
+  sample 1812:    10911  (running sum:  19333252, n_ok: 1812)
+  sample 1813:    11056  (running sum:  19344308, n_ok: 1813)
+  sample 1814:    11069  (running sum:  19355377, n_ok: 1814)
+  sample 1815:    11190  (running sum:  19366567, n_ok: 1815)
+  sample 1816:    11082  (running sum:  19377649, n_ok: 1816)
+  sample 1817:    11492  (running sum:  19389141, n_ok: 1817)
+  sample 1818:    12122  (running sum:  19401263, n_ok: 1818)
+  sample 1819:    12104  (running sum:  19413367, n_ok: 1819)
+  sample 1820:    11727  (running sum:  19425094, n_ok: 1820)
+  sample 1821:    11534  (running sum:  19436628, n_ok: 1821)
+  sample 1822:    11093  (running sum:  19447721, n_ok: 1822)
+  sample 1823:    10868  (running sum:  19458589, n_ok: 1823)
+  sample 1824:    10838  (running sum:  19469427, n_ok: 1824)
+  sample 1825:    10854  (running sum:  19480281, n_ok: 1825)
+  sample 1826:    10921  (running sum:  19491202, n_ok: 1826)
+  sample 1827:    10987  (running sum:  19502189, n_ok: 1827)
+  sample 1828:    10807  (running sum:  19512996, n_ok: 1828)
+  sample 1829:    10769  (running sum:  19523765, n_ok: 1829)
+  sample 1830:    10692  (running sum:  19534457, n_ok: 1830)
+  sample 1831:    10747  (running sum:  19545204, n_ok: 1831)
+  sample 1832:    10537  (running sum:  19555741, n_ok: 1832)
+  sample 1833:    10353  (running sum:  19566094, n_ok: 1833)
+  sample 1834:     9882  (running sum:  19575976, n_ok: 1834)
+  sample 1835:     9511  (running sum:  19585487, n_ok: 1835)
+  sample 1836:     9715  (running sum:  19595202, n_ok: 1836)
+  sample 1837:     9753  (running sum:  19604955, n_ok: 1837)
+  sample 1838:    10186  (running sum:  19615141, n_ok: 1838)
+  sample 1839:    10601  (running sum:  19625742, n_ok: 1839)
+  sample 1840:    10630  (running sum:  19636372, n_ok: 1840)
+  sample 1841:    10616  (running sum:  19646988, n_ok: 1841)
+  sample 1842:    10635  (running sum:  19657623, n_ok: 1842)
+  sample 1843:    10651  (running sum:  19668274, n_ok: 1843)
+  sample 1844:    10632  (running sum:  19678906, n_ok: 1844)
+  sample 1845:    10584  (running sum:  19689490, n_ok: 1845)
+  sample 1846:    10534  (running sum:  19700024, n_ok: 1846)
+  sample 1847:    10523  (running sum:  19710547, n_ok: 1847)
+  sample 1848:    10566  (running sum:  19721113, n_ok: 1848)
+  sample 1849:    10573  (running sum:  19731686, n_ok: 1849)
+  sample 1850:    10782  (running sum:  19742468, n_ok: 1850)
+  sample 1851:    11514  (running sum:  19753982, n_ok: 1851)
+  sample 1852:    11503  (running sum:  19765485, n_ok: 1852)
+  sample 1853:    11400  (running sum:  19776885, n_ok: 1853)
+  sample 1854:    11384  (running sum:  19788269, n_ok: 1854)
+  sample 1855:    10634  (running sum:  19798903, n_ok: 1855)
+  sample 1856:    10638  (running sum:  19809541, n_ok: 1856)
+  sample 1857:    10459  (running sum:  19820000, n_ok: 1857)
+  sample 1858:    10407  (running sum:  19830407, n_ok: 1858)
+  sample 1859:    10321  (running sum:  19840728, n_ok: 1859)
+  sample 1860:    10289  (running sum:  19851017, n_ok: 1860)
+  sample 1861:    10213  (running sum:  19861230, n_ok: 1861)
+  sample 1862:    10248  (running sum:  19871478, n_ok: 1862)
+  sample 1863:    10241  (running sum:  19881719, n_ok: 1863)
+  sample 1864:    10148  (running sum:  19891867, n_ok: 1864)
+  sample 1865:    10248  (running sum:  19902115, n_ok: 1865)
+  sample 1866:    10385  (running sum:  19912500, n_ok: 1866)
+  sample 1867:     9691  (running sum:  19922191, n_ok: 1867)
+  sample 1868:     9409  (running sum:  19931600, n_ok: 1868)
+  sample 1869:     9446  (running sum:  19941046, n_ok: 1869)
+  sample 1870:     9502  (running sum:  19950548, n_ok: 1870)
+  sample 1871:     9636  (running sum:  19960184, n_ok: 1871)
+  sample 1872:    10136  (running sum:  19970320, n_ok: 1872)
+  sample 1873:    10517  (running sum:  19980837, n_ok: 1873)
+  sample 1874:    10539  (running sum:  19991376, n_ok: 1874)
+  sample 1875:    10484  (running sum:  20001860, n_ok: 1875)
+  sample 1876:    10622  (running sum:  20012482, n_ok: 1876)
+  sample 1877:    10682  (running sum:  20023164, n_ok: 1877)
+  sample 1878:    10746  (running sum:  20033910, n_ok: 1878)
+  sample 1879:    10738  (running sum:  20044648, n_ok: 1879)
+  sample 1880:    10768  (running sum:  20055416, n_ok: 1880)
+  sample 1881:    10742  (running sum:  20066158, n_ok: 1881)
+  sample 1882:    10773  (running sum:  20076931, n_ok: 1882)
+  sample 1883:    10890  (running sum:  20087821, n_ok: 1883)
+  sample 1884:    11138  (running sum:  20098959, n_ok: 1884)
+  sample 1885:    11865  (running sum:  20110824, n_ok: 1885)
+  sample 1886:    11591  (running sum:  20122415, n_ok: 1886)
+  sample 1887:    11511  (running sum:  20133926, n_ok: 1887)
+  sample 1888:    11260  (running sum:  20145186, n_ok: 1888)
+  sample 1889:    10902  (running sum:  20156088, n_ok: 1889)
+  sample 1890:    10830  (running sum:  20166918, n_ok: 1890)
+  sample 1891:    10945  (running sum:  20177863, n_ok: 1891)
+  sample 1892:    10796  (running sum:  20188659, n_ok: 1892)
+  sample 1893:    10823  (running sum:  20199482, n_ok: 1893)
+  sample 1894:    10853  (running sum:  20210335, n_ok: 1894)
+  sample 1895:    10696  (running sum:  20221031, n_ok: 1895)
+  sample 1896:    10682  (running sum:  20231713, n_ok: 1896)
+  sample 1897:    10621  (running sum:  20242334, n_ok: 1897)
+  sample 1898:    10758  (running sum:  20253092, n_ok: 1898)
+  sample 1899:    10691  (running sum:  20263783, n_ok: 1899)
+  sample 1900:    10502  (running sum:  20274285, n_ok: 1900)
+  sample 1901:    10200  (running sum:  20284485, n_ok: 1901)
+  sample 1902:     9820  (running sum:  20294305, n_ok: 1902)
+  sample 1903:    10093  (running sum:  20304398, n_ok: 1903)
+  sample 1904:    10131  (running sum:  20314529, n_ok: 1904)
+  sample 1905:    10722  (running sum:  20325251, n_ok: 1905)
+  sample 1906:    11009  (running sum:  20336260, n_ok: 1906)
+  sample 1907:    11113  (running sum:  20347373, n_ok: 1907)
+  sample 1908:    11100  (running sum:  20358473, n_ok: 1908)
+  sample 1909:    11048  (running sum:  20369521, n_ok: 1909)
+  sample 1910:    11152  (running sum:  20380673, n_ok: 1910)
+  sample 1911:    11132  (running sum:  20391805, n_ok: 1911)
+  sample 1912:    11318  (running sum:  20403123, n_ok: 1912)
+  sample 1913:    11332  (running sum:  20414455, n_ok: 1913)
+  sample 1914:    11345  (running sum:  20425800, n_ok: 1914)
+  sample 1915:    11361  (running sum:  20437161, n_ok: 1915)
+  sample 1916:    11333  (running sum:  20448494, n_ok: 1916)
+  sample 1917:    11462  (running sum:  20459956, n_ok: 1917)
+  sample 1918:    12238  (running sum:  20472194, n_ok: 1918)
+  sample 1919:    12135  (running sum:  20484329, n_ok: 1919)
+  sample 1920:    12022  (running sum:  20496351, n_ok: 1920)
+  sample 1921:    11897  (running sum:  20508248, n_ok: 1921)
+  sample 1922:    11341  (running sum:  20519589, n_ok: 1922)
+  sample 1923:    11259  (running sum:  20530848, n_ok: 1923)
+  sample 1924:    11170  (running sum:  20542018, n_ok: 1924)
+  sample 1925:    10928  (running sum:  20552946, n_ok: 1925)
+  sample 1926:    11018  (running sum:  20563964, n_ok: 1926)
+  sample 1927:    10997  (running sum:  20574961, n_ok: 1927)
+  sample 1928:    10894  (running sum:  20585855, n_ok: 1928)
+  sample 1929:    10747  (running sum:  20596602, n_ok: 1929)
+  sample 1930:    10613  (running sum:  20607215, n_ok: 1930)
+  sample 1931:    10668  (running sum:  20617883, n_ok: 1931)
+  sample 1932:    10706  (running sum:  20628589, n_ok: 1932)
+  sample 1933:    10617  (running sum:  20639206, n_ok: 1933)
+  sample 1934:    10202  (running sum:  20649408, n_ok: 1934)
+  sample 1935:     9665  (running sum:  20659073, n_ok: 1935)
+  sample 1936:     9775  (running sum:  20668848, n_ok: 1936)
+  sample 1937:     9897  (running sum:  20678745, n_ok: 1937)
+  sample 1938:     9991  (running sum:  20688736, n_ok: 1938)
+  sample 1939:    10477  (running sum:  20699213, n_ok: 1939)
+  sample 1940:    10658  (running sum:  20709871, n_ok: 1940)
+  sample 1941:    10621  (running sum:  20720492, n_ok: 1941)
+  sample 1942:    10554  (running sum:  20731046, n_ok: 1942)
+  sample 1943:    10614  (running sum:  20741660, n_ok: 1943)
+  sample 1944:    10650  (running sum:  20752310, n_ok: 1944)
+  sample 1945:    10734  (running sum:  20763044, n_ok: 1945)
+  sample 1946:    10688  (running sum:  20773732, n_ok: 1946)
+  sample 1947:    10706  (running sum:  20784438, n_ok: 1947)
+  sample 1948:    10696  (running sum:  20795134, n_ok: 1948)
+  sample 1949:    10625  (running sum:  20805759, n_ok: 1949)
+  sample 1950:    10707  (running sum:  20816466, n_ok: 1950)
+  sample 1951:    11140  (running sum:  20827606, n_ok: 1951)
+  sample 1952:    11770  (running sum:  20839376, n_ok: 1952)
+  sample 1953:    11514  (running sum:  20850890, n_ok: 1953)
+  sample 1954:    11394  (running sum:  20862284, n_ok: 1954)
+  sample 1955:    11145  (running sum:  20873429, n_ok: 1955)
+  sample 1956:    10845  (running sum:  20884274, n_ok: 1956)
+  sample 1957:    10584  (running sum:  20894858, n_ok: 1957)
+  sample 1958:    10485  (running sum:  20905343, n_ok: 1958)
+  sample 1959:    10494  (running sum:  20915837, n_ok: 1959)
+  sample 1960:    10464  (running sum:  20926301, n_ok: 1960)
+  sample 1961:    10486  (running sum:  20936787, n_ok: 1961)
+  sample 1962:    10491  (running sum:  20947278, n_ok: 1962)
+  sample 1963:    10416  (running sum:  20957694, n_ok: 1963)
+  sample 1964:    10452  (running sum:  20968146, n_ok: 1964)
+  sample 1965:    10454  (running sum:  20978600, n_ok: 1965)
+  sample 1966:    10529  (running sum:  20989129, n_ok: 1966)
+  sample 1967:    10054  (running sum:  20999183, n_ok: 1967)
+  sample 1968:     9618  (running sum:  21008801, n_ok: 1968)
+  sample 1969:     9356  (running sum:  21018157, n_ok: 1969)
+  sample 1970:     9573  (running sum:  21027730, n_ok: 1970)
+  sample 1971:     9613  (running sum:  21037343, n_ok: 1971)
+  sample 1972:    10185  (running sum:  21047528, n_ok: 1972)
+  sample 1973:    10461  (running sum:  21057989, n_ok: 1973)
+  sample 1974:    10572  (running sum:  21068561, n_ok: 1974)
+  sample 1975:    10642  (running sum:  21079203, n_ok: 1975)
+  sample 1976:    10645  (running sum:  21089848, n_ok: 1976)
+  sample 1977:    10616  (running sum:  21100464, n_ok: 1977)
+  sample 1978:    10716  (running sum:  21111180, n_ok: 1978)
+  sample 1979:    10740  (running sum:  21121920, n_ok: 1979)
+  sample 1980:    10669  (running sum:  21132589, n_ok: 1980)
+  sample 1981:    10702  (running sum:  21143291, n_ok: 1981)
+  sample 1982:    10690  (running sum:  21153981, n_ok: 1982)
+  sample 1983:    10656  (running sum:  21164637, n_ok: 1983)
+  sample 1984:    10859  (running sum:  21175496, n_ok: 1984)
+  sample 1985:    11650  (running sum:  21187146, n_ok: 1985)
+  sample 1986:    11490  (running sum:  21198636, n_ok: 1986)
+  sample 1987:    11491  (running sum:  21210127, n_ok: 1987)
+  sample 1988:    11394  (running sum:  21221521, n_ok: 1988)
+  sample 1989:    10791  (running sum:  21232312, n_ok: 1989)
+  sample 1990:    10873  (running sum:  21243185, n_ok: 1990)
+  sample 1991:    10666  (running sum:  21253851, n_ok: 1991)
+  sample 1992:    10634  (running sum:  21264485, n_ok: 1992)
+  sample 1993:    10560  (running sum:  21275045, n_ok: 1993)
+  sample 1994:    10622  (running sum:  21285667, n_ok: 1994)
+  sample 1995:    10445  (running sum:  21296112, n_ok: 1995)
+  sample 1996:    10414  (running sum:  21306526, n_ok: 1996)
+  sample 1997:    10548  (running sum:  21317074, n_ok: 1997)
+  sample 1998:    10604  (running sum:  21327678, n_ok: 1998)
+  sample 1999:    10675  (running sum:  21338353, n_ok: 1999)
+  sample 2000:    10741  (running sum:  21349094, n_ok: 2000)
+Boot tare = sum / n_ok = 21349094 / 2000 = 10674 raw counts
+WiFi connecting.... connected
+WiFi IP: 192.168.4.101
+Initializing micro-ROS...
+Pinging agent at 192.168.4.100:8888 ...
+Waiting for micro-ROS agent Agent found after 0 pings!
+Node created
+Loadcell publisher created on topic: loadcell_data
+Tare command subscriber created on topic: loadcell_tare_command
+Time synced with agent
+micro-ROS connected
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Tare command received - applying rolling tare...
+Rolling tare = sum / count = 22078759 / 2000 = 11039 raw counts (buffer full)
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Tare command received - applying rolling tare...
+Rolling tare = sum / count = 22212424 / 2000 = 11106 raw counts (buffer full)
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x32A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x32A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Tare command received - applying rolling tare...
+Rolling tare = sum / count = 22345242 / 2000 = 11172 raw counts (buffer full)
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x32A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x32A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3
+Periodic register check (current contents, not a rewrite):
+  CTRL1 = 0x40
+  CTRL2 = 0x0F
+  CTRL5 = 0x0F
+  STAT  = 0x30A3

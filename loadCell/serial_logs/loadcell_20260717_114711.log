@@ -1,0 +1,6 @@
+ead back 0x0F OK
+Load cell tare: 8910 raw counts (from 10/10 samples)
+WiFi connecting.................................. TIMEOUT!
+ failed - continuing anyway
+Initializing micro-ROS...
+E (23972) wifi:sta is connecting, cannot set config
